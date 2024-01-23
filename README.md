@@ -9,6 +9,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+## Find me on...
+
+![](https://github.com/colin-gourlay/social-icons/blob/master/SVG/Color/LinkedIN.svg)
+
+
+
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=colin-gourlay&show_icons=true&theme=synthwave&hide_border=true)
