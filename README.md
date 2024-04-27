@@ -10,7 +10,7 @@
 
 ---
 
-# Exploring, Innovating, Sharing: Colin Gourlay's GitHub Playground
+# Exploring, Innovating, Sharing: Colin Gourlay's Sandpit
 
 ---
 
