@@ -80,9 +80,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-_Activity data temporarily unavailable._
+- 🔨 **Pushed** to [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) `21 Mar 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Auto update the README_ `21 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Auto update the README_ `21 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Share your results_ `21 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Improve your showcased projects_ `21 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Showcase your best projects_ `21 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Create a profile README_ `21 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Create a professional bio_ `21 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Feature: Weekly Commitment Reset System (Todoist Template + Filters + Wo_ `21 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Template spotlight_ `21 Mar 2026`
 
-<sub>Last updated: 21 March 2026 at 14:05 UTC</sub>
+<sub>Last updated: 21 March 2026 at 14:13 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -90,9 +99,15 @@ _Activity data temporarily unavailable._
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-_Repository data temporarily unavailable._
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A productivity playbook for Todoist - reusable templates, weekly review workflows, and automation patterns for power users.
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — 🌎 The Sundown Sessions website.  `HTML`
+- [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
+- [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
+- [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
+- [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
+- [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 21 March 2026 at 14:05 UTC</sub>
+<sub>Last updated: 21 March 2026 at 14:13 UTC</sub>
 <!-- REPOS_END -->
 
 ---
