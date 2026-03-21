@@ -1,20 +1,104 @@
-[//]: # (- 🔭 I’m currently working on ...)
-[//]: # (- 🌱 I’m currently learning ...)
-[//]: # (- 👯 I’m looking to collaborate on ...)
-[//]: # (- 🤔 I’m looking for help with ...)
-[//]: # (- 💬 Ask me about ...)
-[//]: # (- ⚡ Fun fact: ...)
-[//]: # (## GitHub Stats)
-[//]: # (![]&#40;https://github-readme-stats.vercel.app/api?username=colin-gourlay&show_icons=true&theme=synthwave&hide_border=true&#41;)
-[//]: # (![]&#40;https://github-readme-streak-stats.herokuapp.com/?user=colin-gourlay&theme=merko&hide_border=true&show_icons=true&#41;)
+<div align="center">
+
+# Colin Gourlay
+
+**Software Engineer · Self-Hosting Advocate · Music Obsessive**
+
+_Building purposeful software — clean architectures, developer tooling, and the occasional vanity project._
+
+[![GitHub followers](https://img.shields.io/github/followers/colin-gourlay?label=Follow&style=social)](https://github.com/colin-gourlay)
+[![Profile views](https://komarev.com/ghpvc/?username=colin-gourlay&color=blueviolet&style=flat-square)](https://github.com/colin-gourlay)
+
+</div>
 
 ---
 
-# Exploring, Innovating, Sharing: Colin Gourlay's Sandpit
+## About
+
+I'm a software engineer with a fondness for clean architecture, strong opinions about tooling, and an embarrassingly deep interest in music.
+
+By day I design and build .NET systems with a focus on clean architecture, proper testing, and CI/CD that actually works. By night I run self-hosted infrastructure, build Obsidian plugins, and over-engineer my music library. When I'm away from the keyboard you'll find me training for a triathlon or hunting down a record.
 
 ---
 
-## ⭐ Starred Repositories
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Frameworks** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white) |
+| **Patterns** | Clean Architecture · Mediator · Result Pattern · Vertical Slice |
+| **Infra & Tooling** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Dev Containers](https://img.shields.io/badge/Dev_Containers-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Daily Drivers** | ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white) |
+
+---
+
+## 🚀 Selected Work
+
+### [Sundown Sessions](https://github.com/colin-gourlay/sundown-sessions)
+
+An eclectic radio station built on Hugo with a bespoke .NET 10 content operations pipeline. The pipeline handles album intake, Spotify and Lidarr integration, and automated publishing — all packaged as a self-contained binary with a GHCR-published Docker image.
+
+**Tech:** .NET 10 · Clean Architecture · Mediator · ErrorOr · Docker · GitHub Actions · Hugo
+
+---
+
+### [Obsidian CookLang Plugin](https://github.com/colin-gourlay/obsidian-cooklang-plugin)
+
+A TypeScript plugin for [Obsidian](https://obsidian.md) that brings [CookLang](https://cooklang.org/) recipe management into your knowledge base. Render, browse, and manage structured recipes alongside your notes.
+
+**Tech:** TypeScript · Obsidian API
+
+---
+
+### [Strava Samples](https://github.com/colin-gourlay/stravasamples)
+
+Sample project demonstrating fitness data integration with the Strava API via Strava.NET — a useful reference for anyone building health and activity tracking applications.
+
+**Tech:** C# · .NET · Strava API
+
+---
+
+### [Todoist Playbook](https://github.com/colin-gourlay/todoist-playbook)
+
+A structured, opinionated productivity system: reusable Todoist templates, weekly review workflows, and automation patterns for power users who want repeatability without the overhead.
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=colin-gourlay&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colin-gourlay&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+<!-- ACTIVITY_START -->
+## 📡 Recent Activity
+
+_Activity data temporarily unavailable._
+
+<sub>Last updated: 21 March 2026 at 14:05 UTC</sub>
+<!-- ACTIVITY_END -->
+
+---
+
+<!-- REPOS_START -->
+## 🗂️ Repositories
+
+_Repository data temporarily unavailable._
+
+<sub>Last updated: 21 March 2026 at 14:05 UTC</sub>
+<!-- REPOS_END -->
+
+---
+
+<details>
+<summary>⭐ Starred Repositories</summary>
 
 ### 🤖 AI & GitHub Copilot
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) – Community-contributed instructions, agents, skills, and configurations for GitHub Copilot
@@ -255,4 +339,10 @@
 - [The-Monkeys-and-MAUD/Scrummo-Burn-Up-Charts-App](https://github.com/The-Monkeys-and-MAUD/Scrummo-Burn-Up-Charts-App) – Burn-up charts app to accompany Scrummo
 - [ShareProgress/BookmarkletCreation](https://github.com/ShareProgress/BookmarkletCreation) – How to use the ShareProgress Bookmarklet Generator to create custom bookmarklets
 
+</details>
 
+---
+
+<div align="center">
+<sub>✨ The <em>Recent Activity</em> and <em>Repositories</em> sections above are refreshed daily via <a href=".github/workflows/update-readme.yml">GitHub Actions</a></sub>
+</div>
