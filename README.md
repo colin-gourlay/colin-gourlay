@@ -80,18 +80,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) `22 Mar 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review repo_ `22 Mar 2026`
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `22 Mar 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Template spotlight_ `22 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Share your results_ `21 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) `21 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Auto update the README_ `21 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Auto update the README_ `21 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Share your results_ `21 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Improve your showcased projects_ `21 Mar 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Showcase your best projects_ `21 Mar 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Create a profile README_ `21 Mar 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Create a professional bio_ `21 Mar 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Feature: Weekly Commitment Reset System (Todoist Template + Filters + Wo_ `21 Mar 2026`
 
-<sub>Last updated: 22 March 2026 at 07:20 UTC</sub>
+<sub>Last updated: 22 March 2026 at 07:59 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -107,7 +107,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 22 March 2026 at 07:20 UTC</sub>
+<sub>Last updated: 22 March 2026 at 07:59 UTC</sub>
 <!-- REPOS_END -->
 
 ---
