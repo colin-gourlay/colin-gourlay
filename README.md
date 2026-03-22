@@ -6,9 +6,6 @@
 
 _Building purposeful software — clean architectures, developer tooling, and the occasional vanity project._
 
-[![GitHub followers](https://img.shields.io/github/followers/colin-gourlay?label=Follow&style=social)](https://github.com/colin-gourlay)
-[![Profile views](https://komarev.com/ghpvc/?username=colin-gourlay&color=blueviolet&style=flat-square)](https://github.com/colin-gourlay)
-
 </div>
 
 ---
