@@ -6,9 +6,9 @@
 
 _Building purposeful software — clean architectures, developer tooling, and the occasional vanity project._
 
-</div>
-
 ---
+
+</div>
 
 ## About
 
