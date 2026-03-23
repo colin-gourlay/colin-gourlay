@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Template spotlight_ `22 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Share your results_ `21 Mar 2026`
 
-<sub>Last updated: 23 March 2026 at 04:48 UTC</sub>
+<sub>Last updated: 23 March 2026 at 05:35 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 23 March 2026 at 04:48 UTC</sub>
+<sub>Last updated: 23 March 2026 at 05:35 UTC</sub>
 <!-- REPOS_END -->
 
 ---
