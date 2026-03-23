@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🔀 **Opened PR** in [`colin-gourlay/skills-deploy-to-azure`](https://github.com/colin-gourlay/skills-deploy-to-azure) — __ `23 Mar 2026`
-- 🔨 **Pushed** to [`colin-gourlay/skills-deploy-to-azure`](https://github.com/colin-gourlay/skills-deploy-to-azure) `23 Mar 2026`
-- 🌿 **Created branch** `staging-test` in [`colin-gourlay/skills-deploy-to-azure`](https://github.com/colin-gourlay/skills-deploy-to-azure) `23 Mar 2026`
-- 🌿 **Created branch** `azure-configuration` in [`colin-gourlay/skills-deploy-to-azure`](https://github.com/colin-gourlay/skills-deploy-to-azure) `23 Mar 2026`
-- 🌿 **Created branch** `staging-workflow` in [`colin-gourlay/skills-deploy-to-azure`](https://github.com/colin-gourlay/skills-deploy-to-azure) `23 Mar 2026`
-- 🌿 **Created branch** `main` in [`colin-gourlay/skills-deploy-to-azure`](https://github.com/colin-gourlay/skills-deploy-to-azure) `23 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Turn visibility work into concrete repository improvements_ `23 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Configure roadmap views and working conventions for the project board_ `23 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Set up repository discussions structure and pinned anchor threads_ `23 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `23 Mar 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `23 Mar 2026`
 - 🌿 **Created branch** `chore/weekly-review-duration-adjustments` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `23 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `23 Mar 2026`
+- 🌿 **Created branch** `chore/reusable-workflows` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `22 Mar 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/github-actions`](https://github.com/colin-gourlay/github-actions) — _Introduce Reusable GitHub Actions Workflows for Standardised CI/CD_ `22 Mar 2026`
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `22 Mar 2026`
 
-<sub>Last updated: 23 March 2026 at 18:20 UTC</sub>
+<sub>Last updated: 23 March 2026 at 19:21 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,7 +96,6 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**skills-deploy-to-azure**](https://github.com/colin-gourlay/skills-deploy-to-azure) — My clone repository  `JavaScript`
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A productivity playbook for Todoist - reusable templates, weekly review workflows, and automation patterns for power users.
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — 🌎 The Sundown Sessions website.  `HTML`
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -104,8 +103,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
+- [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 23 March 2026 at 18:20 UTC</sub>
+<sub>Last updated: 23 March 2026 at 19:21 UTC</sub>
 <!-- REPOS_END -->
 
 ---
