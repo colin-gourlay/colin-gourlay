@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `feat/split-weekly-review-into-close-and-plan` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `24 Mar 2026`
 
-<sub>Last updated: 25 March 2026 at 13:34 UTC</sub>
+<sub>Last updated: 25 March 2026 at 14:30 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 25 March 2026 at 13:34 UTC</sub>
+<sub>Last updated: 25 March 2026 at 14:30 UTC</sub>
 <!-- REPOS_END -->
 
 ---
