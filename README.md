@@ -77,6 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `25 Mar 2026`
+- 🌿 **Created branch** `feat/repo-ecosystem-watch-checklist` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Mar 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `24 Mar 2026`
@@ -84,11 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `24 Mar 2026`
 - 🌿 **Created branch** `chore/set-template-meta-versions-0.0.0` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `23 Mar 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `23 Mar 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Spin up new GiHub repo_ `23 Mar 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Improve README first-impression and add a Start Here path_ `23 Mar 2026`
 
-<sub>Last updated: 25 March 2026 at 06:27 UTC</sub>
+<sub>Last updated: 25 March 2026 at 07:25 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 25 March 2026 at 06:27 UTC</sub>
+<sub>Last updated: 25 March 2026 at 07:25 UTC</sub>
 <!-- REPOS_END -->
 
 ---
