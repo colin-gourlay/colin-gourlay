@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `chore/set-template-meta-versions-0.0.0` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `23 Mar 2026`
 
-<sub>Last updated: 25 March 2026 at 08:18 UTC</sub>
+<sub>Last updated: 25 March 2026 at 09:21 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 25 March 2026 at 08:18 UTC</sub>
+<sub>Last updated: 25 March 2026 at 09:21 UTC</sub>
 <!-- REPOS_END -->
 
 ---
