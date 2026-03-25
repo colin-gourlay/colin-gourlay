@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Apply the 3 repo rule_ `25 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `25 Mar 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `25 Mar 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Mar 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `24 Mar 2026`
 - 🌿 **Created branch** `feat/split-weekly-review-into-close-and-plan` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 Mar 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `24 Mar 2026`
 
-<sub>Last updated: 25 March 2026 at 16:30 UTC</sub>
+<sub>Last updated: 25 March 2026 at 17:25 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 25 March 2026 at 16:30 UTC</sub>
+<sub>Last updated: 25 March 2026 at 17:25 UTC</sub>
 <!-- REPOS_END -->
 
 ---
