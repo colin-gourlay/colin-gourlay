@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Add exam badges on my GitHub profile_ `26 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `26 Mar 2026`
 - 🌿 **Created branch** `feat/github-packages-publishing` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `colin-gourlay/issue65` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Apply the 3 repo rule_ `25 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `25 Mar 2026`
 
-<sub>Last updated: 26 March 2026 at 19:27 UTC</sub>
+<sub>Last updated: 26 March 2026 at 20:12 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 26 March 2026 at 19:27 UTC</sub>
+<sub>Last updated: 26 March 2026 at 20:12 UTC</sub>
 <!-- REPOS_END -->
 
 ---
