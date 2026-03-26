@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Leverage GitHub Actions to publish to GitHub Packages_ `26 Mar 2026`
+- 🚀 **Released** `v1.0.0` in [`colin-gourlay/skills-publish-docker-images`](https://github.com/colin-gourlay/skills-publish-docker-images) `26 Mar 2026`
+- 🔨 **Pushed** to [`colin-gourlay/skills-publish-docker-images`](https://github.com/colin-gourlay/skills-publish-docker-images) `26 Mar 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/skills-publish-docker-images`](https://github.com/colin-gourlay/skills-publish-docker-images) — __ `26 Mar 2026`
+- 🌿 **Created branch** `feature/add-high-score` in [`colin-gourlay/skills-publish-docker-images`](https://github.com/colin-gourlay/skills-publish-docker-images) `26 Mar 2026`
+- 🌿 **Created branch** `main` in [`colin-gourlay/skills-publish-docker-images`](https://github.com/colin-gourlay/skills-publish-docker-images) `26 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `26 Mar 2026`
 - 🌿 **Created branch** `chore/dependabot-actions-and-template-fix` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
 - 🌿 **Created branch** `colin-gourlay/issue65` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Apply the 3 repo rule_ `25 Mar 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `25 Mar 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `25 Mar 2026`
-- 🌿 **Created branch** `feat/triage-new-issues-workflow` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
-- 🌿 **Created branch** `feat/repo-ecosystem-watch-checklist` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
 
-<sub>Last updated: 26 March 2026 at 06:30 UTC</sub>
+<sub>Last updated: 26 March 2026 at 07:30 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,6 +96,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
+- [**skills-publish-docker-images**](https://github.com/colin-gourlay/skills-publish-docker-images) — Exercise: Publish Docker Images  `JavaScript`
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A productivity playbook for Todoist - reusable templates, weekly review workflows, and automation patterns for power users.
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — 🌎 The Sundown Sessions website.  `HTML`
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -103,9 +104,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
-- [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 26 March 2026 at 06:30 UTC</sub>
+<sub>Last updated: 26 March 2026 at 07:30 UTC</sub>
 <!-- REPOS_END -->
 
 ---
