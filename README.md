@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `26 Mar 2026`
+- 🌿 **Created branch** `chore/dependabot-actions-and-template-fix` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
+- 🌿 **Created branch** `colin-gourlay/issue65` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Apply the 3 repo rule_ `25 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `25 Mar 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `25 Mar 2026`
 - 🌿 **Created branch** `feat/triage-new-issues-workflow` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
 - 🌿 **Created branch** `feat/repo-ecosystem-watch-checklist` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 Mar 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 Mar 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Mar 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `24 Mar 2026`
-- 🌿 **Created branch** `feat/split-weekly-review-into-close-and-plan` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 Mar 2026`
 
-<sub>Last updated: 26 March 2026 at 05:35 UTC</sub>
+<sub>Last updated: 26 March 2026 at 06:30 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 26 March 2026 at 05:35 UTC</sub>
+<sub>Last updated: 26 March 2026 at 06:30 UTC</sub>
 <!-- REPOS_END -->
 
 ---
