@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Add exam badges on my GitHub profile_ `26 Mar 2026`
 - 🌿 **Created branch** `feat/github-packages-publishing` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `26 Mar 2026`
 
-<sub>Last updated: 27 March 2026 at 10:19 UTC</sub>
+<sub>Last updated: 27 March 2026 at 11:19 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 27 March 2026 at 10:19 UTC</sub>
+<sub>Last updated: 27 March 2026 at 11:19 UTC</sub>
 <!-- REPOS_END -->
 
 ---
