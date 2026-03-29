@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `27 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Add the ability to search for a template on the GitHub pages_ `27 Mar 2026`
 
-<sub>Last updated: 29 March 2026 at 01:36 UTC</sub>
+<sub>Last updated: 29 March 2026 at 03:08 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 29 March 2026 at 01:36 UTC</sub>
+<sub>Last updated: 29 March 2026 at 03:08 UTC</sub>
 <!-- REPOS_END -->
 
 ---
