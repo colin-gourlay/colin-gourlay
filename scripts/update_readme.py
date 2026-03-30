@@ -17,6 +17,8 @@ ACTIVITY_START = "<!-- ACTIVITY_START -->"
 ACTIVITY_END = "<!-- ACTIVITY_END -->"
 REPOS_START = "<!-- REPOS_START -->"
 REPOS_END = "<!-- REPOS_END -->"
+STARS_START = "<!-- STARS_START -->"
+STARS_END = "<!-- STARS_END -->"
 
 
 def github_api(endpoint: str) -> object:
@@ -148,6 +150,58 @@ def build_repos_section(limit: int = 8) -> str:
     return "\n".join(lines) if lines else "_No public repositories found._"
 
 
+def build_stars_section(recent_limit: int = 6, lang_limit: int = 8) -> str:
+    """Fetch starred repos and return a markdown block with recent stars and language interests."""
+    try:
+        starred = github_api(
+            f"/users/{GITHUB_USERNAME}/starred"
+            "?sort=created&direction=desc&per_page=30"
+        )
+    except Exception as exc:
+        print(f"Warning: could not fetch starred repos: {exc}", file=sys.stderr)
+        return "_Starred repository data temporarily unavailable._"
+
+    lang_counts: dict[str, int] = {}
+    recent_lines: list[str] = []
+
+    for repo in starred:
+        language = (repo.get("language") or "").strip()
+        if language:
+            lang_counts[language] = lang_counts.get(language, 0) + 1
+
+        if len(recent_lines) < recent_limit:
+            name = repo.get("full_name", "")
+            description = (repo.get("description") or "").strip()
+            url = repo.get("html_url", "")
+            stars = repo.get("stargazers_count", 0)
+
+            line = f"[**{name}**]({url})"
+            if description:
+                line += f" — {description[:80]}"
+            meta: list[str] = []
+            if language:
+                meta.append(f"`{language}`")
+            if stars > 0:
+                meta.append(f"⭐ {stars:,}")
+            if meta:
+                line += "  " + " ".join(meta)
+            recent_lines.append(f"- {line}")
+
+    parts: list[str] = []
+
+    if recent_lines:
+        parts.append("### 🕐 Recently Starred\n\n" + "\n".join(recent_lines))
+    else:
+        parts.append("### 🕐 Recently Starred\n\n_No recently starred repositories found._")
+
+    if lang_counts:
+        top_langs = sorted(lang_counts.items(), key=lambda x: -x[1])[:lang_limit]
+        lang_badges = " · ".join(f"`{lang}` ×{count}" for lang, count in top_langs)
+        parts.append("### 🗺️ Language Interests\n\n" + lang_badges)
+
+    return "\n\n".join(parts)
+
+
 def replace_section(content: str, start: str, end: str, inner: str) -> str:
     """Replace everything between start and end markers (inclusive) with new content."""
     pattern = re.compile(
@@ -176,6 +230,9 @@ def main() -> None:
     print(f"Fetching repositories for @{GITHUB_USERNAME}…")
     repos_md = build_repos_section()
 
+    print(f"Fetching starred repositories for @{GITHUB_USERNAME}…")
+    stars_md = build_stars_section()
+
     activity_block = (
         "## 📡 Recent Activity\n\n"
         f"{activity_md}\n\n"
@@ -186,9 +243,15 @@ def main() -> None:
         f"{repos_md}\n\n"
         f"<sub>Last updated: {timestamp}</sub>"
     )
+    stars_block = (
+        "## ⭐ Starred Repositories\n\n"
+        f"{stars_md}\n\n"
+        f"<sub>Last updated: {timestamp}</sub>"
+    )
 
     updated = replace_section(original, ACTIVITY_START, ACTIVITY_END, activity_block)
     updated = replace_section(updated, REPOS_START, REPOS_END, repos_block)
+    updated = replace_section(updated, STARS_START, STARS_END, stars_block)
 
     if updated == original:
         print("README.md is already up to date — nothing to commit.")
