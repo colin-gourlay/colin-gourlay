@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create ToDoist template to track and monitor trending repos in GitHub_ `30 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `29 Mar 2026`
 
-<sub>Last updated: 30 March 2026 at 18:23 UTC</sub>
+<sub>Last updated: 30 March 2026 at 19:25 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 30 March 2026 at 18:23 UTC</sub>
+<sub>Last updated: 30 March 2026 at 19:25 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,8 +115,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 74,520
-- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,628
+- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 74,547
+- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,630
 - [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,605
 - [**martinothamar/Mediator**](https://github.com/martinothamar/Mediator) — A high performance implementation of Mediator pattern in .NET using source gener  `C#` ⭐ 3,431
 - [**beetbox/beets**](https://github.com/beetbox/beets) — music library manager and MusicBrainz tagger  `Python` ⭐ 14,897
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×9 · `C#` ×4 · `TypeScript` ×4 · `Go` ×3 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
 
-<sub>Last updated: 30 March 2026 at 18:23 UTC</sub>
+<sub>Last updated: 30 March 2026 at 19:25 UTC</sub>
 <!-- STARS_END -->
 
 ---
