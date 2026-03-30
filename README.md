@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `feat/gallery-visual-refresh` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `29 Mar 2026`
 - 🌿 **Created branch** `chore/normalize-workflow-permissions` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `29 Mar 2026`
 
-<sub>Last updated: 30 March 2026 at 08:36 UTC</sub>
+<sub>Last updated: 30 March 2026 at 09:36 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 30 March 2026 at 08:36 UTC</sub>
+<sub>Last updated: 30 March 2026 at 09:36 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,612
+- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,614
 - [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,606
 - [**martinothamar/Mediator**](https://github.com/martinothamar/Mediator) — A high performance implementation of Mediator pattern in .NET using source gener  `C#` ⭐ 3,431
 - [**beetbox/beets**](https://github.com/beetbox/beets) — music library manager and MusicBrainz tagger  `Python` ⭐ 14,899
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×8 · `TypeScript` ×5 · `C#` ×4 · `Go` ×3 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
 
-<sub>Last updated: 30 March 2026 at 08:36 UTC</sub>
+<sub>Last updated: 30 March 2026 at 09:36 UTC</sub>
 <!-- STARS_END -->
 
 ---
