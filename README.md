@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `28 Mar 2026`
 - 🌿 **Created branch** `chore/harden-deploy-gallery-workflow` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Mar 2026`
 
-<sub>Last updated: 30 March 2026 at 05:00 UTC</sub>
+<sub>Last updated: 30 March 2026 at 06:42 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 30 March 2026 at 05:00 UTC</sub>
+<sub>Last updated: 30 March 2026 at 06:42 UTC</sub>
 <!-- REPOS_END -->
 
 ---
