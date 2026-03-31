@@ -77,8 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `31 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `31 Mar 2026`
+- 🌿 **Created branch** `chore/rename-trending-workflow` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `31 Mar 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `31 Mar 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `31 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `30 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Review GitHub Stars list or categories I maintain_ `30 Mar 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _🚀 Feature: Automate Trending GitHub Repos → Todoist Tasks_ `30 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Starred repos_ `30 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) `30 Mar 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create ToDoist template to track and monitor trending repos in GitHub_ `30 Mar 2026`
 
-<sub>Last updated: 31 March 2026 at 04:52 UTC</sub>
+<sub>Last updated: 31 March 2026 at 05:36 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 31 March 2026 at 04:52 UTC</sub>
+<sub>Last updated: 31 March 2026 at 05:36 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,9 +115,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 74,879
+- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 74,898
 - [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,636
-- [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,605
+- [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,607
 - [**martinothamar/Mediator**](https://github.com/martinothamar/Mediator) — A high performance implementation of Mediator pattern in .NET using source gener  `C#` ⭐ 3,432
 - [**beetbox/beets**](https://github.com/beetbox/beets) — music library manager and MusicBrainz tagger  `Python` ⭐ 14,900
 - [**PaulDuvall/ai-development-patterns**](https://github.com/PaulDuvall/ai-development-patterns) — A comprehensive collection of AI development patterns for building software with  `Python` ⭐ 351
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×9 · `C#` ×4 · `TypeScript` ×4 · `Go` ×3 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
 
-<sub>Last updated: 31 March 2026 at 04:52 UTC</sub>
+<sub>Last updated: 31 March 2026 at 05:36 UTC</sub>
 <!-- STARS_END -->
 
 ---
