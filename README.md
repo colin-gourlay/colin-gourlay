@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _🚀 Feature: Automate Trending GitHub Repos → Todoist Tasks_ `30 Mar 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/colin-gourlay`](https://github.com/colin-gourlay/colin-gourlay) — _Starred repos_ `30 Mar 2026`
 
-<sub>Last updated: 31 March 2026 at 07:34 UTC</sub>
+<sub>Last updated: 31 March 2026 at 08:27 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 - [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 31 March 2026 at 07:34 UTC</sub>
+<sub>Last updated: 31 March 2026 at 08:27 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 74,986
-- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,637
+- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 19,268
+- [**apache/superset**](https://github.com/apache/superset) — Apache Superset is a Data Visualization and Data Exploration Platform  `TypeScript` ⭐ 72,086
+- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 31,809
+- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 75,024
+- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,638
 - [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,608
-- [**martinothamar/Mediator**](https://github.com/martinothamar/Mediator) — A high performance implementation of Mediator pattern in .NET using source gener  `C#` ⭐ 3,433
-- [**beetbox/beets**](https://github.com/beetbox/beets) — music library manager and MusicBrainz tagger  `Python` ⭐ 14,901
-- [**PaulDuvall/ai-development-patterns**](https://github.com/PaulDuvall/ai-development-patterns) — A comprehensive collection of AI development patterns for building software with  `Python` ⭐ 351
 
 ### 🗺️ Language Interests
 
-`Python` ×9 · `C#` ×4 · `TypeScript` ×4 · `Go` ×3 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
+`Python` ×11 · `TypeScript` ×4 · `C#` ×3 · `Go` ×2 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
 
-<sub>Last updated: 31 March 2026 at 07:34 UTC</sub>
+<sub>Last updated: 31 March 2026 at 08:27 UTC</sub>
 <!-- STARS_END -->
 
 ---
