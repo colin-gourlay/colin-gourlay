@@ -77,6 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Establish Component Testing Baseline Before Implementing UI Changes_ `1 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Inconsistent Preview Rendering (Incorrect Icon Composition)_ `1 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Image Preview Not Updating When Re-Selecting Same File_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Logo Overlay Setting Not Applied After Save (No Feedback, No UI Update)_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Improve Show Logo Upload Guidance (Dimensions, Formats, Transparency)_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Save Action Visibility Should Be Consistent (Enable/Disable Instead of S_ `1 Apr 2026`
@@ -84,11 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Establish Observability & Telemetry Standard_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Establish Feature Flag & Configuration Strategy_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Establish Navigation & Routing Standards_ `1 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Establish Error Handling & Logging Standard_ `1 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Establish Testing Strategy & Standards_ `1 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Establish Internationalisation (i18n) Strategy_ `1 Apr 2026`
 
-<sub>Last updated: 1 April 2026 at 20:16 UTC</sub>
+<sub>Last updated: 1 April 2026 at 21:18 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 
-<sub>Last updated: 1 April 2026 at 20:16 UTC</sub>
+<sub>Last updated: 1 April 2026 at 21:18 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 21,435
+- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 21,472
 - [**apache/superset**](https://github.com/apache/superset) — Apache Superset is a Data Visualization and Data Exploration Platform  `TypeScript` ⭐ 72,176
-- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 34,288
-- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 76,330
-- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,660
+- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 34,319
+- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 76,359
+- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,662
 - [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,615
 
 ### 🗺️ Language Interests
 
 `Python` ×11 · `TypeScript` ×4 · `C#` ×3 · `Go` ×2 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
 
-<sub>Last updated: 1 April 2026 at 20:16 UTC</sub>
+<sub>Last updated: 1 April 2026 at 21:18 UTC</sub>
 <!-- STARS_END -->
 
 ---
