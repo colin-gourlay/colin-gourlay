@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create a Show Notes template_ `31 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Show Workflow template_ `31 Mar 2026`
 
-<sub>Last updated: 1 April 2026 at 13:35 UTC</sub>
+<sub>Last updated: 1 April 2026 at 14:35 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 
-<sub>Last updated: 1 April 2026 at 13:35 UTC</sub>
+<sub>Last updated: 1 April 2026 at 14:35 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 21,136
-- [**apache/superset**](https://github.com/apache/superset) — Apache Superset is a Data Visualization and Data Exploration Platform  `TypeScript` ⭐ 72,163
-- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 33,977
-- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 75,978
-- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,659
+- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 21,196
+- [**apache/superset**](https://github.com/apache/superset) — Apache Superset is a Data Visualization and Data Exploration Platform  `TypeScript` ⭐ 72,164
+- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 34,050
+- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 76,012
+- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,660
 - [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,614
 
 ### 🗺️ Language Interests
 
 `Python` ×11 · `TypeScript` ×4 · `C#` ×3 · `Go` ×2 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
 
-<sub>Last updated: 1 April 2026 at 13:35 UTC</sub>
+<sub>Last updated: 1 April 2026 at 14:35 UTC</sub>
 <!-- STARS_END -->
 
 ---
