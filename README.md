@@ -77,6 +77,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Dark/Light Mode Toggle Has Minimal Visual Impact and Breaks Focus State_ `1 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Incorrect Local Storage Mode UX & API Key Messaging_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Station Settings Page Contains Misleading Branding Controls_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Inconsistent Hamburger Icon Placement (Nav Shown vs Hidden)_ `1 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `31 Mar 2026`
@@ -85,10 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Facebook Post Reconciliation template_ `31 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Interview (alternate) template_ `31 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Interview template_ `31 Mar 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create a Show Notes template_ `31 Mar 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Show Workflow template_ `31 Mar 2026`
 
-<sub>Last updated: 1 April 2026 at 17:22 UTC</sub>
+<sub>Last updated: 1 April 2026 at 18:22 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 
-<sub>Last updated: 1 April 2026 at 17:22 UTC</sub>
+<sub>Last updated: 1 April 2026 at 18:22 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 21,322
-- [**apache/superset**](https://github.com/apache/superset) — Apache Superset is a Data Visualization and Data Exploration Platform  `TypeScript` ⭐ 72,166
-- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 34,204
-- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 76,182
-- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,662
+- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 21,361
+- [**apache/superset**](https://github.com/apache/superset) — Apache Superset is a Data Visualization and Data Exploration Platform  `TypeScript` ⭐ 72,172
+- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 34,235
+- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 76,251
+- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,660
 - [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,615
 
 ### 🗺️ Language Interests
 
 `Python` ×11 · `TypeScript` ×4 · `C#` ×3 · `Go` ×2 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
 
-<sub>Last updated: 1 April 2026 at 17:22 UTC</sub>
+<sub>Last updated: 1 April 2026 at 18:22 UTC</sub>
 <!-- STARS_END -->
 
 ---
