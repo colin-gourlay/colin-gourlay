@@ -77,6 +77,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Station Settings Page Contains Misleading Branding Controls_ `1 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Inconsistent Hamburger Icon Placement (Nav Shown vs Hidden)_ `1 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `31 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create a Guest Whitelist template_ `31 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create a Guest Blacklist template_ `31 Mar 2026`
@@ -85,10 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Interview template_ `31 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create a Show Notes template_ `31 Mar 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Show Workflow template_ `31 Mar 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `31 Mar 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `31 Mar 2026`
 
-<sub>Last updated: 1 April 2026 at 07:35 UTC</sub>
+<sub>Last updated: 1 April 2026 at 08:32 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,6 +96,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
+- [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — 🌎 The Sundown Sessions website.  `HTML`
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A productivity playbook for Todoist - reusable templates, weekly review workflows, and automation patterns for power users.
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -103,9 +104,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
-- [**collectarr**](https://github.com/colin-gourlay/collectarr)
 
-<sub>Last updated: 1 April 2026 at 07:35 UTC</sub>
+<sub>Last updated: 1 April 2026 at 08:32 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 20,818
-- [**apache/superset**](https://github.com/apache/superset) — Apache Superset is a Data Visualization and Data Exploration Platform  `TypeScript` ⭐ 72,153
-- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 33,623
-- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 75,744
-- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,652
+- [**NousResearch/hermes-agent**](https://github.com/NousResearch/hermes-agent) — The agent that grows with you  `Python` ⭐ 20,872
+- [**apache/superset**](https://github.com/apache/superset) — Apache Superset is a Data Visualization and Data Exploration Platform  `TypeScript` ⭐ 72,157
+- [**microsoft/VibeVoice**](https://github.com/microsoft/VibeVoice) — Open-Source Frontier Voice AI  `Python` ⭐ 33,707
+- [**sherlock-project/sherlock**](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks  `Python` ⭐ 75,771
+- [**nektos/act**](https://github.com/nektos/act) — Run your GitHub Actions locally 🚀  `Go` ⭐ 69,651
 - [**sdras/awesome-actions**](https://github.com/sdras/awesome-actions) — A curated list of awesome actions to use on GitHub  ⭐ 27,612
 
 ### 🗺️ Language Interests
 
 `Python` ×11 · `TypeScript` ×4 · `C#` ×3 · `Go` ×2 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×2 · `HTML` ×1
 
-<sub>Last updated: 1 April 2026 at 07:35 UTC</sub>
+<sub>Last updated: 1 April 2026 at 08:32 UTC</sub>
 <!-- STARS_END -->
 
 ---
