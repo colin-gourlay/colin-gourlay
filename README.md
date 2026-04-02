@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Logo Overlay Setting Not Applied After Save (No Feedback, No UI Update)_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Improve Show Logo Upload Guidance (Dimensions, Formats, Transparency)_ `1 Apr 2026`
 
-<sub>Last updated: 2 April 2026 at 08:25 UTC</sub>
+<sub>Last updated: 2 April 2026 at 09:25 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,16 +96,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A productivity playbook for Todoist - reusable templates, weekly review workflows, and automation patterns for power users.
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — 🌎 The Sundown Sessions website.  `HTML`
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A productivity playbook for Todoist - reusable templates, weekly review workflows, and automation patterns for power users.
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 2 April 2026 at 08:25 UTC</sub>
+<sub>Last updated: 2 April 2026 at 09:25 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 156,383
-- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 30,665
-- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 131,059
-- [**microsoft/agent-lightning**](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.  `Python` ⭐ 16,444
-- [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lig  `Python` ⭐ 74,657
+- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 156,429
+- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 30,698
+- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 131,189
+- [**microsoft/agent-lightning**](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.  `Python` ⭐ 16,449
+- [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lig  `Python` ⭐ 74,670
 - [**Dimillian/Skills**](https://github.com/Dimillian/Skills) — My Codex Skills  `Shell` ⭐ 3,098
 
 ### 🗺️ Language Interests
 
 `Python` ×11 · `TypeScript` ×4 · `HTML` ×3 · `Shell` ×3 · `C#` ×3 · `JavaScript` ×2 · `Go` ×1 · `C++` ×1
 
-<sub>Last updated: 2 April 2026 at 08:25 UTC</sub>
+<sub>Last updated: 2 April 2026 at 09:25 UTC</sub>
 <!-- STARS_END -->
 
 ---
