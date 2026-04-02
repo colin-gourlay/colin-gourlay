@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Improve Show Logo Upload Guidance (Dimensions, Formats, Transparency)_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Save Action Visibility Should Be Consistent (Enable/Disable Instead of S_ `1 Apr 2026`
 
-<sub>Last updated: 2 April 2026 at 05:35 UTC</sub>
+<sub>Last updated: 2 April 2026 at 06:31 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 - [**resume**](https://github.com/colin-gourlay/resume)  `HTML`
 
-<sub>Last updated: 2 April 2026 at 05:35 UTC</sub>
+<sub>Last updated: 2 April 2026 at 06:31 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 30,563
-- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 130,742
-- [**microsoft/agent-lightning**](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.  `Python` ⭐ 16,437
-- [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lig  `Python` ⭐ 74,637
-- [**Dimillian/Skills**](https://github.com/Dimillian/Skills) — My Codex Skills  `Shell` ⭐ 3,092
-- [**vas3k/TaxHacker**](https://github.com/vas3k/TaxHacker) — Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions  `TypeScript` ⭐ 4,037
+- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 30,592
+- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 130,833
+- [**microsoft/agent-lightning**](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.  `Python` ⭐ 16,440
+- [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lig  `Python` ⭐ 74,645
+- [**Dimillian/Skills**](https://github.com/Dimillian/Skills) — My Codex Skills  `Shell` ⭐ 3,095
+- [**vas3k/TaxHacker**](https://github.com/vas3k/TaxHacker) — Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions  `TypeScript` ⭐ 4,041
 
 ### 🗺️ Language Interests
 
 `Python` ×12 · `TypeScript` ×4 · `Shell` ×3 · `C#` ×3 · `HTML` ×2 · `JavaScript` ×2 · `Go` ×1 · `C++` ×1
 
-<sub>Last updated: 2 April 2026 at 05:35 UTC</sub>
+<sub>Last updated: 2 April 2026 at 06:31 UTC</sub>
 <!-- STARS_END -->
 
 ---
