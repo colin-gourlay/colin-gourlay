@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Logo Overlay Setting Not Applied After Save (No Feedback, No UI Update)_ `1 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Improve Show Logo Upload Guidance (Dimensions, Formats, Transparency)_ `1 Apr 2026`
 
-<sub>Last updated: 2 April 2026 at 14:30 UTC</sub>
+<sub>Last updated: 2 April 2026 at 15:25 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 2 April 2026 at 14:30 UTC</sub>
+<sub>Last updated: 2 April 2026 at 15:25 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 156,635
-- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 30,815
-- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 131,658
+- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 156,676
+- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 30,878
+- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 131,746
 - [**microsoft/agent-lightning**](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.  `Python` ⭐ 16,463
-- [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lig  `Python` ⭐ 74,701
-- [**Dimillian/Skills**](https://github.com/Dimillian/Skills) — My Codex Skills  `Shell` ⭐ 3,103
+- [**PaddlePaddle/PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) — Turn any PDF or image document into structured data for your AI. A powerful, lig  `Python` ⭐ 74,706
+- [**Dimillian/Skills**](https://github.com/Dimillian/Skills) — My Codex Skills  `Shell` ⭐ 3,105
 
 ### 🗺️ Language Interests
 
 `Python` ×11 · `TypeScript` ×4 · `HTML` ×3 · `Shell` ×3 · `C#` ×3 · `JavaScript` ×2 · `Go` ×1 · `C++` ×1
 
-<sub>Last updated: 2 April 2026 at 14:30 UTC</sub>
+<sub>Last updated: 2 April 2026 at 15:25 UTC</sub>
 <!-- STARS_END -->
 
 ---
