@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/github-actions`](https://github.com/colin-gourlay/github-actions) — _Create reusable templates for Actions_ `2 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/github-actions`](https://github.com/colin-gourlay/github-actions) — _Create reusable templates for Workflows_ `2 Apr 2026`
 
-<sub>Last updated: 3 April 2026 at 10:17 UTC</sub>
+<sub>Last updated: 3 April 2026 at 11:18 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 3 April 2026 at 10:17 UTC</sub>
+<sub>Last updated: 3 April 2026 at 11:18 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**siddharthvaddem/openscreen**](https://github.com/siddharthvaddem/openscreen) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  `TypeScript` ⭐ 17,116
-- [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) — Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.  ⭐ 36,935
-- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 156,837
-- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 31,266
-- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 133,184
+- [**siddharthvaddem/openscreen**](https://github.com/siddharthvaddem/openscreen) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  `TypeScript` ⭐ 17,216
+- [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) — Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.  ⭐ 36,958
+- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 156,849
+- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 31,290
+- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 133,244
 - [**microsoft/agent-lightning**](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.  `Python` ⭐ 16,492
 
 ### 🗺️ Language Interests
 
 `Python` ×11 · `TypeScript` ×5 · `HTML` ×3 · `Shell` ×3 · `C#` ×3 · `JavaScript` ×2 · `Go` ×1
 
-<sub>Last updated: 3 April 2026 at 10:17 UTC</sub>
+<sub>Last updated: 3 April 2026 at 11:18 UTC</sub>
 <!-- STARS_END -->
 
 ---
