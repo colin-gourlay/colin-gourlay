@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Pagination Controls Need Improved Positioning and Ordering_ `3 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Add View Options for Show Tiles (Card Size Toggle + Grid/List View)_ `3 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Misleading Empty State Messaging When Filtering Shows by Status_ `3 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Search Bar Contains Technical/Implementation Messaging (“Searches the AP_ `3 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _"Add New Show" Button Does Not Trigger Any Action_ `3 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Redundant Refresh Button on Show Management Page_ `3 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Incorrect Strapline on Show Management Page (References Scheduling)_ `3 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `3 Apr 2026`
-- 🌿 **Created branch** `fix/github-repo-spin-up-mcp-task-examples` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 Apr 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `2 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/github-actions`](https://github.com/colin-gourlay/github-actions) — _Ensure repo follows best practice from the outset_ `2 Apr 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `2 Apr 2026`
-- 🌿 **Created branch** `chore/update-github-repo-spin-up-2026-04-02` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `2 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/github-actions`](https://github.com/colin-gourlay/github-actions) — _Create reusable templates for Actions_ `2 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/github-actions`](https://github.com/colin-gourlay/github-actions) — _Create reusable templates for Workflows_ `2 Apr 2026`
 
-<sub>Last updated: 3 April 2026 at 13:31 UTC</sub>
+<sub>Last updated: 3 April 2026 at 14:19 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 3 April 2026 at 13:31 UTC</sub>
+<sub>Last updated: 3 April 2026 at 14:19 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**siddharthvaddem/openscreen**](https://github.com/siddharthvaddem/openscreen) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  `TypeScript` ⭐ 17,446
-- [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) — Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.  ⭐ 36,985
-- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 156,916
-- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 31,328
-- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 133,402
-- [**microsoft/agent-lightning**](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.  `Python` ⭐ 16,496
+- [**siddharthvaddem/openscreen**](https://github.com/siddharthvaddem/openscreen) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  `TypeScript` ⭐ 17,519
+- [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) — Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.  ⭐ 36,989
+- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 156,940
+- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 31,344
+- [**obra/superpowers**](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.  `Shell` ⭐ 133,459
+- [**microsoft/agent-lightning**](https://github.com/microsoft/agent-lightning) — The absolute trainer to light up AI agents.  `Python` ⭐ 16,498
 
 ### 🗺️ Language Interests
 
 `Python` ×11 · `TypeScript` ×5 · `HTML` ×3 · `Shell` ×3 · `C#` ×3 · `JavaScript` ×2 · `Go` ×1
 
-<sub>Last updated: 3 April 2026 at 13:31 UTC</sub>
+<sub>Last updated: 3 April 2026 at 14:19 UTC</sub>
 <!-- STARS_END -->
 
 ---
