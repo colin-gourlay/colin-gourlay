@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `6 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `6 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `6 Apr 2026`
 - 🌿 **Created branch** `feat/github-repo-spin-up-agentic-doc-sync-refs` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `6 Apr 2026`
 - 🌿 **Created branch** `docs/repo-documentation-sync-2026-04-06` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `6 Apr 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Add Sorting Options to Show Episodes Page_ `6 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Add “Unpublished” Filter to Show Episodes Page with Count_ `6 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Show Episodes Page Does Not Correctly Filter to Archived Shows_ `6 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Show Episodes Page Does Not Correctly Filter to Published Shows_ `6 Apr 2026`
 
-<sub>Last updated: 6 April 2026 at 12:22 UTC</sub>
+<sub>Last updated: 6 April 2026 at 13:33 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 6 April 2026 at 12:22 UTC</sub>
+<sub>Last updated: 6 April 2026 at 13:33 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**tobi/qmd**](https://github.com/tobi/qmd) — mini cli search engine for your docs, knowledge bases, meeting notes, whatever.   `TypeScript` ⭐ 18,341
-- [**kepano/obsidian-skills**](https://github.com/kepano/obsidian-skills) — Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas,  ⭐ 20,102
-- [**siddharthvaddem/openscreen**](https://github.com/siddharthvaddem/openscreen) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  `TypeScript` ⭐ 23,314
-- [**asgeirtj/system_prompts_leaks**](https://github.com/asgeirtj/system_prompts_leaks) — Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.  ⭐ 37,544
-- [**f/prompts.chat**](https://github.com/f/prompts.chat) — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co  `HTML` ⭐ 157,637
-- [**shanraisshan/claude-code-best-practice**](https://github.com/shanraisshan/claude-code-best-practice) — practice made claude perfect  `HTML` ⭐ 32,290
+- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 22,975
+- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 17,542
+- [**block/goose**](https://github.com/block/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 37,674
+- [**google-ai-edge/LiteRT-LM**](https://github.com/google-ai-edge/LiteRT-LM)  `C++` ⭐ 1,818
+- [**immich-app/immich**](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution.  `TypeScript` ⭐ 96,595
+- [**KeygraphHQ/shannon**](https://github.com/KeygraphHQ/shannon) — Shannon Lite is an autonomous, white-box AI pentester for web applications and A  `TypeScript` ⭐ 36,073
 
 ### 🗺️ Language Interests
 
-`Python` ×11 · `TypeScript` ×6 · `HTML` ×3 · `Shell` ×3 · `JavaScript` ×2 · `Go` ×1 · `C#` ×1
+`TypeScript` ×9 · `Python` ×9 · `HTML` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1 · `Go` ×1
 
-<sub>Last updated: 6 April 2026 at 12:22 UTC</sub>
+<sub>Last updated: 6 April 2026 at 13:33 UTC</sub>
 <!-- STARS_END -->
 
 ---
