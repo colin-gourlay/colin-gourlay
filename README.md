@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Research: AI / LLM / MCP Integrations with Todoist_ `6 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Research: CLI Clients & Developer Tooling for Todoist_ `6 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Research: Highest Traction / Most Actively Maintained Todoist Projects_ `6 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Spin up new GiHub repo_ `6 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Implement Presenter Management (CRUD + Associations to Shows/Episodes)_ `6 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _docs: automated documentation sync_ `6 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `6 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `6 Apr 2026`
 - 🌿 **Created branch** `feat/github-repo-spin-up-agentic-doc-sync-refs` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `6 Apr 2026`
-- 🌿 **Created branch** `docs/repo-documentation-sync-2026-04-06` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `6 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Add Sorting Options to Show Episodes Page_ `6 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Add “Unpublished” Filter to Show Episodes Page with Count_ `6 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Show Episodes Page Does Not Correctly Filter to Archived Shows_ `6 Apr 2026`
 
-<sub>Last updated: 6 April 2026 at 15:19 UTC</sub>
+<sub>Last updated: 6 April 2026 at 16:19 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -97,7 +97,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ## 🗂️ Repositories
 
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — 🌎 The Sundown Sessions website.  `HTML`
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A productivity playbook for Todoist - reusable templates, weekly review workflows, and automation patterns for power users.
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly review systems, and automation-ready workflows for power users.
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 6 April 2026 at 15:19 UTC</sub>
+<sub>Last updated: 6 April 2026 at 16:19 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 23,094
-- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 17,618
-- [**block/goose**](https://github.com/block/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 37,767
-- [**google-ai-edge/LiteRT-LM**](https://github.com/google-ai-edge/LiteRT-LM)  `C++` ⭐ 1,859
-- [**immich-app/immich**](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution.  `TypeScript` ⭐ 96,652
-- [**KeygraphHQ/shannon**](https://github.com/KeygraphHQ/shannon) — Shannon Lite is an autonomous, white-box AI pentester for web applications and A  `TypeScript` ⭐ 36,191
+- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 23,152
+- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 17,660
+- [**block/goose**](https://github.com/block/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 37,828
+- [**google-ai-edge/LiteRT-LM**](https://github.com/google-ai-edge/LiteRT-LM)  `C++` ⭐ 1,882
+- [**immich-app/immich**](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution.  `TypeScript` ⭐ 96,686
+- [**KeygraphHQ/shannon**](https://github.com/KeygraphHQ/shannon) — Shannon Lite is an autonomous, white-box AI pentester for web applications and A  `TypeScript` ⭐ 36,240
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×9 · `Python` ×9 · `HTML` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1 · `Go` ×1
 
-<sub>Last updated: 6 April 2026 at 15:19 UTC</sub>
+<sub>Last updated: 6 April 2026 at 16:19 UTC</sub>
 <!-- STARS_END -->
 
 ---
