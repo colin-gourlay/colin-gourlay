@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Implement Presenter Management (CRUD + Associations to Shows/Episodes)_ `6 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Apr 2026`
 
-<sub>Last updated: 6 April 2026 at 23:14 UTC</sub>
+<sub>Last updated: 7 April 2026 at 00:36 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 6 April 2026 at 23:14 UTC</sub>
+<sub>Last updated: 7 April 2026 at 00:36 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 23,384
-- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 17,830
-- [**block/goose**](https://github.com/block/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 38,072
-- [**google-ai-edge/LiteRT-LM**](https://github.com/google-ai-edge/LiteRT-LM)  `C++` ⭐ 1,987
-- [**immich-app/immich**](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution.  `TypeScript` ⭐ 96,821
-- [**KeygraphHQ/shannon**](https://github.com/KeygraphHQ/shannon) — Shannon Lite is an autonomous, white-box AI pentester for web applications and A  `TypeScript` ⭐ 36,453
+- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 23,429
+- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 17,853
+- [**aaif-goose/goose**](https://github.com/aaif-goose/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 38,108
+- [**google-ai-edge/LiteRT-LM**](https://github.com/google-ai-edge/LiteRT-LM)  `C++` ⭐ 2,002
+- [**immich-app/immich**](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution.  `TypeScript` ⭐ 96,836
+- [**KeygraphHQ/shannon**](https://github.com/KeygraphHQ/shannon) — Shannon Lite is an autonomous, white-box AI pentester for web applications and A  `TypeScript` ⭐ 36,507
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×9 · `Python` ×9 · `HTML` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1 · `Go` ×1
 
-<sub>Last updated: 6 April 2026 at 23:14 UTC</sub>
+<sub>Last updated: 7 April 2026 at 00:36 UTC</sub>
 <!-- STARS_END -->
 
 ---
