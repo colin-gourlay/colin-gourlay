@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Research: AI / LLM / MCP Integrations with Todoist_ `6 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Research: CLI Clients & Developer Tooling for Todoist_ `6 Apr 2026`
 
-<sub>Last updated: 7 April 2026 at 09:29 UTC</sub>
+<sub>Last updated: 7 April 2026 at 10:25 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 7 April 2026 at 09:29 UTC</sub>
+<sub>Last updated: 7 April 2026 at 10:25 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**colin-gourlay/todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly revi  ⭐ 1
-- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 23,955
-- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 18,276
-- [**aaif-goose/goose**](https://github.com/aaif-goose/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 38,537
-- [**google-ai-edge/LiteRT-LM**](https://github.com/google-ai-edge/LiteRT-LM)  `C++` ⭐ 2,244
-- [**immich-app/immich**](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution.  `TypeScript` ⭐ 97,117
+- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 24,002
+- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 18,316
+- [**aaif-goose/goose**](https://github.com/aaif-goose/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 38,580
+- [**google-ai-edge/LiteRT-LM**](https://github.com/google-ai-edge/LiteRT-LM)  `C++` ⭐ 2,263
+- [**immich-app/immich**](https://github.com/immich-app/immich) — High performance self-hosted photo and video management solution.  `TypeScript` ⭐ 97,142
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×9 · `Python` ×8 · `HTML` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1 · `Go` ×1
 
-<sub>Last updated: 7 April 2026 at 09:29 UTC</sub>
+<sub>Last updated: 7 April 2026 at 10:25 UTC</sub>
 <!-- STARS_END -->
 
 ---
