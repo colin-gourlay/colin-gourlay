@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Upcoming Recordings Section Does Not Reflect Scheduled Upcoming Shows_ `8 Apr 2026`
 
-<sub>Last updated: 8 April 2026 at 16:30 UTC</sub>
+<sub>Last updated: 8 April 2026 at 17:27 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 8 April 2026 at 16:30 UTC</sub>
+<sub>Last updated: 8 April 2026 at 17:27 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**goharbor/harbor**](https://github.com/goharbor/harbor) — An open source trusted cloud native registry project that stores, signs, and sca  `Go` ⭐ 28,019
+- [**goharbor/harbor**](https://github.com/goharbor/harbor) — An open source trusted cloud native registry project that stores, signs, and sca  `Go` ⭐ 28,028
 - [**step-security/harden-runner**](https://github.com/step-security/harden-runner) — Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Action  `TypeScript` ⭐ 1,085
-- [**ollama/ollama**](https://github.com/ollama/ollama) — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm  `Go` ⭐ 168,164
+- [**ollama/ollama**](https://github.com/ollama/ollama) — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm  `Go` ⭐ 168,167
 - [**colin-gourlay/todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly revi  ⭐ 1
-- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 25,138
-- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 19,345
+- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 25,165
+- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 19,362
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×8 · `Python` ×7 · `Go` ×3 · `HTML` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
 
-<sub>Last updated: 8 April 2026 at 16:30 UTC</sub>
+<sub>Last updated: 8 April 2026 at 17:27 UTC</sub>
 <!-- STARS_END -->
 
 ---
