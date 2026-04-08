@@ -77,7 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `8 Apr 2026`
+- 🌿 **Created branch** `ci/sync-github-trending-to-todoist-inputs` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
 - 🌿 **Created branch** `ci/auto-sync-workflow-options` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Upcoming Recordings Section Does Not Reflect Scheduled Upcoming Shows_ `8 Apr 2026`
@@ -85,10 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Incorrect Messaging on Schedule Tab (“Manual Upload Only”)_ `7 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `7 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Feature Ideas: Gaps & Opportunities for the Playbook_ `6 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Research: Sync & Integration Workflows_ `6 Apr 2026`
 
-<sub>Last updated: 8 April 2026 at 09:28 UTC</sub>
+<sub>Last updated: 8 April 2026 at 10:26 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 8 April 2026 at 09:28 UTC</sub>
+<sub>Last updated: 8 April 2026 at 10:26 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**ollama/ollama**](https://github.com/ollama/ollama) — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm  `Go` ⭐ 168,119
+- [**step-security/harden-runner**](https://github.com/step-security/harden-runner) — Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Action  `TypeScript` ⭐ 1,083
+- [**ollama/ollama**](https://github.com/ollama/ollama) — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm  `Go` ⭐ 168,124
 - [**colin-gourlay/todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly revi  ⭐ 1
-- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 24,929
-- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 19,122
-- [**aaif-goose/goose**](https://github.com/aaif-goose/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 39,326
-- [**google-ai-edge/LiteRT-LM**](https://github.com/google-ai-edge/LiteRT-LM)  `C++` ⭐ 2,752
+- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 24,973
+- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 19,163
+- [**aaif-goose/goose**](https://github.com/aaif-goose/goose) — an open source, extensible AI agent that goes beyond code suggestions - install,  `Rust` ⭐ 39,374
 
 ### 🗺️ Language Interests
 
-`TypeScript` ×8 · `Python` ×8 · `Go` ×2 · `HTML` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
+`TypeScript` ×9 · `Python` ×7 · `Go` ×2 · `HTML` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
 
-<sub>Last updated: 8 April 2026 at 09:28 UTC</sub>
+<sub>Last updated: 8 April 2026 at 10:26 UTC</sub>
 <!-- STARS_END -->
 
 ---
