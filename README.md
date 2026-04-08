@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Apr 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `8 Apr 2026`
+- 🌿 **Created branch** `chore/copilot-customisation-from-main` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `8 Apr 2026`
+- 🌿 **Created branch** `docs/readme-refresh` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: github-trending-tracker_ `8 Apr 2026`
 - 🌿 **Created branch** `201_review-template-github-trending-tracker` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `8 Apr 2026`
 - 🌿 **Created branch** `fix/github-trending-tracker-docs` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Harden All GitHub Actions Workflows in the Repository_ `8 Apr 2026`
-- 🌿 **Created branch** `ci/sync-github-trending-to-todoist-inputs` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
-- 🌿 **Created branch** `ci/auto-sync-workflow-options` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/listenarr`](https://github.com/colin-gourlay/listenarr) — _Upcoming Recordings Section Does Not Reflect Scheduled Upcoming Shows_ `8 Apr 2026`
 
-<sub>Last updated: 8 April 2026 at 18:30 UTC</sub>
+<sub>Last updated: 8 April 2026 at 19:32 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 1
-- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — 🌎 The Sundown Sessions website.  `HTML`
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 8 April 2026 at 18:30 UTC</sub>
+<sub>Last updated: 8 April 2026 at 19:32 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**goharbor/harbor**](https://github.com/goharbor/harbor) — An open source trusted cloud native registry project that stores, signs, and sca  `Go` ⭐ 28,043
+- [**colin-gourlay/sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline   `HTML` ⭐ 1
+- [**goharbor/harbor**](https://github.com/goharbor/harbor) — An open source trusted cloud native registry project that stores, signs, and sca  `Go` ⭐ 28,057
 - [**step-security/harden-runner**](https://github.com/step-security/harden-runner) — Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Action  `TypeScript` ⭐ 1,085
-- [**ollama/ollama**](https://github.com/ollama/ollama) — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm  `Go` ⭐ 168,169
+- [**ollama/ollama**](https://github.com/ollama/ollama) — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm  `Go` ⭐ 168,176
 - [**colin-gourlay/todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly revi  ⭐ 1
-- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 25,178
-- [**google-ai-edge/gallery**](https://github.com/google-ai-edge/gallery) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  `Kotlin` ⭐ 19,387
+- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 25,200
 
 ### 🗺️ Language Interests
 
-`TypeScript` ×8 · `Python` ×7 · `Go` ×3 · `HTML` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
+`TypeScript` ×8 · `Python` ×6 · `HTML` ×3 · `Go` ×3 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
 
-<sub>Last updated: 8 April 2026 at 18:30 UTC</sub>
+<sub>Last updated: 8 April 2026 at 19:32 UTC</sub>
 <!-- STARS_END -->
 
 ---
