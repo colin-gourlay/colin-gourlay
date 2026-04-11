@@ -86,7 +86,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `8 Apr 2026`
 
-<sub>Last updated: 11 April 2026 at 11:11 UTC</sub>
+<sub>Last updated: 11 April 2026 at 12:14 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -103,7 +103,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 11 April 2026 at 11:11 UTC</sub>
+<sub>Last updated: 11 April 2026 at 12:14 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -114,17 +114,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**colin-gourlay/sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline   `HTML` ⭐ 1
-- [**goharbor/harbor**](https://github.com/goharbor/harbor) — An open source trusted cloud native registry project that stores, signs, and sca  `Go` ⭐ 28,236
+- [**goharbor/harbor**](https://github.com/goharbor/harbor) — An open source trusted cloud native registry project that stores, signs, and sca  `Go` ⭐ 28,235
 - [**step-security/harden-runner**](https://github.com/step-security/harden-runner) — Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Action  `TypeScript` ⭐ 1,087
-- [**ollama/ollama**](https://github.com/ollama/ollama) — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm  `Go` ⭐ 168,548
+- [**ollama/ollama**](https://github.com/ollama/ollama) — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm  `Go` ⭐ 168,556
 - [**colin-gourlay/todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly revi  ⭐ 1
-- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 26,457
+- [**abhigyanpatwari/GitNexus**](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-  `TypeScript` ⭐ 26,463
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×8 · `Python` ×6 · `HTML` ×3 · `Go` ×3 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
 
-<sub>Last updated: 11 April 2026 at 11:11 UTC</sub>
+<sub>Last updated: 11 April 2026 at 12:14 UTC</sub>
 <!-- STARS_END -->
 
 ---
