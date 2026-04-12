@@ -85,7 +85,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `ci/sync-trending-two-job-hardening` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `12 Apr 2026`
 - 🌿 **Created branch** `ci/github-trending-persistent-dedup` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `12 Apr 2026`
 
-<sub>Last updated: 12 April 2026 at 21:12 UTC</sub>
+<sub>Last updated: 12 April 2026 at 22:11 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -102,7 +102,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 12 April 2026 at 21:12 UTC</sub>
+<sub>Last updated: 12 April 2026 at 22:11 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -112,18 +112,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**alexpate/awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems  ⭐ 23,050
-- [**multica-ai/multica**](https://github.com/multica-ai/multica) — The open-source managed agents platform. Turn coding agents into real teammates   `TypeScript` ⭐ 9,236
-- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) — Open-source AI coworker, with memory  `TypeScript` ⭐ 12,194
-- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 11,142
-- [**coleam00/Archon**](https://github.com/coleam00/Archon) — The first open-source harness builder for AI coding. Make AI coding deterministi  `TypeScript` ⭐ 16,970
-- [**YishenTu/claudian**](https://github.com/YishenTu/claudian) — An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault  `TypeScript` ⭐ 7,568
+- [**alexpate/awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems  ⭐ 23,053
+- [**multica-ai/multica**](https://github.com/multica-ai/multica) — The open-source managed agents platform. Turn coding agents into real teammates   `TypeScript` ⭐ 9,265
+- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) — Open-source AI coworker, with memory  `TypeScript` ⭐ 12,198
+- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 11,175
+- [**coleam00/Archon**](https://github.com/coleam00/Archon) — The first open-source harness builder for AI coding. Make AI coding deterministi  `TypeScript` ⭐ 16,989
+- [**YishenTu/claudian**](https://github.com/YishenTu/claudian) — An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault  `TypeScript` ⭐ 7,570
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×12 · `Python` ×4 · `HTML` ×3 · `Go` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
 
-<sub>Last updated: 12 April 2026 at 21:12 UTC</sub>
+<sub>Last updated: 12 April 2026 at 22:11 UTC</sub>
 <!-- STARS_END -->
 
 ---
