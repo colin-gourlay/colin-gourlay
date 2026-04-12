@@ -87,7 +87,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `docs/readme-architecture-setup-roadmap` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Apr 2026`
 - 🌿 **Created branch** `feat/github-automation-opportunities` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Apr 2026`
 
-<sub>Last updated: 12 April 2026 at 14:16 UTC</sub>
+<sub>Last updated: 12 April 2026 at 15:15 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -104,7 +104,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 12 April 2026 at 14:16 UTC</sub>
+<sub>Last updated: 12 April 2026 at 15:15 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -114,18 +114,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 10,769
-- [**coleam00/Archon**](https://github.com/coleam00/Archon) — The first open-source harness builder for AI coding. Make AI coding deterministi  `TypeScript` ⭐ 16,782
-- [**YishenTu/claudian**](https://github.com/YishenTu/claudian) — An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault  `TypeScript` ⭐ 7,520
-- [**colin-gourlay/sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline   `HTML` ⭐ 1
-- [**goharbor/harbor**](https://github.com/goharbor/harbor) — An open source trusted cloud native registry project that stores, signs, and sca  `Go` ⭐ 28,242
-- [**step-security/harden-runner**](https://github.com/step-security/harden-runner) — Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Action  `TypeScript` ⭐ 1,088
+- [**alexpate/awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems  ⭐ 23,001
+- [**multica-ai/multica**](https://github.com/multica-ai/multica) — The open-source managed agents platform. Turn coding agents into real teammates   `TypeScript` ⭐ 8,915
+- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) — Open-source AI coworker, with memory  `TypeScript` ⭐ 12,174
+- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 10,861
+- [**coleam00/Archon**](https://github.com/coleam00/Archon) — The first open-source harness builder for AI coding. Make AI coding deterministi  `TypeScript` ⭐ 16,814
+- [**YishenTu/claudian**](https://github.com/YishenTu/claudian) — An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault  `TypeScript` ⭐ 7,535
 
 ### 🗺️ Language Interests
 
-`TypeScript` ×10 · `Python` ×6 · `HTML` ×3 · `Go` ×3 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
+`TypeScript` ×12 · `Python` ×4 · `HTML` ×3 · `Go` ×2 · `Shell` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
 
-<sub>Last updated: 12 April 2026 at 14:16 UTC</sub>
+<sub>Last updated: 12 April 2026 at 15:15 UTC</sub>
 <!-- STARS_END -->
 
 ---
