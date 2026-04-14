@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Nick Cave & The Bad Seeds_ `13 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Comsat Angels_ `13 Apr 2026`
 
-<sub>Last updated: 14 April 2026 at 07:37 UTC</sub>
+<sub>Last updated: 14 April 2026 at 08:38 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 14 April 2026 at 07:37 UTC</sub>
+<sub>Last updated: 14 April 2026 at 08:38 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,470
-- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 14,821
-- [**alexpate/awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems  ⭐ 23,326
-- [**multica-ai/multica**](https://github.com/multica-ai/multica) — The open-source managed agents platform. Turn coding agents into real teammates   `TypeScript` ⭐ 11,661
-- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) — Open-source AI coworker, with memory  `TypeScript` ⭐ 12,336
-- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 12,582
+- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 52,460
+- [**hacksider/Deep-Live-Cam**](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image  `Python` ⭐ 90,433
+- [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio  `TypeScript` ⭐ 16,631
+- [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) — A collection of notebooks/recipes showcasing some fun and effective ways of usin  `Jupyter Notebook` ⭐ 39,799
+- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,477
+- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 14,838
 
 ### 🗺️ Language Interests
 
-`TypeScript` ×11 · `Python` ×4 · `Shell` ×3 · `HTML` ×3 · `Go` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
+`TypeScript` ×11 · `Python` ×3 · `HTML` ×3 · `Shell` ×2 · `Go` ×2 · `JavaScript` ×1 · `Jupyter Notebook` ×1 · `Kotlin` ×1
 
-<sub>Last updated: 14 April 2026 at 07:37 UTC</sub>
+<sub>Last updated: 14 April 2026 at 08:38 UTC</sub>
 <!-- STARS_END -->
 
 ---
