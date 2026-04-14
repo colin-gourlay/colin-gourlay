@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Doves_ `13 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Kula Shaker_ `13 Apr 2026`
 
-<sub>Last updated: 14 April 2026 at 01:37 UTC</sub>
+<sub>Last updated: 14 April 2026 at 03:08 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 14 April 2026 at 01:37 UTC</sub>
+<sub>Last updated: 14 April 2026 at 03:08 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 14,747
-- [**alexpate/awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems  ⭐ 23,288
-- [**multica-ai/multica**](https://github.com/multica-ai/multica) — The open-source managed agents platform. Turn coding agents into real teammates   `TypeScript` ⭐ 11,168
-- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) — Open-source AI coworker, with memory  `TypeScript` ⭐ 12,310
-- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 12,354
-- [**coleam00/Archon**](https://github.com/coleam00/Archon) — The first open-source harness builder for AI coding. Make AI coding deterministi  `TypeScript` ⭐ 17,631
+- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 14,766
+- [**alexpate/awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems  ⭐ 23,299
+- [**multica-ai/multica**](https://github.com/multica-ai/multica) — The open-source managed agents platform. Turn coding agents into real teammates   `TypeScript` ⭐ 11,319
+- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) — Open-source AI coworker, with memory  `TypeScript` ⭐ 12,314
+- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 12,431
+- [**coleam00/Archon**](https://github.com/coleam00/Archon) — The first open-source harness builder for AI coding. Make AI coding deterministi  `TypeScript` ⭐ 17,676
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×11 · `Python` ×4 · `Shell` ×3 · `HTML` ×3 · `Go` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
 
-<sub>Last updated: 14 April 2026 at 01:37 UTC</sub>
+<sub>Last updated: 14 April 2026 at 03:08 UTC</sub>
 <!-- STARS_END -->
 
 ---
