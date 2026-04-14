@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Nick Cave & The Bad Seeds_ `13 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Comsat Angels_ `13 Apr 2026`
 
-<sub>Last updated: 14 April 2026 at 05:48 UTC</sub>
+<sub>Last updated: 14 April 2026 at 06:42 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 1
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 14 April 2026 at 05:48 UTC</sub>
+<sub>Last updated: 14 April 2026 at 06:42 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,460
-- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 14,789
-- [**alexpate/awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems  ⭐ 23,312
-- [**multica-ai/multica**](https://github.com/multica-ai/multica) — The open-source managed agents platform. Turn coding agents into real teammates   `TypeScript` ⭐ 11,515
-- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) — Open-source AI coworker, with memory  `TypeScript` ⭐ 12,325
-- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 12,520
+- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,465
+- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 14,806
+- [**alexpate/awesome-design-systems**](https://github.com/alexpate/awesome-design-systems) — 💅🏻 ⚒ A collection of awesome design systems  ⭐ 23,315
+- [**multica-ai/multica**](https://github.com/multica-ai/multica) — The open-source managed agents platform. Turn coding agents into real teammates   `TypeScript` ⭐ 11,592
+- [**rowboatlabs/rowboat**](https://github.com/rowboatlabs/rowboat) — Open-source AI coworker, with memory  `TypeScript` ⭐ 12,333
+- [**OpenBMB/VoxCPM**](https://github.com/OpenBMB/VoxCPM) — VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D  `Python` ⭐ 12,550
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×11 · `Python` ×4 · `Shell` ×3 · `HTML` ×3 · `Go` ×2 · `Kotlin` ×1 · `Rust` ×1 · `C++` ×1
 
-<sub>Last updated: 14 April 2026 at 05:48 UTC</sub>
+<sub>Last updated: 14 April 2026 at 06:42 UTC</sub>
 <!-- STARS_END -->
 
 ---
