@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Apr 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Update About page strapline & main content_ `14 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `14 Apr 2026`
+- 🌿 **Created branch** `chore/trending-template-governance-refresh` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Apr 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Update About page strapline & main content_ `14 Apr 2026`
 - 🌿 **Created branch** `feat/github-trending-cadence-split` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `13 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Handle artists with the same name_ `13 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Propaganda has content that should not be displayed_ `13 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Nick Cave & The Bad Seeds_ `13 Apr 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Comsat Angels_ `13 Apr 2026`
 
-<sub>Last updated: 14 April 2026 at 10:32 UTC</sub>
+<sub>Last updated: 14 April 2026 at 11:26 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 14 April 2026 at 10:32 UTC</sub>
+<sub>Last updated: 14 April 2026 at 11:26 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 52,534
-- [**hacksider/Deep-Live-Cam**](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image  `Python` ⭐ 90,483
-- [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio  `TypeScript` ⭐ 16,699
-- [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) — A collection of notebooks/recipes showcasing some fun and effective ways of usin  `Jupyter Notebook` ⭐ 39,856
-- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,487
-- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 14,861
+- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 52,599
+- [**hacksider/Deep-Live-Cam**](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image  `Python` ⭐ 90,489
+- [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio  `TypeScript` ⭐ 16,747
+- [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) — A collection of notebooks/recipes showcasing some fun and effective ways of usin  `Jupyter Notebook` ⭐ 39,872
+- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,492
+- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 14,870
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×11 · `Python` ×3 · `HTML` ×3 · `Shell` ×2 · `Go` ×2 · `JavaScript` ×1 · `Jupyter Notebook` ×1 · `Kotlin` ×1
 
-<sub>Last updated: 14 April 2026 at 10:32 UTC</sub>
+<sub>Last updated: 14 April 2026 at 11:26 UTC</sub>
 <!-- STARS_END -->
 
 ---
