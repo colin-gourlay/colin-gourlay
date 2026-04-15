@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `chore/refine-daily-review-readme-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Apr 2026`
 - 🌿 **Created branch** `fix/import-csv-task-descriptions` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Apr 2026`
 
-<sub>Last updated: 15 April 2026 at 14:37 UTC</sub>
+<sub>Last updated: 15 April 2026 at 15:31 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 15 April 2026 at 14:37 UTC</sub>
+<sub>Last updated: 15 April 2026 at 15:31 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown.  `Python` ⭐ 109,244
-- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 53,372
-- [**hacksider/Deep-Live-Cam**](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image  `Python` ⭐ 90,664
-- [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio  `TypeScript` ⭐ 17,942
-- [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) — A collection of notebooks/recipes showcasing some fun and effective ways of usin  `Jupyter Notebook` ⭐ 40,552
-- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,653
+- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown.  `Python` ⭐ 109,275
+- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 53,392
+- [**hacksider/Deep-Live-Cam**](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image  `Python` ⭐ 90,671
+- [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio  `TypeScript` ⭐ 17,965
+- [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) — A collection of notebooks/recipes showcasing some fun and effective ways of usin  `Jupyter Notebook` ⭐ 40,557
+- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,658
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×11 · `Python` ×4 · `HTML` ×3 · `Go` ×2 · `JavaScript` ×1 · `Jupyter Notebook` ×1 · `Shell` ×1 · `Kotlin` ×1
 
-<sub>Last updated: 15 April 2026 at 14:37 UTC</sub>
+<sub>Last updated: 15 April 2026 at 15:31 UTC</sub>
 <!-- STARS_END -->
 
 ---
