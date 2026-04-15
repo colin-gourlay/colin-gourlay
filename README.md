@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Update About page strapline & main content_ `14 Apr 2026`
 - 🌿 **Created branch** `feat/github-trending-cadence-split` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Apr 2026`
 
-<sub>Last updated: 15 April 2026 at 08:38 UTC</sub>
+<sub>Last updated: 15 April 2026 at 09:36 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 15 April 2026 at 08:38 UTC</sub>
+<sub>Last updated: 15 April 2026 at 09:36 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 53,215
-- [**hacksider/Deep-Live-Cam**](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image  `Python` ⭐ 90,631
-- [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio  `TypeScript` ⭐ 17,731
-- [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) — A collection of notebooks/recipes showcasing some fun and effective ways of usin  `Jupyter Notebook` ⭐ 40,485
-- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,606
-- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 15,119
+- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 53,247
+- [**hacksider/Deep-Live-Cam**](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image  `Python` ⭐ 90,636
+- [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio  `TypeScript` ⭐ 17,768
+- [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) — A collection of notebooks/recipes showcasing some fun and effective ways of usin  `Jupyter Notebook` ⭐ 40,509
+- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,617
+- [**mattpocock/skills**](https://github.com/mattpocock/skills) — My personal directory of skills, straight from my .claude directory.  `Shell` ⭐ 15,148
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×11 · `Python` ×3 · `HTML` ×3 · `Shell` ×2 · `Go` ×2 · `JavaScript` ×1 · `Jupyter Notebook` ×1 · `Kotlin` ×1
 
-<sub>Last updated: 15 April 2026 at 08:38 UTC</sub>
+<sub>Last updated: 15 April 2026 at 09:36 UTC</sub>
 <!-- STARS_END -->
 
 ---
