@@ -78,6 +78,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ## 📡 Recent Activity
 
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `16 Apr 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `16 Apr 2026`
+- 🌿 **Created branch** `fix/github-trending-daily-task-wording` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `16 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Introduce Dependabot for Automated Dependency Management_ `16 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Introduce Dependabot for Automated Dependency Management_ `16 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Apr 2026`
@@ -85,10 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Introduce Dependabot for Automated Dependency Management_ `16 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add LinkedIn to list of socials_ `16 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add record label information to the track information_ `16 Apr 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Lucid Evolution_ `16 Apr 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Automate the lastmod date_ `16 Apr 2026`
 
-<sub>Last updated: 16 April 2026 at 07:36 UTC</sub>
+<sub>Last updated: 16 April 2026 at 08:39 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 16 April 2026 at 07:36 UTC</sub>
+<sub>Last updated: 16 April 2026 at 08:39 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown.  `Python` ⭐ 109,805
-- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 53,719
-- [**hacksider/Deep-Live-Cam**](https://github.com/hacksider/Deep-Live-Cam) — real time face swap and one-click video deepfake with only a single image  `Python` ⭐ 90,703
-- [**jamiepine/voicebox**](https://github.com/jamiepine/voicebox) — The open-source voice synthesis studio  `TypeScript` ⭐ 18,550
-- [**anthropics/claude-cookbooks**](https://github.com/anthropics/claude-cookbooks) — A collection of notebooks/recipes showcasing some fun and effective ways of usin  `Jupyter Notebook` ⭐ 40,647
-- [**FujiwaraChoki/MoneyPrinterV2**](https://github.com/FujiwaraChoki/MoneyPrinterV2) — Automate the process of making money online.  `Python` ⭐ 29,722
+- [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  `Python` ⭐ 22,201
+- [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.  `Shell` ⭐ 16,135
+- [**lsdefine/GenericAgent**](https://github.com/lsdefine/GenericAgent) — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system  `Python` ⭐ 2,283
+- [**public-apis/public-apis**](https://github.com/public-apis/public-apis) — A collective list of free APIs  `Python` ⭐ 423,850
+- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown.  `Python` ⭐ 109,843
+- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 53,742
 
 ### 🗺️ Language Interests
 
-`TypeScript` ×11 · `Python` ×4 · `HTML` ×3 · `Go` ×2 · `JavaScript` ×1 · `Jupyter Notebook` ×1 · `Shell` ×1 · `Kotlin` ×1
+`TypeScript` ×10 · `Python` ×7 · `Shell` ×2 · `Go` ×2 · `JavaScript` ×1 · `Jupyter Notebook` ×1 · `HTML` ×1 · `Kotlin` ×1
 
-<sub>Last updated: 16 April 2026 at 07:36 UTC</sub>
+<sub>Last updated: 16 April 2026 at 08:39 UTC</sub>
 <!-- STARS_END -->
 
 ---
