@@ -79,7 +79,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 _No recent public activity found._
 
-<sub>Last updated: 17 April 2026 at 19:27 UTC</sub>
+<sub>Last updated: 17 April 2026 at 20:17 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -87,8 +87,8 @@ _No recent public activity found._
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 1
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -96,7 +96,7 @@ _No recent public activity found._
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 17 April 2026 at 19:27 UTC</sub>
+<sub>Last updated: 17 April 2026 at 20:17 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -106,18 +106,18 @@ _No recent public activity found._
 
 ### 🕐 Recently Starred
 
-- [**BasedHardware/omi**](https://github.com/BasedHardware/omi) — AI that sees your screen, listens to your conversations and tells you what to do  `Dart` ⭐ 9,706
-- [**EvoMap/evolver**](https://github.com/EvoMap/evolver) — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol.   `JavaScript` ⭐ 4,029
-- [**openai/openai-agents-python**](https://github.com/openai/openai-agents-python) — A lightweight, powerful framework for multi-agent workflows  `Python` ⭐ 21,725
-- [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  `Python` ⭐ 22,432
-- [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.  `Shell` ⭐ 16,878
-- [**lsdefine/GenericAgent**](https://github.com/lsdefine/GenericAgent) — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system  `Python` ⭐ 3,489
+- [**BasedHardware/omi**](https://github.com/BasedHardware/omi) — AI that sees your screen, listens to your conversations and tells you what to do  `Dart` ⭐ 9,729
+- [**EvoMap/evolver**](https://github.com/EvoMap/evolver) — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol.   `JavaScript` ⭐ 4,072
+- [**openai/openai-agents-python**](https://github.com/openai/openai-agents-python) — A lightweight, powerful framework for multi-agent workflows  `Python` ⭐ 21,735
+- [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  `Python` ⭐ 22,437
+- [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.  `Shell` ⭐ 16,889
+- [**lsdefine/GenericAgent**](https://github.com/lsdefine/GenericAgent) — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system  `Python` ⭐ 3,508
 
 ### 🗺️ Language Interests
 
 `Python` ×8 · `TypeScript` ×8 · `JavaScript` ×2 · `Shell` ×2 · `Go` ×2 · `Dart` ×1 · `Jupyter Notebook` ×1 · `HTML` ×1
 
-<sub>Last updated: 17 April 2026 at 19:27 UTC</sub>
+<sub>Last updated: 17 April 2026 at 20:17 UTC</sub>
 <!-- STARS_END -->
 
 ---
