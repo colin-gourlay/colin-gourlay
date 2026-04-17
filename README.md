@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add LinkedIn to list of socials_ `16 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add record label information to the track information_ `16 Apr 2026`
 
-<sub>Last updated: 17 April 2026 at 06:43 UTC</sub>
+<sub>Last updated: 17 April 2026 at 07:36 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 17 April 2026 at 06:43 UTC</sub>
+<sub>Last updated: 17 April 2026 at 07:36 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  `Python` ⭐ 22,372
-- [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.  `Shell` ⭐ 16,643
-- [**lsdefine/GenericAgent**](https://github.com/lsdefine/GenericAgent) — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system  `Python` ⭐ 3,035
-- [**public-apis/public-apis**](https://github.com/public-apis/public-apis) — A collective list of free APIs  `Python` ⭐ 424,290
-- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown.  `Python` ⭐ 110,712
-- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 54,175
+- [**mvanhorn/last30days-skill**](https://github.com/mvanhorn/last30days-skill) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  `Python` ⭐ 22,377
+- [**addyosmani/agent-skills**](https://github.com/addyosmani/agent-skills) — Production-grade engineering skills for AI coding agents.  `Shell` ⭐ 16,670
+- [**lsdefine/GenericAgent**](https://github.com/lsdefine/GenericAgent) — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system  `Python` ⭐ 3,087
+- [**public-apis/public-apis**](https://github.com/public-apis/public-apis) — A collective list of free APIs  `Python` ⭐ 424,310
+- [**microsoft/markitdown**](https://github.com/microsoft/markitdown) — Python tool for converting files and office documents to Markdown.  `Python` ⭐ 110,749
+- [**gsd-build/get-shit-done**](https://github.com/gsd-build/get-shit-done) — A light-weight and powerful meta-prompting, context engineering and spec-driven   `JavaScript` ⭐ 54,199
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×10 · `Python` ×7 · `Shell` ×2 · `Go` ×2 · `JavaScript` ×1 · `Jupyter Notebook` ×1 · `HTML` ×1 · `Kotlin` ×1
 
-<sub>Last updated: 17 April 2026 at 06:43 UTC</sub>
+<sub>Last updated: 17 April 2026 at 07:36 UTC</sub>
 <!-- STARS_END -->
 
 ---
