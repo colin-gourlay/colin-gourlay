@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `19 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Incorporate search capabilities into the site_ `19 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `19 Apr 2026`
 - 🌿 **Created branch** `feat/src/hugo-regression-preflight` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `19 Apr 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `19 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `19 Apr 2026`
 - 🌿 **Created branch** `docs/doc-implementation-parity-audit` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review repo settings/setup_ `19 Apr 2026`
 - 🌿 **Created branch** `ci/add-due-date-field-mapping` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🍴 **Forked** [`tractorjuice/arc-kit`](https://github.com/tractorjuice/arc-kit) → `colin-gourlay/arc-kit` `19 Apr 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `17 Apr 2026`
 
-<sub>Last updated: 19 April 2026 at 14:17 UTC</sub>
+<sub>Last updated: 19 April 2026 at 15:16 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 19 April 2026 at 14:17 UTC</sub>
+<sub>Last updated: 19 April 2026 at 15:16 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**multica-ai/andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 60,082
-- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 871
-- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 1,946
-- [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,324
-- [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents  `TypeScript` ⭐ 36,156
-- [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era ✨  `Python` ⭐ 1,762
+- [**multica-ai/andrej-karpathy-skills**](https://github.com/multica-ai/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 60,283
+- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 883
+- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 1,992
+- [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,328
+- [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents  `TypeScript` ⭐ 36,161
+- [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era ✨  `Python` ⭐ 1,769
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×10 · `Python` ×9 · `HTML` ×2 · `JavaScript` ×2 · `Shell` ×2 · `Dart` ×1 · `Jupyter Notebook` ×1 · `Go` ×1
 
-<sub>Last updated: 19 April 2026 at 14:17 UTC</sub>
+<sub>Last updated: 19 April 2026 at 15:16 UTC</sub>
 <!-- STARS_END -->
 
 ---
