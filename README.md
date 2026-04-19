@@ -80,7 +80,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `17 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Bug Report / Licence Clarification_ `17 Apr 2026`
 
-<sub>Last updated: 19 April 2026 at 09:19 UTC</sub>
+<sub>Last updated: 19 April 2026 at 10:17 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -97,7 +97,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 19 April 2026 at 09:19 UTC</sub>
+<sub>Last updated: 19 April 2026 at 10:17 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -108,17 +108,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,299
-- [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents  `TypeScript` ⭐ 36,126
-- [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era ✨  `Python` ⭐ 1,727
+- [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents  `TypeScript` ⭐ 36,130
+- [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era ✨  `Python` ⭐ 1,733
 - [**lukilabs/craft-agents-oss**](https://github.com/lukilabs/craft-agents-oss)  `TypeScript` ⭐ 4,385
-- [**BasedHardware/omi**](https://github.com/BasedHardware/omi) — AI that sees your screen, listens to your conversations and tells you what to do  `Dart` ⭐ 10,674
-- [**EvoMap/evolver**](https://github.com/EvoMap/evolver) — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol.   `JavaScript` ⭐ 5,192
+- [**BasedHardware/omi**](https://github.com/BasedHardware/omi) — AI that sees your screen, listens to your conversations and tells you what to do  `Dart` ⭐ 10,707
+- [**EvoMap/evolver**](https://github.com/EvoMap/evolver) — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol.   `JavaScript` ⭐ 5,214
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×10 · `Python` ×9 · `JavaScript` ×2 · `Shell` ×2 · `Go` ×2 · `Dart` ×1 · `Jupyter Notebook` ×1 · `HTML` ×1
 
-<sub>Last updated: 19 April 2026 at 09:19 UTC</sub>
+<sub>Last updated: 19 April 2026 at 10:17 UTC</sub>
 <!-- STARS_END -->
 
 ---
