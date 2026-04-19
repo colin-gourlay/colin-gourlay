@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `ci/add-due-date-field-mapping` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🍴 **Forked** [`tractorjuice/arc-kit`](https://github.com/tractorjuice/arc-kit) → `colin-gourlay/arc-kit` `19 Apr 2026`
 
-<sub>Last updated: 19 April 2026 at 22:11 UTC</sub>
+<sub>Last updated: 19 April 2026 at 23:14 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 19 April 2026 at 22:11 UTC</sub>
+<sub>Last updated: 19 April 2026 at 23:14 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 61,072
-- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 969
-- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 2,169
-- [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,358
-- [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents  `TypeScript` ⭐ 36,197
-- [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era ✨  `Python` ⭐ 1,803
+- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 61,182
+- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 978
+- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 2,190
+- [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,359
+- [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents  `TypeScript` ⭐ 36,204
+- [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era ✨  `Python` ⭐ 1,804
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×10 · `Python` ×9 · `HTML` ×2 · `JavaScript` ×2 · `Shell` ×2 · `Dart` ×1 · `Jupyter Notebook` ×1 · `Go` ×1
 
-<sub>Last updated: 19 April 2026 at 22:11 UTC</sub>
+<sub>Last updated: 19 April 2026 at 23:14 UTC</sub>
 <!-- STARS_END -->
 
 ---
