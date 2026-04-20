@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `ci/add-due-date-field-mapping` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🍴 **Forked** [`tractorjuice/arc-kit`](https://github.com/tractorjuice/arc-kit) → `colin-gourlay/arc-kit` `19 Apr 2026`
 
-<sub>Last updated: 20 April 2026 at 05:06 UTC</sub>
+<sub>Last updated: 20 April 2026 at 06:51 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 1
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 20 April 2026 at 05:06 UTC</sub>
+<sub>Last updated: 20 April 2026 at 06:51 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 62,499
-- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 1,068
-- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 2,346
-- [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,402
-- [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents  `TypeScript` ⭐ 36,275
-- [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era ✨  `Python` ⭐ 1,835
+- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 62,911
+- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 1,095
+- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 2,405
+- [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,412
+- [**ChromeDevTools/chrome-devtools-mcp**](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Chrome DevTools for coding agents  `TypeScript` ⭐ 36,289
+- [**Tracer-Cloud/opensre**](https://github.com/Tracer-Cloud/opensre) — Build your own AI SRE agents. The open source toolkit for the AI era ✨  `Python` ⭐ 1,843
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×10 · `Python` ×9 · `HTML` ×2 · `JavaScript` ×2 · `Shell` ×2 · `Dart` ×1 · `Jupyter Notebook` ×1 · `Go` ×1
 
-<sub>Last updated: 20 April 2026 at 05:06 UTC</sub>
+<sub>Last updated: 20 April 2026 at 06:51 UTC</sub>
 <!-- STARS_END -->
 
 ---
