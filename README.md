@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `19 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Incorporate search capabilities into the site_ `19 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `19 Apr 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `docs/doc-implementation-parity-audit` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review repo settings/setup_ `19 Apr 2026`
 - 🌿 **Created branch** `ci/add-due-date-field-mapping` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
-- 🍴 **Forked** [`tractorjuice/arc-kit`](https://github.com/tractorjuice/arc-kit) → `colin-gourlay/arc-kit` `19 Apr 2026`
 
-<sub>Last updated: 20 April 2026 at 15:33 UTC</sub>
+<sub>Last updated: 20 April 2026 at 16:30 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 1
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A structured productivity playbook for Todoist - reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 20 April 2026 at 15:33 UTC</sub>
+<sub>Last updated: 20 April 2026 at 16:30 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 14,263
-- [**ruvnet/RuView**](https://github.com/ruvnet/RuView) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   `Rust` ⭐ 47,977
-- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 65,185
-- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 1,226
-- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 2,635
+- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 14,285
+- [**ruvnet/RuView**](https://github.com/ruvnet/RuView) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   `Rust` ⭐ 47,995
+- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 65,394
+- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 1,239
+- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 2,663
 - [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,463
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×9 · `Python` ×9 · `Shell` ×3 · `HTML` ×2 · `JavaScript` ×2 · `Rust` ×1 · `Dart` ×1 · `Jupyter Notebook` ×1
 
-<sub>Last updated: 20 April 2026 at 15:33 UTC</sub>
+<sub>Last updated: 20 April 2026 at 16:30 UTC</sub>
 <!-- STARS_END -->
 
 ---
