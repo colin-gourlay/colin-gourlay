@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review repo settings/setup_ `19 Apr 2026`
 - 🌿 **Created branch** `ci/add-due-date-field-mapping` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 
-<sub>Last updated: 20 April 2026 at 19:27 UTC</sub>
+<sub>Last updated: 20 April 2026 at 20:18 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 20 April 2026 at 19:27 UTC</sub>
+<sub>Last updated: 20 April 2026 at 20:18 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 14,326
-- [**ruvnet/RuView**](https://github.com/ruvnet/RuView) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   `Rust` ⭐ 48,078
-- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 65,784
-- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 1,275
-- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 2,721
-- [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,473
+- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 14,340
+- [**ruvnet/RuView**](https://github.com/ruvnet/RuView) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   `Rust` ⭐ 48,101
+- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 65,890
+- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 1,281
+- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 2,741
+- [**snarktank/ralph**](https://github.com/snarktank/ralph) — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar  `TypeScript` ⭐ 17,475
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×9 · `Python` ×9 · `Shell` ×3 · `HTML` ×2 · `JavaScript` ×2 · `Rust` ×1 · `Dart` ×1 · `Jupyter Notebook` ×1
 
-<sub>Last updated: 20 April 2026 at 19:27 UTC</sub>
+<sub>Last updated: 20 April 2026 at 20:18 UTC</sub>
 <!-- STARS_END -->
 
 ---
