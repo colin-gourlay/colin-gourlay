@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `docs/doc-implementation-parity-audit` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review repo settings/setup_ `19 Apr 2026`
 
-<sub>Last updated: 21 April 2026 at 18:27 UTC</sub>
+<sub>Last updated: 21 April 2026 at 19:30 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 21 April 2026 at 18:27 UTC</sub>
+<sub>Last updated: 21 April 2026 at 19:30 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**pi-hole/pi-hole**](https://github.com/pi-hole/pi-hole) — A black hole for Internet advertisements  `Shell` ⭐ 57,555
-- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 14,886
-- [**ruvnet/RuView**](https://github.com/ruvnet/RuView) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   `Rust` ⭐ 48,785
-- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 71,380
-- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 1,494
-- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 3,348
+- [**pi-hole/pi-hole**](https://github.com/pi-hole/pi-hole) — A black hole for Internet advertisements  `Shell` ⭐ 57,558
+- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 14,912
+- [**ruvnet/RuView**](https://github.com/ruvnet/RuView) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   `Rust` ⭐ 48,803
+- [**forrestchang/andrej-karpathy-skills**](https://github.com/forrestchang/andrej-karpathy-skills) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  ⭐ 71,503
+- [**tractorjuice/arc-kit**](https://github.com/tractorjuice/arc-kit) — Enterprise Architecture Governance & Vendor Procurement Toolkit  `HTML` ⭐ 1,498
+- [**thunderbird/thunderbolt**](https://github.com/thunderbird/thunderbolt) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  `TypeScript` ⭐ 3,368
 
 ### 🗺️ Language Interests
 
 `TypeScript` ×9 · `Python` ×9 · `Shell` ×4 · `JavaScript` ×2 · `Rust` ×1 · `HTML` ×1 · `Dart` ×1 · `Jupyter Notebook` ×1
 
-<sub>Last updated: 21 April 2026 at 18:27 UTC</sub>
+<sub>Last updated: 21 April 2026 at 19:30 UTC</sub>
 <!-- STARS_END -->
 
 ---
