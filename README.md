@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `docs/doc-implementation-parity-audit` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review repo settings/setup_ `19 Apr 2026`
 
-<sub>Last updated: 23 April 2026 at 22:18 UTC</sub>
+<sub>Last updated: 23 April 2026 at 23:20 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 23 April 2026 at 22:18 UTC</sub>
+<sub>Last updated: 23 April 2026 at 23:20 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers  `Python` ⭐ 60,921
-- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 165,245
-- [**microsoft/ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) — 12 Lessons to Get Started Building AI Agents  `Jupyter Notebook` ⭐ 58,742
-- [**VoltAgent/awesome-agent-skills**](https://github.com/VoltAgent/awesome-agent-skills) — A curated collection of 1000+ agent skills from official dev teams and the commu  ⭐ 17,997
-- [**pi-hole/pi-hole**](https://github.com/pi-hole/pi-hole) — A black hole for Internet advertisements  `Shell` ⭐ 57,658
-- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 15,760
+- [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers  `Python` ⭐ 60,969
+- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 165,261
+- [**microsoft/ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) — 12 Lessons to Get Started Building AI Agents  `Jupyter Notebook` ⭐ 58,762
+- [**VoltAgent/awesome-agent-skills**](https://github.com/VoltAgent/awesome-agent-skills) — A curated collection of 1000+ agent skills from official dev teams and the commu  ⭐ 18,030
+- [**pi-hole/pi-hole**](https://github.com/pi-hole/pi-hole) — A black hole for Internet advertisements  `Shell` ⭐ 57,660
+- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 15,769
 
 ### 🗺️ Language Interests
 
 `Python` ×9 · `TypeScript` ×6 · `Shell` ×4 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Rust` ×1 · `HTML` ×1 · `Dart` ×1
 
-<sub>Last updated: 23 April 2026 at 22:18 UTC</sub>
+<sub>Last updated: 23 April 2026 at 23:20 UTC</sub>
 <!-- STARS_END -->
 
 ---
