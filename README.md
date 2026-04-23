@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `docs/doc-implementation-parity-audit` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review repo settings/setup_ `19 Apr 2026`
 
-<sub>Last updated: 22 April 2026 at 23:20 UTC</sub>
+<sub>Last updated: 23 April 2026 at 00:42 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 22 April 2026 at 23:20 UTC</sub>
+<sub>Last updated: 23 April 2026 at 00:42 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 164,207
-- [**microsoft/ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) — 12 Lessons to Get Started Building AI Agents  `Jupyter Notebook` ⭐ 58,345
-- [**VoltAgent/awesome-agent-skills**](https://github.com/VoltAgent/awesome-agent-skills) — A curated collection of 1000+ agent skills from official dev teams and the commu  ⭐ 17,453
-- [**pi-hole/pi-hole**](https://github.com/pi-hole/pi-hole) — A black hole for Internet advertisements  `Shell` ⭐ 57,616
-- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 15,409
-- [**ruvnet/RuView**](https://github.com/ruvnet/RuView) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   `Rust` ⭐ 49,361
+- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 164,245
+- [**microsoft/ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) — 12 Lessons to Get Started Building AI Agents  `Jupyter Notebook` ⭐ 58,353
+- [**VoltAgent/awesome-agent-skills**](https://github.com/VoltAgent/awesome-agent-skills) — A curated collection of 1000+ agent skills from official dev teams and the commu  ⭐ 17,457
+- [**pi-hole/pi-hole**](https://github.com/pi-hole/pi-hole) — A black hole for Internet advertisements  `Shell` ⭐ 57,623
+- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 15,424
+- [**ruvnet/RuView**](https://github.com/ruvnet/RuView) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   `Rust` ⭐ 49,380
 
 ### 🗺️ Language Interests
 
 `Python` ×8 · `TypeScript` ×7 · `Shell` ×4 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Rust` ×1 · `HTML` ×1 · `Dart` ×1
 
-<sub>Last updated: 22 April 2026 at 23:20 UTC</sub>
+<sub>Last updated: 23 April 2026 at 00:42 UTC</sub>
 <!-- STARS_END -->
 
 ---
