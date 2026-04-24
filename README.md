@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `19 Apr 2026`
 - 🌿 **Created branch** `docs/doc-implementation-parity-audit` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 
-<sub>Last updated: 24 April 2026 at 19:21 UTC</sub>
+<sub>Last updated: 24 April 2026 at 20:18 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 24 April 2026 at 19:21 UTC</sub>
+<sub>Last updated: 24 April 2026 at 20:18 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — The open agent skills tool - npx skills  `TypeScript` ⭐ 15,941
-- [**chiphuyen/aie-book**](https://github.com/chiphuyen/aie-book) — [WIP] Resources for AI engineers. Also contains supporting materials for the boo  `Jupyter Notebook` ⭐ 15,333
-- [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics  `JavaScript` ⭐ 24,427
-- [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers  `Python` ⭐ 62,104
-- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 166,148
-- [**microsoft/ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) — 12 Lessons to Get Started Building AI Agents  `Jupyter Notebook` ⭐ 59,183
+- [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — The open agent skills tool - npx skills  `TypeScript` ⭐ 15,943
+- [**chiphuyen/aie-book**](https://github.com/chiphuyen/aie-book) — [WIP] Resources for AI engineers. Also contains supporting materials for the boo  `Jupyter Notebook` ⭐ 15,334
+- [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics  `JavaScript` ⭐ 24,438
+- [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers  `Python` ⭐ 62,148
+- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 166,176
+- [**microsoft/ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) — 12 Lessons to Get Started Building AI Agents  `Jupyter Notebook` ⭐ 59,185
 
 ### 🗺️ Language Interests
 
 `Python` ×9 · `TypeScript` ×6 · `JavaScript` ×4 · `Jupyter Notebook` ×3 · `Shell` ×3 · `Rust` ×1 · `HTML` ×1 · `Dart` ×1
 
-<sub>Last updated: 24 April 2026 at 19:21 UTC</sub>
+<sub>Last updated: 24 April 2026 at 20:18 UTC</sub>
 <!-- STARS_END -->
 
 ---
