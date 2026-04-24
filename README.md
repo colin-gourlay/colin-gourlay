@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: github-trending-tracker-daily_ `20 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `19 Apr 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `19 Apr 2026`
 - 🌿 **Created branch** `docs/doc-implementation-parity-audit` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review repo settings/setup_ `19 Apr 2026`
 
-<sub>Last updated: 24 April 2026 at 10:34 UTC</sub>
+<sub>Last updated: 24 April 2026 at 11:28 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 24 April 2026 at 10:34 UTC</sub>
+<sub>Last updated: 24 April 2026 at 11:28 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers  `Python` ⭐ 61,666
-- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 165,822
-- [**microsoft/ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) — 12 Lessons to Get Started Building AI Agents  `Jupyter Notebook` ⭐ 59,138
-- [**VoltAgent/awesome-agent-skills**](https://github.com/VoltAgent/awesome-agent-skills) — A curated collection of 1000+ agent skills from official dev teams and the commu  ⭐ 18,506
-- [**pi-hole/pi-hole**](https://github.com/pi-hole/pi-hole) — A black hole for Internet advertisements  `Shell` ⭐ 57,672
-- [**Donchitos/Claude-Code-Game-Studios**](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,  `Shell` ⭐ 15,922
+- [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — The open agent skills tool - npx skills  `TypeScript` ⭐ 15,894
+- [**chiphuyen/aie-book**](https://github.com/chiphuyen/aie-book) — [WIP] Resources for AI engineers. Also contains supporting materials for the boo  `Jupyter Notebook` ⭐ 15,309
+- [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics  `JavaScript` ⭐ 24,276
+- [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers  `Python` ⭐ 61,710
+- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 165,845
+- [**microsoft/ai-agents-for-beginners**](https://github.com/microsoft/ai-agents-for-beginners) — 12 Lessons to Get Started Building AI Agents  `Jupyter Notebook` ⭐ 59,143
 
 ### 🗺️ Language Interests
 
-`Python` ×9 · `TypeScript` ×6 · `Shell` ×4 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Rust` ×1 · `HTML` ×1 · `Dart` ×1
+`Python` ×9 · `TypeScript` ×6 · `JavaScript` ×4 · `Jupyter Notebook` ×3 · `Shell` ×3 · `Rust` ×1 · `HTML` ×1 · `Dart` ×1
 
-<sub>Last updated: 24 April 2026 at 10:34 UTC</sub>
+<sub>Last updated: 24 April 2026 at 11:28 UTC</sub>
 <!-- STARS_END -->
 
 ---
