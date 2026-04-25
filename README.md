@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `19 Apr 2026`
 - 🌿 **Created branch** `docs/doc-implementation-parity-audit` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Apr 2026`
 
-<sub>Last updated: 25 April 2026 at 22:12 UTC</sub>
+<sub>Last updated: 25 April 2026 at 23:15 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 25 April 2026 at 22:12 UTC</sub>
+<sub>Last updated: 25 April 2026 at 23:15 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**google/osv-scanner**](https://github.com/google/osv-scanner) — Vulnerability scanner written in Go which uses the data provided by https://osv.  `Go` ⭐ 9,731
-- [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — The open agent skills tool - npx skills  `TypeScript` ⭐ 16,044
+- [**google/osv-scanner**](https://github.com/google/osv-scanner) — Vulnerability scanner written in Go which uses the data provided by https://osv.  `Go` ⭐ 9,736
+- [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — The open agent skills tool - npx skills  `TypeScript` ⭐ 16,046
 - [**chiphuyen/aie-book**](https://github.com/chiphuyen/aie-book) — [WIP] Resources for AI engineers. Also contains supporting materials for the boo  `Jupyter Notebook` ⭐ 15,368
-- [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics  `JavaScript` ⭐ 24,742
-- [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers  `Python` ⭐ 63,723
-- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 166,923
+- [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics  `JavaScript` ⭐ 24,748
+- [**Z4nzu/hackingtool**](https://github.com/Z4nzu/hackingtool) — ALL IN ONE Hacking Tool For Hackers  `Python` ⭐ 63,779
+- [**affaan-m/everything-claude-code**](https://github.com/affaan-m/everything-claude-code) — The agent harness performance optimization system. Skills, instincts, memory, se  `JavaScript` ⭐ 166,939
 
 ### 🗺️ Language Interests
 
 `Python` ×8 · `TypeScript` ×6 · `JavaScript` ×4 · `Jupyter Notebook` ×3 · `Shell` ×3 · `Go` ×1 · `Rust` ×1 · `HTML` ×1
 
-<sub>Last updated: 25 April 2026 at 22:12 UTC</sub>
+<sub>Last updated: 25 April 2026 at 23:15 UTC</sub>
 <!-- STARS_END -->
 
 ---
