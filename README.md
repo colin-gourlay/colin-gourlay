@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `19 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Incorporate search capabilities into the site_ `19 Apr 2026`
 
-<sub>Last updated: 27 April 2026 at 00:42 UTC</sub>
+<sub>Last updated: 27 April 2026 at 01:38 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 27 April 2026 at 00:42 UTC</sub>
+<sub>Last updated: 27 April 2026 at 01:38 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**ComposioHQ/awesome-codex-skills**](https://github.com/ComposioHQ/awesome-codex-skills) — A curated list of practical Codex skills for automating workflows across the Cod  `Python` ⭐ 1,973
-- [**davila7/claude-code-templates**](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code  `Python` ⭐ 25,554
-- [**google/osv-scanner**](https://github.com/google/osv-scanner) — Vulnerability scanner written in Go which uses the data provided by https://osv.  `Go` ⭐ 9,820
-- [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — The open agent skills tool - npx skills  `TypeScript` ⭐ 16,138
+- [**ComposioHQ/awesome-codex-skills**](https://github.com/ComposioHQ/awesome-codex-skills) — A curated list of practical Codex skills for automating workflows across the Cod  `Python` ⭐ 2,016
+- [**davila7/claude-code-templates**](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code  `Python` ⭐ 25,564
+- [**google/osv-scanner**](https://github.com/google/osv-scanner) — Vulnerability scanner written in Go which uses the data provided by https://osv.  `Go` ⭐ 9,828
+- [**vercel-labs/skills**](https://github.com/vercel-labs/skills) — The open agent skills tool - npx skills  `TypeScript` ⭐ 16,145
 - [**chiphuyen/aie-book**](https://github.com/chiphuyen/aie-book) — [WIP] Resources for AI engineers. Also contains supporting materials for the boo  `Jupyter Notebook` ⭐ 15,382
-- [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics  `JavaScript` ⭐ 24,950
+- [**coreyhaines31/marketingskills**](https://github.com/coreyhaines31/marketingskills) — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics  `JavaScript` ⭐ 24,958
 
 ### 🗺️ Language Interests
 
 `Python` ×10 · `TypeScript` ×5 · `JavaScript` ×4 · `Shell` ×3 · `Jupyter Notebook` ×2 · `Go` ×1 · `Rust` ×1 · `HTML` ×1
 
-<sub>Last updated: 27 April 2026 at 00:42 UTC</sub>
+<sub>Last updated: 27 April 2026 at 01:38 UTC</sub>
 <!-- STARS_END -->
 
 ---
