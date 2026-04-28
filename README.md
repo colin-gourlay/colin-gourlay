@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: saas-spin-up_ `28 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `28 Apr 2026`
+- 🌿 **Created branch** `fix/gallery-home-icon` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: sprint-review_ `28 Apr 2026`
+- 🌿 **Created branch** `fix/remove-search-templates-overlay` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
 - 🌿 **Created branch** `docs/add-code-of-conduct` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: iteration-0_ `28 Apr 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: house-admin_ `28 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `27 Apr 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `27 Apr 2026`
-- 🌿 **Created branch** `docs/releases-and-tags-strategy` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `27 Apr 2026`
-- 🌿 **Created branch** `fix/bump-template-version-nested-glob` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `27 Apr 2026`
-- 🌿 **Created branch** `chore/bump-github-repo-spin-up-version` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `27 Apr 2026`
 
-<sub>Last updated: 28 April 2026 at 16:39 UTC</sub>
+<sub>Last updated: 28 April 2026 at 17:36 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 28 April 2026 at 16:39 UTC</sub>
+<sub>Last updated: 28 April 2026 at 17:36 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,831
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,832
 - [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,696
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,786
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,620
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 28 April 2026 at 16:39 UTC</sub>
+<sub>Last updated: 28 April 2026 at 17:36 UTC</sub>
 <!-- STARS_END -->
 
 ---
