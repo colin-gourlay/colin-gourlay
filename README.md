@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `29 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Chameleons_ `29 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for The Tears_ `29 Apr 2026`
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `29 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _UX needs to be improved in the GitHub Pages_ `29 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: saas-wind-down_ `29 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _UX needs to be improved in the GitHub Pages_ `29 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `28 Apr 2026`
 - 🌿 **Created branch** `fix/github-trending-typo` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
-- 🌿 **Created branch** `fix/prevent-gallery-quality-gate-failures` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
-- 🌿 **Created branch** `fix/github-trending-daily-review-task-title` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
-- 🌿 **Created branch** `ci/lighthouse-accessibility-warn` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
-- 🌿 **Created branch** `ci/gallery-quality-tofu-bootstrap` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
-- 🌿 **Created branch** `fix/github-trending-daily-review-priority-2` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
-- 🌿 **Created branch** `feat/faceted-gallery-search` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Apr 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: saas-spin-up_ `28 Apr 2026`
 
-<sub>Last updated: 29 April 2026 at 03:10 UTC</sub>
+<sub>Last updated: 29 April 2026 at 05:09 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 2
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 2
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 29 April 2026 at 03:10 UTC</sub>
+<sub>Last updated: 29 April 2026 at 05:09 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,8 +115,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,844
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,694
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,846
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,695
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,786
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,620
 - [**JamesNK/Newtonsoft.Json**](https://github.com/JamesNK/Newtonsoft.Json) — Json.NET is a popular high-performance JSON framework for .NET  `C#` ⭐ 11,288
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 29 April 2026 at 03:10 UTC</sub>
+<sub>Last updated: 29 April 2026 at 05:09 UTC</sub>
 <!-- STARS_END -->
 
 ---
