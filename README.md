@@ -77,9 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-_No recent public activity found._
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `30 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Standardised “Album of the Week” Review Task_ `30 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Apply consistent font across entire GitHub Pages Content_ `30 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Create Standardised “Album of the Week” Review Task_ `30 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: weekly-close_ `30 Apr 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Apply consistent font across entire GitHub Pages Content_ `30 Apr 2026`
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `29 Apr 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _best practice around UX and a modern site_ `29 Apr 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `29 Apr 2026`
+- 🌿 **Created branch** `fix/lighthouse-artifact-upload` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `29 Apr 2026`
 
-<sub>Last updated: 30 April 2026 at 10:38 UTC</sub>
+<sub>Last updated: 30 April 2026 at 11:34 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,7 +105,7 @@ _No recent public activity found._
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 30 April 2026 at 10:38 UTC</sub>
+<sub>Last updated: 30 April 2026 at 11:34 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -117,7 +126,7 @@ _No recent public activity found._
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 30 April 2026 at 10:38 UTC</sub>
+<sub>Last updated: 30 April 2026 at 11:34 UTC</sub>
 <!-- STARS_END -->
 
 ---
