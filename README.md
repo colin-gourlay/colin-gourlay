@@ -77,7 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Check that issues have been addressed_ `3 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create release page_ `3 May 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 May 2026`
 - 🌿 **Created branch** `fix/deploy-workflow-sass-indentation` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 May 2026`
@@ -85,10 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `feat/album-review-lidarr-prevent-redownload` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 May 2026`
 - 🌿 **Created branch** `feat/album-review-explicit-content-check` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 May 2026`
 - 🌿 **Created branch** `fix/gallery-mtime-use-content-file` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: one-on-one_ `3 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: radio-show-core_ `2 May 2026`
 
-<sub>Last updated: 3 May 2026 at 13:33 UTC</sub>
+<sub>Last updated: 3 May 2026 at 14:22 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 3 May 2026 at 13:33 UTC</sub>
+<sub>Last updated: 3 May 2026 at 14:22 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,903
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,721
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,902
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,722
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,800
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,620
-- [**JamesNK/Newtonsoft.Json**](https://github.com/JamesNK/Newtonsoft.Json) — Json.NET is a popular high-performance JSON framework for .NET  `C#` ⭐ 11,289
+- [**JamesNK/Newtonsoft.Json**](https://github.com/JamesNK/Newtonsoft.Json) — Json.NET is a popular high-performance JSON framework for .NET  `C#` ⭐ 11,288
 - [**FluentValidation/FluentValidation**](https://github.com/FluentValidation/FluentValidation) — A popular .NET validation library for building strongly-typed validation rules.  `C#` ⭐ 9,689
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 3 May 2026 at 13:33 UTC</sub>
+<sub>Last updated: 3 May 2026 at 14:22 UTC</sub>
 <!-- STARS_END -->
 
 ---
