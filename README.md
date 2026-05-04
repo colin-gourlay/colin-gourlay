@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🌿 **Created branch** `ci/fix-lighthouse-report-generation` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 May 2026`
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 May 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `4 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add tags to show notes_ `4 May 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `4 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: onboarding-checklist_ `4 May 2026`
+- 🌿 **Created branch** `copilot/add-staging-copy-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Check that issues have been addressed_ `3 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create release page_ `3 May 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 May 2026`
-- 🌿 **Created branch** `fix/deploy-workflow-sass-indentation` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 May 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 May 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `3 May 2026`
-- 🌿 **Created branch** `feat/album-review-lidarr-prevent-redownload` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 May 2026`
-- 🌿 **Created branch** `feat/album-review-explicit-content-check` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 May 2026`
-- 🌿 **Created branch** `fix/gallery-mtime-use-content-file` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 May 2026`
 
-<sub>Last updated: 4 May 2026 at 07:08 UTC</sub>
+<sub>Last updated: 4 May 2026 at 08:54 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 2
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 4 May 2026 at 07:08 UTC</sub>
+<sub>Last updated: 4 May 2026 at 08:54 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 4 May 2026 at 07:08 UTC</sub>
+<sub>Last updated: 4 May 2026 at 08:54 UTC</sub>
 <!-- STARS_END -->
 
 ---
