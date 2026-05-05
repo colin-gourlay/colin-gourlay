@@ -77,8 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _[template-request] Willo video review_ `5 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _[template-request] Willo video review_ `5 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `5 May 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _[template-request] Willo video review_ `5 May 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `5 May 2026`
 - 🌿 **Created branch** `fix/artist-folder-task-aotw-review` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `5 May 2026`
 - 🌿 **Created branch** `ci/lighthouse-public-report-links` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `5 May 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: weekly-commitment-reset_ `5 May 2026`
 - 🌿 **Created branch** `ci/fix-lighthouse-report-generation` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 May 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `4 May 2026`
 
-<sub>Last updated: 5 May 2026 at 08:49 UTC</sub>
+<sub>Last updated: 5 May 2026 at 09:41 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 5 May 2026 at 08:49 UTC</sub>
+<sub>Last updated: 5 May 2026 at 09:41 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 5 May 2026 at 08:49 UTC</sub>
+<sub>Last updated: 5 May 2026 at 09:41 UTC</sub>
 <!-- STARS_END -->
 
 ---
