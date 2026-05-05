@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `ci/fix-lighthouse-report-generation` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 May 2026`
 
-<sub>Last updated: 5 May 2026 at 22:22 UTC</sub>
+<sub>Last updated: 5 May 2026 at 23:21 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 5 May 2026 at 22:22 UTC</sub>
+<sub>Last updated: 5 May 2026 at 23:21 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -120,13 +120,13 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,812
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,620
 - [**JamesNK/Newtonsoft.Json**](https://github.com/JamesNK/Newtonsoft.Json) — Json.NET is a popular high-performance JSON framework for .NET  `C#` ⭐ 11,290
-- [**FluentValidation/FluentValidation**](https://github.com/FluentValidation/FluentValidation) — A popular .NET validation library for building strongly-typed validation rules.  `C#` ⭐ 9,688
+- [**FluentValidation/FluentValidation**](https://github.com/FluentValidation/FluentValidation) — A popular .NET validation library for building strongly-typed validation rules.  `C#` ⭐ 9,689
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 5 May 2026 at 22:22 UTC</sub>
+<sub>Last updated: 5 May 2026 at 23:21 UTC</sub>
 <!-- STARS_END -->
 
 ---
