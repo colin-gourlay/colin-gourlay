@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Check that issues have been addressed_ `6 May 2026`
 
-<sub>Last updated: 7 May 2026 at 13:37 UTC</sub>
+<sub>Last updated: 7 May 2026 at 14:59 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**pi-collectarr**](https://github.com/colin-gourlay/pi-collectarr)  `C#`
 
-<sub>Last updated: 7 May 2026 at 13:37 UTC</sub>
+<sub>Last updated: 7 May 2026 at 14:59 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,9 +115,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,941
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,943
 - [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,738
-- [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,822
+- [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,823
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,620
 - [**JamesNK/Newtonsoft.Json**](https://github.com/JamesNK/Newtonsoft.Json) — Json.NET is a popular high-performance JSON framework for .NET  `C#` ⭐ 11,292
 - [**FluentValidation/FluentValidation**](https://github.com/FluentValidation/FluentValidation) — A popular .NET validation library for building strongly-typed validation rules.  `C#` ⭐ 9,690
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 7 May 2026 at 13:37 UTC</sub>
+<sub>Last updated: 7 May 2026 at 14:59 UTC</sub>
 <!-- STARS_END -->
 
 ---
