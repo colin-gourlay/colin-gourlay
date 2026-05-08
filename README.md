@@ -77,6 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Review Existing “Upcoming Gigs” Section and Determine Future Direction_ `8 May 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Investigate Existing WhatsApp “Follow Us” Link and Usage_ `8 May 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Obtain and Display Official Social Media Links Across the Site_ `8 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Identify Radio Garden URI and Related Integration Information_ `8 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _TuneIn Schedule Is Out of Sync with Actual Station Schedule_ `8 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 May 2026`
@@ -84,11 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `fix/github-repo-spin-up-task-wording` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 May 2026`
 - 🌿 **Created branch** `copilot/album-weekly-review-task-tags` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `8 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: awesome-list-submission_ `8 May 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Highlight releases that are for sale_ `8 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _The gap between the upcoming shows looks too large_ `8 May 2026`
 
-<sub>Last updated: 8 May 2026 at 16:34 UTC</sub>
+<sub>Last updated: 8 May 2026 at 17:33 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 8 May 2026 at 16:34 UTC</sub>
+<sub>Last updated: 8 May 2026 at 17:33 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,8 +115,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,959
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,747
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,958
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,746
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,825
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,621
 - [**JamesNK/Newtonsoft.Json**](https://github.com/JamesNK/Newtonsoft.Json) — Json.NET is a popular high-performance JSON framework for .NET  `C#` ⭐ 11,293
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 8 May 2026 at 16:34 UTC</sub>
+<sub>Last updated: 8 May 2026 at 17:33 UTC</sub>
 <!-- STARS_END -->
 
 ---
