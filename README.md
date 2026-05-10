@@ -79,16 +79,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `10 May 2026`
+- 🌿 **Created branch** `chore/set-github-trending-repo-review-color-grape` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
+- 🌿 **Created branch** `chore/improve-github-trending-repo-review-tags` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
+- 🌿 **Created branch** `chore/improve-github-trending-repo-review-description` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
+- 🌿 **Created branch** `chore/rename-github-trending-repo-review-slug` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
 - 🌿 **Created branch** `chore/todoist-practitioner-agent-csv-import-rules` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
 - 🌿 **Created branch** `feat/improve-github-trending-repos-daily-review` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Templates are not rendered clearly when a category is picked_ `10 May 2026`
 - 🌿 **Created branch** `feat/todoist-practitioner-agent` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: repo-profile-audit_ `10 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Templates are not rendered clearly when a category is picked_ `10 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Review Existing “Upcoming Gigs” Section and Determine Future Direction_ `8 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Investigate Existing WhatsApp “Follow Us” Link and Usage_ `8 May 2026`
 
-<sub>Last updated: 10 May 2026 at 17:22 UTC</sub>
+<sub>Last updated: 10 May 2026 at 18:23 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 10 May 2026 at 17:22 UTC</sub>
+<sub>Last updated: 10 May 2026 at 18:23 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,990
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,991
 - [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,754
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,832
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,621
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 10 May 2026 at 17:22 UTC</sub>
+<sub>Last updated: 10 May 2026 at 18:23 UTC</sub>
 <!-- STARS_END -->
 
 ---
