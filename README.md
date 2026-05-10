@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _improve the presentation of  tags in featured template on home page_ `10 May 2026`
 - 🌿 **Created branch** `chore/set-github-trending-repo-review-color-grape` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 May 2026`
 
-<sub>Last updated: 10 May 2026 at 22:18 UTC</sub>
+<sub>Last updated: 10 May 2026 at 23:21 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 10 May 2026 at 22:18 UTC</sub>
+<sub>Last updated: 10 May 2026 at 23:21 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,9 +115,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,994
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,758
-- [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,836
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 86,996
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,759
+- [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,837
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,621
 - [**JamesNK/Newtonsoft.Json**](https://github.com/JamesNK/Newtonsoft.Json) — Json.NET is a popular high-performance JSON framework for .NET  `C#` ⭐ 11,294
 - [**FluentValidation/FluentValidation**](https://github.com/FluentValidation/FluentValidation) — A popular .NET validation library for building strongly-typed validation rules.  `C#` ⭐ 9,689
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C` ×1 · `Go` ×1
 
-<sub>Last updated: 10 May 2026 at 22:18 UTC</sub>
+<sub>Last updated: 10 May 2026 at 23:21 UTC</sub>
 <!-- STARS_END -->
 
 ---
