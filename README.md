@@ -77,18 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `18 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve Layout of Upcoming Show Tiles_ `18 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve wording_ `18 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve wording_ `18 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: azure-migration-assessment_ `18 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review and Improve Document `<title>` Elements for Accessibility and SEO_ `18 May 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `18 May 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `18 May 2026`
-- 🌿 **Created branch** `copilot/harden-todoist-practitioner-agent` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `18 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Improve the recurrence icon_ `18 May 2026`
+_No recent public activity found._
 
-<sub>Last updated: 18 May 2026 at 13:20 UTC</sub>
+<sub>Last updated: 18 May 2026 at 15:09 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +96,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 18 May 2026 at 13:20 UTC</sub>
+<sub>Last updated: 18 May 2026 at 15:09 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -118,15 +109,15 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,860
 - [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 24
 - [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,097
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,904
-- [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,862
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,906
+- [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,863
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,622
 
 ### 🗺️ Language Interests
 
 `Python` ×5 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `PHP` ×1
 
-<sub>Last updated: 18 May 2026 at 13:20 UTC</sub>
+<sub>Last updated: 18 May 2026 at 15:09 UTC</sub>
 <!-- STARS_END -->
 
 ---
