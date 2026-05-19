@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 May 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `19 May 2026`
+- 🌿 **Created branch** `chore/graduate-saas-wind-down-0-1-0` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 May 2026`
+- 🌿 **Created branch** `agents/whatsapp-communications-removal` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `19 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add a third upcoming show to the home page_ `19 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Update the specific Upcoming Show Tile_ `19 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Update X iconography_ `19 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add a third upcoming show to the home page_ `19 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Update the specific Upcoming Show Tile_ `19 May 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Download CSV button should be in line with UX best practice and modern w_ `19 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: weekly-plan_ `19 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Ensure Documents Include Appropriate Meta Descriptions_ `19 May 2026`
 
-<sub>Last updated: 19 May 2026 at 18:41 UTC</sub>
+<sub>Last updated: 19 May 2026 at 19:36 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 2
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
 - [**east-coast-fm-website**](https://github.com/colin-gourlay/east-coast-fm-website)
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 19 May 2026 at 18:41 UTC</sub>
+<sub>Last updated: 19 May 2026 at 19:36 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -119,14 +119,14 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 24
 - [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,126
 - [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,919
-- [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,868
+- [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,869
 - [**nunit/nunit**](https://github.com/nunit/nunit) — NUnit Framework  `C#` ⭐ 2,622
 
 ### 🗺️ Language Interests
 
 `Python` ×5 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `PHP` ×1
 
-<sub>Last updated: 19 May 2026 at 18:41 UTC</sub>
+<sub>Last updated: 19 May 2026 at 19:36 UTC</sub>
 <!-- STARS_END -->
 
 ---
