@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add a third upcoming show to the home page_ `19 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Update the specific Upcoming Show Tile_ `19 May 2026`
 
-<sub>Last updated: 19 May 2026 at 22:30 UTC</sub>
+<sub>Last updated: 19 May 2026 at 23:28 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 19 May 2026 at 22:30 UTC</sub>
+<sub>Last updated: 19 May 2026 at 23:28 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `TypeScript` ×5 · `C#` ×3 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `PHP` ×1
 
-<sub>Last updated: 19 May 2026 at 22:30 UTC</sub>
+<sub>Last updated: 19 May 2026 at 23:28 UTC</sub>
 <!-- STARS_END -->
 
 ---
