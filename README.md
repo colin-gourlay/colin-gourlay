@@ -79,16 +79,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `20 May 2026`
+- 🌿 **Created branch** `fix/add-changelog-doc-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
+- 🌿 **Created branch** `copilot/refine-readme-md-task-line` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
+- 🌿 **Created branch** `chore/add-gitmessage-task-to-spin-up-template` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
 - 🌿 **Created branch** `chore/add-gitignore-task-to-spin-up-template` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
 - 🌿 **Created branch** `chore/add-git-repo-step-to-spin-up-template` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
 - 🌿 **Created branch** `chore/iteration-0-version-bump` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add photo of Twisted Nerve to Upcoming Shows on home page_ `20 May 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `20 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add photo of Twisted Nerve to Upcoming Shows on home page_ `20 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Identify tracks that were dropped during the live show_ `20 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: radio-show-promotion_ `20 May 2026`
 
-<sub>Last updated: 20 May 2026 at 12:59 UTC</sub>
+<sub>Last updated: 20 May 2026 at 13:59 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 20 May 2026 at 12:59 UTC</sub>
+<sub>Last updated: 20 May 2026 at 13:59 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 1,882
+- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 1,890
 - [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,863
 - [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 24
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,143
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,930
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,144
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,929
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,872
 
 ### 🗺️ Language Interests
 
 `Python` ×5 · `TypeScript` ×5 · `C#` ×4 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2 · `PHP` ×1
 
-<sub>Last updated: 20 May 2026 at 12:59 UTC</sub>
+<sub>Last updated: 20 May 2026 at 13:59 UTC</sub>
 <!-- STARS_END -->
 
 ---
