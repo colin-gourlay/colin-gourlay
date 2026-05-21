@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `20 May 2026`
-- 🌿 **Created branch** `docs/github-trending-repo-review-readme-sync` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
-- 🌿 **Created branch** `fix/csv-template-tighten-github-trending-description` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
-- 🌿 **Created branch** `fix/clarify-branching-guideline-doc-path` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
-- 🌿 **Created branch** `fix/add-changelog-doc-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
-- 🌿 **Created branch** `copilot/refine-readme-md-task-line` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
-- 🌿 **Created branch** `chore/add-gitmessage-task-to-spin-up-template` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
-- 🌿 **Created branch** `chore/add-gitignore-task-to-spin-up-template` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
-- 🌿 **Created branch** `chore/add-git-repo-step-to-spin-up-template` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 May 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `21 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix spacing on the home page_ `21 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create a page for Vintage Explosion_ `21 May 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix spacing on the home page_ `21 May 2026`
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `21 May 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `21 May 2026`
+- 🌿 **Created branch** `chore/reset-processed-slugs-20260521054933` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `21 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: code-review-checklist_ `21 May 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Ensure Links Use Descriptive Text_ `21 May 2026`
+- 🌿 **Created branch** `docs/github-trending-review-icons` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `21 May 2026`
 
-<sub>Last updated: 21 May 2026 at 03:13 UTC</sub>
+<sub>Last updated: 21 May 2026 at 05:29 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 21 May 2026 at 03:13 UTC</sub>
+<sub>Last updated: 21 May 2026 at 05:29 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 1,949
+- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 1,956
 - [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,864
 - [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 24
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,154
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,933
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,158
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,934
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,877
 
 ### 🗺️ Language Interests
 
 `Python` ×5 · `TypeScript` ×5 · `C#` ×4 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2 · `PHP` ×1
 
-<sub>Last updated: 21 May 2026 at 03:13 UTC</sub>
+<sub>Last updated: 21 May 2026 at 05:29 UTC</sub>
 <!-- STARS_END -->
 
 ---
