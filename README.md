@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `21 May 2026`
 - 🌿 **Created branch** `chore/reset-processed-slugs-20260521054933` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `21 May 2026`
 
-<sub>Last updated: 22 May 2026 at 12:55 UTC</sub>
+<sub>Last updated: 22 May 2026 at 13:50 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 22 May 2026 at 12:55 UTC</sub>
+<sub>Last updated: 22 May 2026 at 13:50 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 2,399
+- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 2,413
 - [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,868
 - [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 24
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,184
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,972
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,183
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 41,971
 - [**Ravencentric/awesome-arr**](https://github.com/Ravencentric/awesome-arr) — A collection of *arrs and related stuff.  ⭐ 3,883
 
 ### 🗺️ Language Interests
 
 `Python` ×5 · `TypeScript` ×5 · `C#` ×4 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2 · `PHP` ×1
 
-<sub>Last updated: 22 May 2026 at 12:55 UTC</sub>
+<sub>Last updated: 22 May 2026 at 13:50 UTC</sub>
 <!-- STARS_END -->
 
 ---
