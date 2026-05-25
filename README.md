@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🍴 **Forked** [`mattpocock/skills`](https://github.com/mattpocock/skills) → `colin-gourlay/skills` `25 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Enhance Todoist Template Pipeline with Post-Import API/MCP Enrichment_ `25 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: radio-show-post-production_ `25 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Ensure Documents Include Valid `rel="canonical"` Links_ `25 May 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `docs/9001-sync-branch-convention` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `25 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Ensure Entire Site Complies with WCAG Accessibility Guidelines_ `25 May 2026`
 - 🔀 **Closed PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `7 May 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `24 May 2026`
 
-<sub>Last updated: 25 May 2026 at 11:25 UTC</sub>
+<sub>Last updated: 25 May 2026 at 13:14 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 25 May 2026 at 11:25 UTC</sub>
+<sub>Last updated: 25 May 2026 at 13:14 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**github-community-projects/evergreen**](https://github.com/github-community-projects/evergreen) — GitHub Action to enable automated security updates and open a issue/PR in repos   `Python` ⭐ 226
-- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,045
+- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,048
 - [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,871
 - [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 24
-- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,252
-- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 42,013
+- [**home-assistant/core**](https://github.com/home-assistant/core) — :house_with_garden: Open source home automation that puts local control and priv  `Python` ⭐ 87,254
+- [**curl/curl**](https://github.com/curl/curl) — A command line tool and library for transferring data with URL syntax, supportin  `C` ⭐ 42,014
 
 ### 🗺️ Language Interests
 
 `Python` ×6 · `TypeScript` ×5 · `C#` ×4 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2 · `PHP` ×1
 
-<sub>Last updated: 25 May 2026 at 11:25 UTC</sub>
+<sub>Last updated: 25 May 2026 at 13:14 UTC</sub>
 <!-- STARS_END -->
 
 ---
