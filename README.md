@@ -78,17 +78,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ## 📡 Recent Activity
 
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Ensure Documents Include Valid `hreflang` Metadata_ `28 May 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `28 May 2026`
+- 🌿 **Created branch** `chore/2026-hreflang-seo-agent-guidance` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: radio-show-guest-feature_ `28 May 2026`
+- 🌿 **Created branch** `fix/20260528-repo-name-task-wording` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 May 2026`
 - 🌿 **Created branch** `fix/20260528-explicit-push-targets` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Ensure Documents Include Valid `rel="canonical"` Links_ `28 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review template: weekly-review_ `28 May 2026`
 - 🌿 **Created branch** `chore/20260528-seo-agent-canonical-guidance` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 May 2026`
-- 🌿 **Created branch** `fix/20260528-repo-spin-up-task-wording` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 May 2026`
-- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `27 May 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `27 May 2026`
-- 🌿 **Created branch** `feature/20260527-issue-template-chooser-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `27 May 2026`
 
-<sub>Last updated: 28 May 2026 at 15:12 UTC</sub>
+<sub>Last updated: 28 May 2026 at 17:19 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 28 May 2026 at 15:12 UTC</sub>
+<sub>Last updated: 28 May 2026 at 17:19 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -118,15 +118,15 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**alire-project/alire**](https://github.com/alire-project/alire) — Command-line tool from the Alire project and supporting library  `Ada` ⭐ 392
 - [**mrshu/github-statuses**](https://github.com/mrshu/github-statuses) — The "Missing GitHub Status Page" -- a Flat Data attempt at historically document  `HTML` ⭐ 452
 - [**github-community-projects/evergreen**](https://github.com/github-community-projects/evergreen) — GitHub Action to enable automated security updates and open a issue/PR in repos   `Python` ⭐ 226
-- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,165
-- [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,877
+- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,169
+- [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,878
 - [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 24
 
 ### 🗺️ Language Interests
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `HTML` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2
 
-<sub>Last updated: 28 May 2026 at 15:12 UTC</sub>
+<sub>Last updated: 28 May 2026 at 17:19 UTC</sub>
 <!-- STARS_END -->
 
 ---
