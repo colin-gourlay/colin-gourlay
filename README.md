@@ -77,6 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Do not display 'powered by' text in the footer_ `31 May 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Show 18 should not be visible_ `31 May 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Change layout of her bar on home page_ `31 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Review and Update About Page Legal and Charity Registration Information _ `31 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Review and Update Social Media Handles and Links to Reflect New Station _ `31 May 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Update Station Logo to Reflect New Sundown Radio Branding_ `31 May 2026`
@@ -84,11 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `31 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct status of show page_ `31 May 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Restore Previous Favicon After Blowfish Theme Migration_ `31 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _The on air banner has disappeared from the homepage_ `31 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct status of show page_ `31 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _The on air banner has disappeared from the homepage_ `31 May 2026`
 
-<sub>Last updated: 31 May 2026 at 19:32 UTC</sub>
+<sub>Last updated: 31 May 2026 at 20:27 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 31 May 2026 at 19:32 UTC</sub>
+<sub>Last updated: 31 May 2026 at 20:27 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `HTML` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2
 
-<sub>Last updated: 31 May 2026 at 19:32 UTC</sub>
+<sub>Last updated: 31 May 2026 at 20:27 UTC</sub>
 <!-- STARS_END -->
 
 ---
