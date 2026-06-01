@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Do not display 'powered by' text in the footer_ `31 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Show 18 should not be visible_ `31 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Change layout of her bar on home page_ `31 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Review and Update About Page Legal and Charity Registration Information _ `31 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Review and Update Social Media Handles and Links to Reflect New Station _ `31 May 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/east-coast-fm-website`](https://github.com/colin-gourlay/east-coast-fm-website) — _Update Station Logo to Reflect New Sundown Radio Branding_ `31 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve tooltip wording that is being applied to menu bar items_ `31 May 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `31 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct status of show page_ `31 May 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Restore Previous Favicon After Blowfish Theme Migration_ `31 May 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Text on the home page needs adjustment_ `1 Jun 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `1 Jun 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Show 15 should not be displayed at the moment_ `1 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Show 15 should not be displayed at the moment_ `1 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Text on the home page needs adjustment_ `1 Jun 2026`
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `1 Jun 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review and Improve Document `<title>` Elements for Accessibility and SEO_ `1 Jun 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `1 Jun 2026`
+- 🌿 **Created branch** `docs/20260601-improve-seo-agent-title-guidance` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `1 Jun 2026`
+- 🌿 **Created branch** `colin-gourlay-patch-1` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `1 Jun 2026`
 
-<sub>Last updated: 1 June 2026 at 03:17 UTC</sub>
+<sub>Last updated: 1 June 2026 at 05:42 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 1 June 2026 at 03:17 UTC</sub>
+<sub>Last updated: 1 June 2026 at 05:42 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -118,7 +118,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**alire-project/alire**](https://github.com/alire-project/alire) — Command-line tool from the Alire project and supporting library  `Ada` ⭐ 392
 - [**mrshu/github-statuses**](https://github.com/mrshu/github-statuses) — The "Missing GitHub Status Page" -- a Flat Data attempt at historically document  `HTML` ⭐ 458
 - [**github-community-projects/evergreen**](https://github.com/github-community-projects/evergreen) — GitHub Action to enable automated security updates and open a issue/PR in repos   `Python` ⭐ 226
-- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,209
+- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,212
 - [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,882
 - [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 25
 
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `HTML` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2
 
-<sub>Last updated: 1 June 2026 at 03:17 UTC</sub>
+<sub>Last updated: 1 June 2026 at 05:42 UTC</sub>
 <!-- STARS_END -->
 
 ---
