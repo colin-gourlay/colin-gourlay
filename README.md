@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `chore/20260602-tighten-github-trending-description` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `2 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Published Template Versions in `meta.yml` Are Out of Sync with Deployed _ `2 Jun 2026`
 
-<sub>Last updated: 2 June 2026 at 19:19 UTC</sub>
+<sub>Last updated: 2 June 2026 at 21:07 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 2 June 2026 at 19:19 UTC</sub>
+<sub>Last updated: 2 June 2026 at 21:07 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -118,15 +118,15 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**alire-project/alire**](https://github.com/alire-project/alire) — Command-line tool from the Alire project and supporting library  `Ada` ⭐ 393
 - [**mrshu/github-statuses**](https://github.com/mrshu/github-statuses) — The "Missing GitHub Status Page" -- a Flat Data attempt at historically document  `HTML` ⭐ 461
 - [**github-community-projects/evergreen**](https://github.com/github-community-projects/evergreen) — GitHub Action to enable automated security updates and open a issue/PR in repos   `Python` ⭐ 226
-- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,236
+- [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,239
 - [**AzuraCast/AzuraCast**](https://github.com/AzuraCast/AzuraCast) — A self-hosted web radio management suite, including turnkey installer tools for   `PHP` ⭐ 3,883
-- [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 26
+- [**Radiergummi/tspages**](https://github.com/Radiergummi/tspages) — A lightweight static site hosting platform for your Tailscale network.  `Go` ⭐ 27
 
 ### 🗺️ Language Interests
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `HTML` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2
 
-<sub>Last updated: 2 June 2026 at 19:19 UTC</sub>
+<sub>Last updated: 2 June 2026 at 21:07 UTC</sub>
 <!-- STARS_END -->
 
 ---
