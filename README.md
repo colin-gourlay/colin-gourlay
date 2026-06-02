@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `chore/20260602-improve-template-description` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `2 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Remove the hyperlink from the featured template_ `2 Jun 2026`
 
-<sub>Last updated: 2 June 2026 at 09:32 UTC</sub>
+<sub>Last updated: 2 June 2026 at 11:33 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 2 June 2026 at 09:32 UTC</sub>
+<sub>Last updated: 2 June 2026 at 11:33 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `HTML` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2
 
-<sub>Last updated: 2 June 2026 at 09:32 UTC</sub>
+<sub>Last updated: 2 June 2026 at 11:33 UTC</sub>
 <!-- STARS_END -->
 
 ---
