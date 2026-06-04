@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Placement of text to be adjusted_ `4 Jun 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `4 Jun 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Placement of text to be adjusted_ `4 Jun 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `4 Jun 2026`
-- 🌿 **Created branch** `chore/show-12-set-draft-true` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `4 Jun 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Jun 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `4 Jun 2026`
-- 🌿 **Created branch** `chore/20260604-rename-doc-section-title` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Jun 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Improve the task list boxout in the featured template_ `4 Jun 2026`
-- 🌿 **Created branch** `fix/20260604-improve-github-trending-template-wording` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Jun 2026`
+- 🌿 **Created branch** `chore/20260604-improve-architecture-task-copy` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Jun 2026`
+- 🌿 **Created branch** `colin-gourlay-patch-1` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Jun 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Confusing numbering in the featured template_ `4 Jun 2026`
+- 🌿 **Created branch** `chore/20260604-improve-trending-notes-task-copy` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Confusing numbering in the featured template_ `4 Jun 2026`
+- 🌿 **Created branch** `chore/20260604-improve-repo-spin-up-template-copy` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Jun 2026`
+- 🌿 **Created branch** `fix/20260604-improve-archive-section-wording` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Jun 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Placement of text to be adjusted_ `4 Jun 2026`
 
-<sub>Last updated: 4 June 2026 at 13:11 UTC</sub>
+<sub>Last updated: 4 June 2026 at 15:06 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 2
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
 - [**east-coast-fm-website**](https://github.com/colin-gourlay/east-coast-fm-website)
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 4 June 2026 at 13:11 UTC</sub>
+<sub>Last updated: 4 June 2026 at 15:06 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `HTML` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2
 
-<sub>Last updated: 4 June 2026 at 13:11 UTC</sub>
+<sub>Last updated: 4 June 2026 at 15:06 UTC</sub>
 <!-- STARS_END -->
 
 ---
