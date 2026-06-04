@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _The hero bar on the home page has white text and it is barely legible_ `3 Jun 2026`
 - 🌿 **Created branch** `chore/show-13-set-draft-true` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Jun 2026`
 
-<sub>Last updated: 4 June 2026 at 01:04 UTC</sub>
+<sub>Last updated: 4 June 2026 at 03:14 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 4 June 2026 at 01:04 UTC</sub>
+<sub>Last updated: 4 June 2026 at 03:14 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**alire-project/alire**](https://github.com/alire-project/alire) — Command-line tool from the Alire project and supporting library  `Ada` ⭐ 393
+- [**alire-project/alire**](https://github.com/alire-project/alire) — Command-line tool from the Alire project and supporting library  `Ada` ⭐ 394
 - [**mrshu/github-statuses**](https://github.com/mrshu/github-statuses) — The "Missing GitHub Status Page" -- a Flat Data attempt at historically document  `HTML` ⭐ 463
 - [**github-community-projects/evergreen**](https://github.com/github-community-projects/evergreen) — GitHub Action to enable automated security updates and open a issue/PR in repos   `Python` ⭐ 226
 - [**dotnet/skills**](https://github.com/dotnet/skills) — Repository for skills to assist AI coding agents with .NET and C#  `C#` ⭐ 3,257
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `HTML` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2
 
-<sub>Last updated: 4 June 2026 at 01:04 UTC</sub>
+<sub>Last updated: 4 June 2026 at 03:14 UTC</sub>
 <!-- STARS_END -->
 
 ---
