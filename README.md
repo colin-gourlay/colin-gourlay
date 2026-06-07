@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Conduct Full Repository Issue Triage and Backlog Rationalisation_ `4 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Streamline SEO Agent Instructions to Reduce Copilot Token Usage_ `4 Jun 2026`
 
-<sub>Last updated: 7 June 2026 at 15:33 UTC</sub>
+<sub>Last updated: 7 June 2026 at 16:33 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 7 June 2026 at 15:33 UTC</sub>
+<sub>Last updated: 7 June 2026 at 16:33 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `Ada` ×1
 
-<sub>Last updated: 7 June 2026 at 15:33 UTC</sub>
+<sub>Last updated: 7 June 2026 at 16:33 UTC</sub>
 <!-- STARS_END -->
 
 ---
