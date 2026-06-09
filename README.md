@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🌿 **Created branch** `main` in [`colin-gourlay/skills-introduction-to-git`](https://github.com/colin-gourlay/skills-introduction-to-git) `9 Jun 2026`
+- 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `9 Jun 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `9 Jun 2026`
+- 🌿 **Created branch** `fix/0-update-github-trending-template-synopsis` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `9 Jun 2026`
+- 🌿 **Created branch** `fix/0-fix-exam-certification-csv-import` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `9 Jun 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Site must adhere to WCAG guidelines_ `9 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Ensure the Entire Site Adheres to WCAG Accessibility Guidelines_ `9 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add Keyboard Shortcuts for Global Navigation_ `9 Jun 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `9 Jun 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Duplicated search functionality_ `9 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Duplicated search functionality_ `9 Jun 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Jun 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refine tooltip text for the Search link_ `8 Jun 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refine tooltip text for the Search link_ `8 Jun 2026`
 
-<sub>Last updated: 9 June 2026 at 09:13 UTC</sub>
+<sub>Last updated: 9 June 2026 at 11:06 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,16 +96,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**skills-introduction-to-git**](https://github.com/colin-gourlay/skills-introduction-to-git) — Exercise: Introduction to Git  `Shell`
-- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
 - [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  ⭐ 2
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
 - [**east-coast-fm-website**](https://github.com/colin-gourlay/east-coast-fm-website)
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
+- [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 9 June 2026 at 09:13 UTC</sub>
+<sub>Last updated: 9 June 2026 at 11:06 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `Ada` ×1
 
-<sub>Last updated: 9 June 2026 at 09:13 UTC</sub>
+<sub>Last updated: 9 June 2026 at 11:06 UTC</sub>
 <!-- STARS_END -->
 
 ---
