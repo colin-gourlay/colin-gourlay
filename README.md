@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `9 Jun 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Duplicated search functionality_ `9 Jun 2026`
 
-<sub>Last updated: 9 June 2026 at 23:31 UTC</sub>
+<sub>Last updated: 10 June 2026 at 00:58 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 9 June 2026 at 23:31 UTC</sub>
+<sub>Last updated: 10 June 2026 at 00:58 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `Ada` ×1
 
-<sub>Last updated: 9 June 2026 at 23:31 UTC</sub>
+<sub>Last updated: 10 June 2026 at 00:58 UTC</sub>
 <!-- STARS_END -->
 
 ---
