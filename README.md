@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve tooltip text_ `10 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Limit GitHub Actions Workflows to Trigger Only When Necessary_ `9 Jun 2026`
 
-<sub>Last updated: 10 June 2026 at 13:16 UTC</sub>
+<sub>Last updated: 10 June 2026 at 15:09 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 10 June 2026 at 13:16 UTC</sub>
+<sub>Last updated: 10 June 2026 at 15:09 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×4 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `Ada` ×1
 
-<sub>Last updated: 10 June 2026 at 13:16 UTC</sub>
+<sub>Last updated: 10 June 2026 at 15:09 UTC</sub>
 <!-- STARS_END -->
 
 ---
