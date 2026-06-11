@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Closed PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `9 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Add a `CODEOWNERS` File to Define Ownership and Review Responsibilities_ `10 Jun 2026`
 
-<sub>Last updated: 11 June 2026 at 13:25 UTC</sub>
+<sub>Last updated: 11 June 2026 at 15:14 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 11 June 2026 at 13:25 UTC</sub>
+<sub>Last updated: 11 June 2026 at 15:14 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -117,16 +117,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,805
 - [**mntnr/awesome-contributing**](https://github.com/mntnr/awesome-contributing) — Awesome contributing guides for open source development.  ⭐ 290
-- [**matiassingers/awesome-readme**](https://github.com/matiassingers/awesome-readme) — A curated list of awesome READMEs  ⭐ 21,024
+- [**matiassingers/awesome-readme**](https://github.com/matiassingers/awesome-readme) — A curated list of awesome READMEs  ⭐ 21,025
 - [**alire-project/alire**](https://github.com/alire-project/alire) — Command-line tool from the Alire project and supporting library  `Ada` ⭐ 396
-- [**mrshu/github-statuses**](https://github.com/mrshu/github-statuses) — The "Missing GitHub Status Page" -- a Flat Data attempt at historically document  `HTML` ⭐ 476
+- [**mrshu/github-statuses**](https://github.com/mrshu/github-statuses) — The "Missing GitHub Status Page" -- a Flat Data attempt at historically document  `HTML` ⭐ 477
 - [**github-community-projects/evergreen**](https://github.com/github-community-projects/evergreen) — GitHub Action to enable automated security updates and open a issue/PR in repos   `Python` ⭐ 226
 
 ### 🗺️ Language Interests
 
 `Python` ×5 · `C#` ×4 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 11 June 2026 at 13:25 UTC</sub>
+<sub>Last updated: 11 June 2026 at 15:14 UTC</sub>
 <!-- STARS_END -->
 
 ---
