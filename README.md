@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Enable and Operationalise GitHub Advanced Security Features_ `10 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Add a Security Policy and `SECURITY.md` to the Repository_ `10 Jun 2026`
 
-<sub>Last updated: 10 June 2026 at 23:34 UTC</sub>
+<sub>Last updated: 11 June 2026 at 00:57 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 10 June 2026 at 23:34 UTC</sub>
+<sub>Last updated: 11 June 2026 at 00:57 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,806
+- [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,805
 - [**mntnr/awesome-contributing**](https://github.com/mntnr/awesome-contributing) — Awesome contributing guides for open source development.  ⭐ 290
 - [**matiassingers/awesome-readme**](https://github.com/matiassingers/awesome-readme) — A curated list of awesome READMEs  ⭐ 21,022
 - [**alire-project/alire**](https://github.com/alire-project/alire) — Command-line tool from the Alire project and supporting library  `Ada` ⭐ 396
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `JavaScript` ×3 · `Go` ×2 · `Jupyter Notebook` ×2 · `Shell` ×2 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 10 June 2026 at 23:34 UTC</sub>
+<sub>Last updated: 11 June 2026 at 00:57 UTC</sub>
 <!-- STARS_END -->
 
 ---
