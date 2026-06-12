@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `10 Jun 2026`
 - 🌿 **Created branch** `feature/706-add-codespace-devcontainer-agents-tasks` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `10 Jun 2026`
 
-<sub>Last updated: 12 June 2026 at 07:43 UTC</sub>
+<sub>Last updated: 12 June 2026 at 09:29 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 12 June 2026 at 07:43 UTC</sub>
+<sub>Last updated: 12 June 2026 at 09:29 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,10 +115,10 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 15,520
-- [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,807
+- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 15,545
+- [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,808
 - [**mntnr/awesome-contributing**](https://github.com/mntnr/awesome-contributing) — Awesome contributing guides for open source development.  ⭐ 290
-- [**matiassingers/awesome-readme**](https://github.com/matiassingers/awesome-readme) — A curated list of awesome READMEs  ⭐ 21,027
+- [**matiassingers/awesome-readme**](https://github.com/matiassingers/awesome-readme) — A curated list of awesome READMEs  ⭐ 21,028
 - [**alire-project/alire**](https://github.com/alire-project/alire) — Command-line tool from the Alire project and supporting library  `Ada` ⭐ 396
 - [**mrshu/github-statuses**](https://github.com/mrshu/github-statuses) — The "Missing GitHub Status Page" -- a Flat Data attempt at historically document  `HTML` ⭐ 478
 
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×5 · `C#` ×4 · `TypeScript` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `Shell` ×2 · `C++` ×1
 
-<sub>Last updated: 12 June 2026 at 07:43 UTC</sub>
+<sub>Last updated: 12 June 2026 at 09:29 UTC</sub>
 <!-- STARS_END -->
 
 ---
