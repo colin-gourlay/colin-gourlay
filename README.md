@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Surface Social Media Links Across the Sundown Radio Experience_ `16 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create a Dedicated Promotions & Competitions Hub_ `16 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Implement a Listen Again / Radio Archive Experience_ `16 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Make "Listen Live" the Primary Call-to-Action Across the Website_ `16 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Reimagine the About Page to Tell the Story of Sundown Sessions_ `16 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create Dedicated Presenter Profile Pages_ `16 Jun 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Support Dynamic Information Panels for Upcoming Shows, News, and Station_ `16 Jun 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `15 Jun 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Introduce hero bar to the shows page_ `15 Jun 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `13 Jun 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve visibility of the text on the home page_ `13 Jun 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _Review and Optimise the GitHub Trending Synchronisation Schedule_ `12 Jun 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add tooltip text_ `12 Jun 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `12 Jun 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add tooltip text_ `12 Jun 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/skills-connect-the-dots`](https://github.com/colin-gourlay/skills-connect-the-dots) — _Welcome_ `11 Jun 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `11 Jun 2026`
 
-<sub>Last updated: 16 June 2026 at 14:40 UTC</sub>
+<sub>Last updated: 16 June 2026 at 16:34 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 16 June 2026 at 14:40 UTC</sub>
+<sub>Last updated: 16 June 2026 at 16:34 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,241
-- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,494
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 123,688
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,002
-- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 16,500
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,246
+- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,511
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 123,799
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,009
+- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 16,514
 - [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,830
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×4 · `TypeScript` ×3 · `C` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `C++` ×1
 
-<sub>Last updated: 16 June 2026 at 14:40 UTC</sub>
+<sub>Last updated: 16 June 2026 at 16:34 UTC</sub>
 <!-- STARS_END -->
 
 ---
