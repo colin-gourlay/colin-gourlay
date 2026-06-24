@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Jun 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Artist Pages: Move Genre Metadata from Header Area to Biography Section_ `23 Jun 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `23 Jun 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Artist Pages: Remove Redundant "Why We Play Them" Section and Enhance La_ `23 Jun 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Artist Pages: Add Related Artists Discovery Section_ `23 Jun 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Artist Pages: Introduce "Why We Play Them" Editorial Section_ `23 Jun 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Artist Pages: Add Sundown Sessions Artist Statistics_ `23 Jun 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct PR_ `23 Jun 2026`
 
-<sub>Last updated: 24 June 2026 at 09:11 UTC</sub>
+<sub>Last updated: 24 June 2026 at 11:04 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 24 June 2026 at 09:11 UTC</sub>
+<sub>Last updated: 24 June 2026 at 11:04 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,410
-- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,758
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 128,119
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,200
-- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 16,878
-- [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,851
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,413
+- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,759
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 128,140
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,203
+- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 16,882
+- [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,852
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×4 · `TypeScript` ×3 · `C` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `C++` ×1
 
-<sub>Last updated: 24 June 2026 at 09:11 UTC</sub>
+<sub>Last updated: 24 June 2026 at 11:04 UTC</sub>
 <!-- STARS_END -->
 
 ---
