@@ -79,16 +79,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `25 Jun 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `25 Jun 2026`
+- 🌿 **Created branch** `fix/src/remove-artist-pagination` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `25 Jun 2026`
+- 🌿 **Created branch** `redesign/artist-explore-further-card` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `25 Jun 2026`
 - 🌿 **Created branch** `fix/artist-page-link-hierarchy` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `25 Jun 2026`
 - 🌿 **Created branch** `fix/src/remove-artist-external-links-render-leak` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `25 Jun 2026`
 - 🌿 **Created branch** `fix/src/remove-duplicate-artist-external-links` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `25 Jun 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Jun 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `24 Jun 2026`
 - 🌿 **Created branch** `feat/src/modernise-artist-external-links` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Jun 2026`
-- 🌿 **Created branch** `fix/src/artist-biography-collapse` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Jun 2026`
-- 🌿 **Created branch** `fix/src/artist-biography-expansion` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Jun 2026`
 
-<sub>Last updated: 25 June 2026 at 05:24 UTC</sub>
+<sub>Last updated: 25 June 2026 at 07:17 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 25 June 2026 at 05:24 UTC</sub>
+<sub>Last updated: 25 June 2026 at 07:17 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,10 +115,10 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,424
-- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,762
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 128,354
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,222
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,428
+- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,761
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 128,373
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,226
 - [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 16,907
 - [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,855
 
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `C#` ×4 · `TypeScript` ×3 · `C` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `C++` ×1
 
-<sub>Last updated: 25 June 2026 at 05:24 UTC</sub>
+<sub>Last updated: 25 June 2026 at 07:17 UTC</sub>
 <!-- STARS_END -->
 
 ---
