@@ -79,6 +79,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `30 Jun 2026`
+- 🌿 **Created branch** `fix/src/about-hero-spacing` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🌿 **Created branch** `refine-about-page-editorial-polish` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🌿 **Created branch** `refine-listen-live-hero` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🌿 **Created branch** `listen-live-nucast-now-playing` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `chore/editorial-about-page` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _About Page: Review and Refine All Page Content_ `30 Jun 2026`
 - 🌿 **Created branch** `issue-574-about-page-content` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
-- 🌿 **Created branch** `content/about-page-refresh` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 
-<sub>Last updated: 30 June 2026 at 14:56 UTC</sub>
+<sub>Last updated: 30 June 2026 at 15:55 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 30 June 2026 at 14:56 UTC</sub>
+<sub>Last updated: 30 June 2026 at 15:55 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,560
-- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,782
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 129,504
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,378
-- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 17,800
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,562
+- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,783
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 129,519
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,376
+- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 17,802
 - [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,875
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×4 · `TypeScript` ×3 · `C` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `C++` ×1
 
-<sub>Last updated: 30 June 2026 at 14:56 UTC</sub>
+<sub>Last updated: 30 June 2026 at 15:55 UTC</sub>
 <!-- STARS_END -->
 
 ---
