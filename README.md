@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Contact Page: Review and Refine All Page Content_ `2 Jul 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `2 Jul 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `2 Jul 2026`
+- 🌿 **Created branch** `docs/contact-page-content-review` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `2 Jul 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `30 Jun 2026`
 - 🌿 **Created branch** `fix/src/about-hero-spacing` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🌿 **Created branch** `refine-about-page-editorial-polish` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🌿 **Created branch** `refine-listen-live-hero` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 - 🌿 **Created branch** `listen-live-nucast-now-playing` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
-- 🌿 **Created branch** `update-about-page-hero-nav` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
-- 🌿 **Created branch** `chore/editorial-about-page` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _About Page: Review and Refine All Page Content_ `30 Jun 2026`
-- 🌿 **Created branch** `issue-574-about-page-content` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `30 Jun 2026`
 
-<sub>Last updated: 2 July 2026 at 14:47 UTC</sub>
+<sub>Last updated: 2 July 2026 at 15:48 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 2 July 2026 at 14:47 UTC</sub>
+<sub>Last updated: 2 July 2026 at 15:48 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,602
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,604
 - [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,795
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 129,932
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,432
-- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 18,191
-- [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,883
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 129,946
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,433
+- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 18,196
+- [**mixxxdj/mixxx**](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mix  `C++` ⭐ 6,884
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×4 · `TypeScript` ×3 · `C` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `C++` ×1
 
-<sub>Last updated: 2 July 2026 at 14:47 UTC</sub>
+<sub>Last updated: 2 July 2026 at 15:48 UTC</sub>
 <!-- STARS_END -->
 
 ---
