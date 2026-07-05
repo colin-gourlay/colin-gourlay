@@ -77,6 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Jul 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `5 Jul 2026`
+- 🌿 **Created branch** `polish-show-pages-artist-spotlight` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Jul 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create Artist Pages for Every Artist Featured in Show #1_ `4 Jul 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `4 Jul 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `4 Jul 2026`
@@ -84,11 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Restore "Listen Back" Link on Show #1_ `4 Jul 2026`
 - 🌿 **Created branch** `fix/src-restore-listen-back-action` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `4 Jul 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Jul 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 Jul 2026`
-- 🌿 **Created branch** `refine-show-listen-area` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Jul 2026`
-- 🌿 **Created branch** `refine-listen-on-demand-card` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Jul 2026`
 
-<sub>Last updated: 5 July 2026 at 09:05 UTC</sub>
+<sub>Last updated: 5 July 2026 at 10:45 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 5 July 2026 at 09:05 UTC</sub>
+<sub>Last updated: 5 July 2026 at 10:45 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 843
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,662
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,663
 - [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,833
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 130,461
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,498
-- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 18,319
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 130,469
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,500
+- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 18,321
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×4 · `TypeScript` ×3 · `C` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `C++` ×1
 
-<sub>Last updated: 5 July 2026 at 09:05 UTC</sub>
+<sub>Last updated: 5 July 2026 at 10:45 UTC</sub>
 <!-- STARS_END -->
 
 ---
