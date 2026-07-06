@@ -79,16 +79,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `6 Jul 2026`
+- 🌿 **Created branch** `chore/repo/remove-dotnet-automation` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
+- 🌿 **Created branch** `remove-show-featured-artists` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
+- 🌿 **Created branch** `polish-track-guide-editorial` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Restore Footer Social Links and Activate Facebook Group Presence_ `6 Jul 2026`
+- 🌿 **Created branch** `fix/footer-social-links-480` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
 - 🌿 **Created branch** `polish/show-track-guide-final-refinements` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
 - 🌿 **Created branch** `refine-track-guide-layout` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
 - 🌿 **Created branch** `feat/src/editorial-track-guide` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Jul 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `5 Jul 2026`
-- 🌿 **Created branch** `refine-show-1-show-notes` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Jul 2026`
-- 🌿 **Created branch** `rename-discussion-show-notes` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Jul 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Restore Artist Metadata in the "Artist Spotlight" Section_ `5 Jul 2026`
 
-<sub>Last updated: 6 July 2026 at 09:26 UTC</sub>
+<sub>Last updated: 6 July 2026 at 11:33 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 6 July 2026 at 09:26 UTC</sub>
+<sub>Last updated: 6 July 2026 at 11:33 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 844
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,682
-- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,839
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 130,654
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,521
-- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 18,370
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,684
+- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,840
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 130,670
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,524
+- [**refactoringhq/tolaria**](https://github.com/refactoringhq/tolaria) — Desktop app to manage markdown knowledge bases  `TypeScript` ⭐ 18,374
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×4 · `TypeScript` ×3 · `C` ×2 · `Go` ×2 · `Jupyter Notebook` ×2 · `JavaScript` ×2 · `C++` ×1
 
-<sub>Last updated: 6 July 2026 at 09:26 UTC</sub>
+<sub>Last updated: 6 July 2026 at 11:33 UTC</sub>
 <!-- STARS_END -->
 
 ---
