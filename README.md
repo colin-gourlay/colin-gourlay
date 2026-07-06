@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `refine-track-guide-layout` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
 - 🌿 **Created branch** `feat/src/editorial-track-guide` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `6 Jul 2026`
 
-<sub>Last updated: 6 July 2026 at 20:40 UTC</sub>
+<sub>Last updated: 6 July 2026 at 21:33 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 6 July 2026 at 20:40 UTC</sub>
+<sub>Last updated: 6 July 2026 at 21:33 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -119,14 +119,14 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 844
 - [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,696
 - [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,842
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 130,735
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 130,741
 - [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,535
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `TypeScript` ×4 · `C#` ×4 · `C` ×2 · `Go` ×2 · `JavaScript` ×2 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 6 July 2026 at 20:40 UTC</sub>
+<sub>Last updated: 6 July 2026 at 21:33 UTC</sub>
 <!-- STARS_END -->
 
 ---
