@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Redirects_ `10 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Introduce hero bar to the shows page_ `10 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create Artist Pages for Every Artist Featured in Show #1_ `10 Jul 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `10 Jul 2026`
-- 🌿 **Created branch** `codex/fix-issue-680-in-sundown-sessions` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _HTML tables need refined_ `10 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Include Spotify content attribution_ `10 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Ennio Moriconne_ `10 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create page for Win_ `10 Jul 2026`
+- 🌿 **Created branch** `codex/fix-menu-item-underline-regression` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
+- 🌿 **Created branch** `codex/fix-menu-item-duplication-regression` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add Keyboard Shortcuts for Global Navigation_ `10 Jul 2026`
+- 🌿 **Created branch** `codex/check-issue-#454-resolution-status` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Make "Listen Live" the Primary Call-to-Action Across the Website_ `10 Jul 2026`
+- 🌿 **Created branch** `codex/check-and-address-issue-#469` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Activate Instagram Presence and Restore Footer Social Links_ `10 Jul 2026`
+- 🌿 **Created branch** `codex/check-issue-510-status-and-address-if-unresolved` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
 
-<sub>Last updated: 10 July 2026 at 09:09 UTC</sub>
+<sub>Last updated: 10 July 2026 at 11:03 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 10 July 2026 at 09:09 UTC</sub>
+<sub>Last updated: 10 July 2026 at 11:03 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -117,16 +117,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - [**ada-lang-io/ada-lang-io**](https://github.com/ada-lang-io/ada-lang-io) — An Open Source Community site for Ada  `TypeScript` ⭐ 130
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 844
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,767
-- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,858
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 131,932
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,623
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,771
+- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,859
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 131,958
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,629
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `TypeScript` ×4 · `C#` ×4 · `C` ×2 · `Go` ×2 · `JavaScript` ×2 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 10 July 2026 at 09:09 UTC</sub>
+<sub>Last updated: 10 July 2026 at 11:03 UTC</sub>
 <!-- STARS_END -->
 
 ---
