@@ -77,6 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `13 Jul 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `13 Jul 2026`
+- 🌿 **Created branch** `codex/review-entire-repo-before-issue-resolution` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `13 Jul 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Invalid listen_live_stream_url in params.toml_ `10 Jul 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix Broken Featured Artist Links Following "Artist Spotlight" Rename_ `10 Jul 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
@@ -84,11 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `codex/examine-repo-and-understand-workspace` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Ensure the Entire Site Adheres to WCAG Accessibility Guidelines_ `10 Jul 2026`
 - 🌿 **Created branch** `codex/review-codebase-before-addressing-github-issue` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
-- 🌿 **Created branch** `codex/fix-menu-item-underline-regression` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
-- 🌿 **Created branch** `codex/fix-menu-item-duplication-regression` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add Keyboard Shortcuts for Global Navigation_ `10 Jul 2026`
 
-<sub>Last updated: 13 July 2026 at 07:12 UTC</sub>
+<sub>Last updated: 13 July 2026 at 09:09 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 13 July 2026 at 07:12 UTC</sub>
+<sub>Last updated: 13 July 2026 at 09:09 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -117,16 +117,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - [**ada-lang-io/ada-lang-io**](https://github.com/ada-lang-io/ada-lang-io) — An Open Source Community site for Ada  `TypeScript` ⭐ 130
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 847
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,831
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,834
 - [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,867
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 132,675
-- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,689
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 132,691
+- [**microsoft/autogen**](https://github.com/microsoft/autogen) — A programming framework for agentic AI  `Python` ⭐ 59,696
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `TypeScript` ×4 · `C#` ×4 · `C` ×2 · `Go` ×2 · `JavaScript` ×2 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 13 July 2026 at 07:12 UTC</sub>
+<sub>Last updated: 13 July 2026 at 09:09 UTC</sub>
 <!-- STARS_END -->
 
 ---
