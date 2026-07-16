@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Review and Refine the Releases Pages_ `16 Jul 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Make Homepage Supporting Copy More Outcome-Focused_ `16 Jul 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `16 Jul 2026`
+- 🌿 **Created branch** `codex/resolve-github-issue-#623` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Review and Consolidate Ownership and Configuration of sundownsessions.co_ `16 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Make Homepage Supporting Copy More Outcome-Focused_ `16 Jul 2026`
 - 🌿 **Created branch** `codex/fix-issue-#736` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Jul 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Tighten Footer Spacing and Improve Visual Cohesion_ `16 Jul 2026`
 - 🌿 **Created branch** `codex/resolve-issue-735-in-github-repo` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Jul 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Replace "Listen Again" Footer Link with Clearer Show Archive Wording_ `16 Jul 2026`
-- 🌿 **Created branch** `codex/resolve-issue-734` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve Visual Hierarchy of Homepage Show Cards by Emphasising Featured _ `16 Jul 2026`
-- 🌿 **Created branch** `codex/resolve-issue-733-in-repository` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Jul 2026`
 
-<sub>Last updated: 16 July 2026 at 14:42 UTC</sub>
+<sub>Last updated: 16 July 2026 at 15:33 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 16 July 2026 at 14:42 UTC</sub>
+<sub>Last updated: 16 July 2026 at 15:33 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 848
+- [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 849
 - [**ada-lang-io/ada-lang-io**](https://github.com/ada-lang-io/ada-lang-io) — An Open Source Community site for Ada  `TypeScript` ⭐ 130
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 850
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,910
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,911
 - [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,873
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 133,156
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 133,159
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `TypeScript` ×4 · `C#` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 16 July 2026 at 14:42 UTC</sub>
+<sub>Last updated: 16 July 2026 at 15:33 UTC</sub>
 <!-- STARS_END -->
 
 ---
