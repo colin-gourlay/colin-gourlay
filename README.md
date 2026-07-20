@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Increase spacing between About page content and footer_ `18 Jul 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `18 Jul 2026`
 
-<sub>Last updated: 20 July 2026 at 15:37 UTC</sub>
+<sub>Last updated: 20 July 2026 at 16:31 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 20 July 2026 at 15:37 UTC</sub>
+<sub>Last updated: 20 July 2026 at 16:31 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -120,13 +120,13 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 852
 - [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 73,988
 - [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,881
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 133,635
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 133,653
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `TypeScript` ×4 · `C#` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 20 July 2026 at 15:37 UTC</sub>
+<sub>Last updated: 20 July 2026 at 16:31 UTC</sub>
 <!-- STARS_END -->
 
 ---
