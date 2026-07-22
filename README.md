@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `agent/refine-listen-live-presentation` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `20 Jul 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refine music submission guidance and contact form microcopy_ `20 Jul 2026`
 
-<sub>Last updated: 22 July 2026 at 21:26 UTC</sub>
+<sub>Last updated: 22 July 2026 at 22:23 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 
-<sub>Last updated: 22 July 2026 at 21:26 UTC</sub>
+<sub>Last updated: 22 July 2026 at 22:23 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -118,15 +118,15 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 860
 - [**ada-lang-io/ada-lang-io**](https://github.com/ada-lang-io/ada-lang-io) — An Open Source Community site for Ada  `TypeScript` ⭐ 130
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 852
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 74,064
-- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,882
-- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 134,076
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 74,066
+- [**music-assistant/server**](https://github.com/music-assistant/server) — Music Assistant is a free, opensource Media library manager that connects to you  `Python` ⭐ 2,883
+- [**iptv-org/iptv**](https://github.com/iptv-org/iptv) — Collection of publicly available IPTV channels from all over the world  `TypeScript` ⭐ 134,074
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `TypeScript` ×4 · `C#` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 22 July 2026 at 21:26 UTC</sub>
+<sub>Last updated: 22 July 2026 at 22:23 UTC</sub>
 <!-- STARS_END -->
 
 ---
