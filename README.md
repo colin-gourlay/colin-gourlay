@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🌿 **Created branch** `agent/refresh-release-editorial-summaries` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Jul 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refresh Release editorial summaries to establish a consistent Sundown Se_ `28 Jul 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `28 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve internal link affordance in Release metadata and Artist Spotligh_ `28 Jul 2026`
+- 🌿 **Created branch** `agent/fix-release-link-affordance-770` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Jul 2026`
+- 🌿 **Created branch** `agent/correct-villains-external-link` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Jul 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct incorrect Explore Further link on the Villains release page_ `28 Jul 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Manually review every release featured in Shows #1 and #2_ `27 Jul 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refresh Release editorial summaries to establish a consistent Sundown Se_ `27 Jul 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve internal link affordance in Release metadata and Artist Spotligh_ `27 Jul 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `27 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct inaccurate and incomplete release tracklists across the site_ `27 Jul 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `27 Jul 2026`
-- 🌿 **Created branch** `agent/correct-release-tracklists` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `27 Jul 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Polish Release page metadata, related content and footer spacing_ `27 Jul 2026`
-- 🌿 **Created branch** `agent/polish-release-page` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `27 Jul 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct incorrect Explore Further link on the Villains release page_ `27 Jul 2026`
 
-<sub>Last updated: 28 July 2026 at 13:35 UTC</sub>
+<sub>Last updated: 28 July 2026 at 14:51 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 28 July 2026 at 13:35 UTC</sub>
+<sub>Last updated: 28 July 2026 at 14:51 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 28 July 2026 at 13:35 UTC</sub>
+<sub>Last updated: 28 July 2026 at 14:51 UTC</sub>
 <!-- STARS_END -->
 
 ---
