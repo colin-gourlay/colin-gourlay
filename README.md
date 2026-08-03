@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Aug 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete the IST IST — The Art of Lying Release page_ `3 Aug 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 Aug 2026`
+- 🌿 **Created branch** `fix/src/complete-art-of-lying-release` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete the IST IST — The Art of Lying Release page_ `3 Aug 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 Aug 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _fix: improve github-repo-spin-up name-repository task_ `3 Aug 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `3 Aug 2026`
 - 🌿 **Created branch** `fix/757-improve-name-repository-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 Aug 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — _fix: improve github-repo-spin-up name-repository task_ `3 Aug 2026`
-- 🌿 **Created branch** `chore/20260731-improve-saas-wind-down-template` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `3 Aug 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete Franz Ferdinand debut release metadata and editorial_ `2 Aug 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `2 Aug 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `2 Aug 2026`
-- 🌿 **Created branch** `agent/complete-franz-ferdinand-release-metadata` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `2 Aug 2026`
 
-<sub>Last updated: 3 August 2026 at 09:10 UTC</sub>
+<sub>Last updated: 3 August 2026 at 11:05 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `HTML` ⭐ 1
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**east-coast-fm-website**](https://github.com/colin-gourlay/east-coast-fm-website)
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 3 August 2026 at 09:10 UTC</sub>
+<sub>Last updated: 3 August 2026 at 11:05 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -120,13 +120,13 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 879
 - [**ada-lang-io/ada-lang-io**](https://github.com/ada-lang-io/ada-lang-io) — An Open Source Community site for Ada  `TypeScript` ⭐ 129
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 853
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 74,452
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 74,454
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 3 August 2026 at 09:10 UTC</sub>
+<sub>Last updated: 3 August 2026 at 11:05 UTC</sub>
 <!-- STARS_END -->
 
 ---
