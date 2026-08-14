@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing Pink Floyd The Early Years 1967–1972: Cre/ation Release p_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Release Discovery Phase 3: Add an Available to Buy from this Show summar_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Release Discovery Phase 2: Create a dedicated Releases page with discove_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Release Discovery Phase 1: Add an Available Now section to the homepage_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing Jacco Gardner Cabinet of Curiosities Release page and lin_ `14 Aug 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing The Motors Airport - The Motors Greatest Hits Release pag_ `14 Aug 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `14 Aug 2026`
 - 🌿 **Created branch** `agent/restore-ci-checks` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
 - 🌿 **Created branch** `agent/issue-809-motors-release` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing John Grant Queen of Denmark Release page and link Show #1_ `14 Aug 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Reconcile Propaganda edition data and featured-track relationships_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing The Motors Airport - The Motors Greatest Hits Release pag_ `14 Aug 2026`
-- 🌿 **Created branch** `agent/reconcile-propaganda-edition` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
-- 🌿 **Created branch** `agent/upgrade-hugo-0.164.0` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `13 Aug 2026`
 
-<sub>Last updated: 14 August 2026 at 12:18 UTC</sub>
+<sub>Last updated: 14 August 2026 at 13:29 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 14 August 2026 at 12:18 UTC</sub>
+<sub>Last updated: 14 August 2026 at 13:29 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -117,16 +117,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,855
 - [**metabrainz/mbdata**](https://github.com/metabrainz/mbdata) — MusicBrainz SQLAlchemy Models  `Python` ⭐ 117
-- [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 900
+- [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 901
 - [**ada-lang-io/ada-lang-io**](https://github.com/ada-lang-io/ada-lang-io) — An Open Source Community site for Ada  `TypeScript` ⭐ 130
 - [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 856
-- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 74,980
+- [**obsproject/obs-studio**](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recordi  `C` ⭐ 74,978
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 14 August 2026 at 12:18 UTC</sub>
+<sub>Last updated: 14 August 2026 at 13:29 UTC</sub>
 <!-- STARS_END -->
 
 ---
