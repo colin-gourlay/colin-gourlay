@@ -77,6 +77,9 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `14 Aug 2026`
+- 🌿 **Created branch** `agent/upgrade-hugo-0.164.0` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `13 Aug 2026`
 - 🌿 **Created branch** `agent/upgrade-blowfish-2.105.0` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `13 Aug 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `13 Aug 2026`
@@ -84,11 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Reconcile Propaganda edition data and featured-track relationships_ `13 Aug 2026`
 - 🌿 **Created branch** `agent/upgrade-blowfish-2.101.0` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `13 Aug 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing Becky Becky Art School Dancing Release page and link Show_ `13 Aug 2026`
-- 🌿 **Created branch** `agent/fix-art-school-dancing-release` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `13 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing Becky Becky Art School Dancing Release page and link Show_ `13 Aug 2026`
-- 🌿 **Created branch** `fix/9999-github-repo-visibility-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `4 Aug 2026`
 
-<sub>Last updated: 14 August 2026 at 06:31 UTC</sub>
+<sub>Last updated: 14 August 2026 at 07:32 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 14 August 2026 at 06:31 UTC</sub>
+<sub>Last updated: 14 August 2026 at 07:32 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 14 August 2026 at 06:31 UTC</sub>
+<sub>Last updated: 14 August 2026 at 07:32 UTC</sub>
 <!-- STARS_END -->
 
 ---
