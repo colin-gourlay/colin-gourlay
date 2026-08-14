@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 7: publish reconciled shows into the current Hugo conte_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 6: integrate Todoist for non-Spotify candidate backlog_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 5: integrate Spotify for backlog and planned-show seque_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 4: finalise reconciled shows and establish permanent pl_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 3: reconcile planned shows against Mixxx play history_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 2: prepare a settled show from FLAC metadata_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 1: establish C# CLI, domain model and SQLite persistenc_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Sundown Sessions Showrunner: authoritative show preparation, broadcast r_ `14 Aug 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Aug 2026`
 - 🌿 **Created branch** `fix/0-improve-android-uninstall-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Aug 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing Pink Floyd The Early Years 1967–1972: Cre/ation Release p_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Release Discovery Phase 3: Add an Available to Buy from this Show summar_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Release Discovery Phase 2: Create a dedicated Releases page with discove_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Release Discovery Phase 1: Add an Available Now section to the homepage_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing Jacco Gardner Cabinet of Curiosities Release page and lin_ `14 Aug 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `14 Aug 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing The Motors Airport - The Motors Greatest Hits Release pag_ `14 Aug 2026`
 
-<sub>Last updated: 14 August 2026 at 20:11 UTC</sub>
+<sub>Last updated: 14 August 2026 at 21:07 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 14 August 2026 at 20:11 UTC</sub>
+<sub>Last updated: 14 August 2026 at 21:07 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 14 August 2026 at 20:11 UTC</sub>
+<sub>Last updated: 14 August 2026 at 21:07 UTC</sub>
 <!-- STARS_END -->
 
 ---
