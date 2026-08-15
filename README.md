@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Aug 2026`
 - 🌿 **Created branch** `fix/0-improve-android-uninstall-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Aug 2026`
 
-<sub>Last updated: 15 August 2026 at 21:05 UTC</sub>
+<sub>Last updated: 15 August 2026 at 22:04 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 15 August 2026 at 21:05 UTC</sub>
+<sub>Last updated: 15 August 2026 at 22:04 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Makefile` ×1 · `C++` ×1 · `Ada` ×1
 
-<sub>Last updated: 15 August 2026 at 21:05 UTC</sub>
+<sub>Last updated: 15 August 2026 at 22:04 UTC</sub>
 <!-- STARS_END -->
 
 ---
