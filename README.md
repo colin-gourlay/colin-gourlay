@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 7: publish reconciled shows into the current Hugo conte_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 6: integrate Todoist for non-Spotify candidate backlog_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 5: integrate Spotify for backlog and planned-show seque_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 4: finalise reconciled shows and establish permanent pl_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 3: reconcile planned shows against Mixxx play history_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 2: prepare a settled show from FLAC metadata_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 1: establish C# CLI, domain model and SQLite persistenc_ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Sundown Sessions Showrunner: authoritative show preparation, broadcast r_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner MCP: expose deterministic Sundown capabilities through a loca_ `16 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 7: agent-orchestrate Hugo/GitHub publication from recon_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 6: agent-orchestrate Todoist capture and post-show hous_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 5: agent-orchestrate Spotify planning and post-show hou_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 4: finalise confirmed reconciliations and establish per_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 3: expose Mixxx playback evidence and reconciliation ca_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 2: expose deterministic show-preparation capability fro_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 1: establish deterministic domain and SQLite persistenc_ `14 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Sundown Sessions Showrunner: agent-orchestrated show preparation, reconc_ `14 Aug 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Aug 2026`
-- 🌿 **Created branch** `fix/0-improve-android-uninstall-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `14 Aug 2026`
 
-<sub>Last updated: 16 August 2026 at 19:07 UTC</sub>
+<sub>Last updated: 16 August 2026 at 20:04 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 16 August 2026 at 19:07 UTC</sub>
+<sub>Last updated: 16 August 2026 at 20:04 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 27,733
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 27,736
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,853
 - [**metabrainz/mbdata**](https://github.com/metabrainz/mbdata) — MusicBrainz SQLAlchemy Models  `Python` ⭐ 117
 - [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 901
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Rust` ×1 · `Makefile` ×1 · `C++` ×1
 
-<sub>Last updated: 16 August 2026 at 19:07 UTC</sub>
+<sub>Last updated: 16 August 2026 at 20:04 UTC</sub>
 <!-- STARS_END -->
 
 ---
