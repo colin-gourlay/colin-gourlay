@@ -85,7 +85,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `19 Aug 2026`
 - 🌿 **Created branch** `fix/42-add-api-key-revocation-guidance-and-duration` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `19 Aug 2026`
 
-<sub>Last updated: 19 August 2026 at 16:08 UTC</sub>
+<sub>Last updated: 19 August 2026 at 17:08 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -102,7 +102,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 19 August 2026 at 16:08 UTC</sub>
+<sub>Last updated: 19 August 2026 at 17:08 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -112,7 +112,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 28,579
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 28,594
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,852
 - [**metabrainz/mbdata**](https://github.com/metabrainz/mbdata) — MusicBrainz SQLAlchemy Models  `Python` ⭐ 117
 - [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 910
@@ -123,7 +123,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Rust` ×1 · `Makefile` ×1 · `C++` ×1
 
-<sub>Last updated: 19 August 2026 at 16:08 UTC</sub>
+<sub>Last updated: 19 August 2026 at 17:08 UTC</sub>
 <!-- STARS_END -->
 
 ---
