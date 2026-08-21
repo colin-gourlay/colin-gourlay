@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `chore/0000-update-saas-wind-down-task` in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `20 Aug 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create missing David Latto Geordie Munro Release page and link Show #3 T_ `20 Aug 2026`
 
-<sub>Last updated: 21 August 2026 at 10:09 UTC</sub>
+<sub>Last updated: 21 August 2026 at 11:07 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 21 August 2026 at 10:09 UTC</sub>
+<sub>Last updated: 21 August 2026 at 11:07 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 29,013
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 29,023
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,854
 - [**metabrainz/mbdata**](https://github.com/metabrainz/mbdata) — MusicBrainz SQLAlchemy Models  `Python` ⭐ 117
 - [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 915
 - [**ada-lang-io/ada-lang-io**](https://github.com/ada-lang-io/ada-lang-io) — An Open Source Community site for Ada  `TypeScript` ⭐ 131
-- [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 860
+- [**ohenley/awesome-ada**](https://github.com/ohenley/awesome-ada) — A curated list of awesome resources related to the Ada and SPARK programming lan  ⭐ 861
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `C` ×2 · `Go` ×2 · `Rust` ×1 · `Makefile` ×1 · `C++` ×1
 
-<sub>Last updated: 21 August 2026 at 10:09 UTC</sub>
+<sub>Last updated: 21 August 2026 at 11:07 UTC</sub>
 <!-- STARS_END -->
 
 ---
