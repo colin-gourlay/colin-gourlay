@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `24 Aug 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `24 Aug 2026`
 
-<sub>Last updated: 25 August 2026 at 01:31 UTC</sub>
+<sub>Last updated: 25 August 2026 at 02:27 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 25 August 2026 at 01:31 UTC</sub>
+<sub>Last updated: 25 August 2026 at 02:27 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -117,7 +117,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,232
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 30,492
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 30,501
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,856
 - [**metabrainz/mbdata**](https://github.com/metabrainz/mbdata) — MusicBrainz SQLAlchemy Models  `Python` ⭐ 117
 - [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 918
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1 · `C++` ×1
 
-<sub>Last updated: 25 August 2026 at 01:31 UTC</sub>
+<sub>Last updated: 25 August 2026 at 02:27 UTC</sub>
 <!-- STARS_END -->
 
 ---
