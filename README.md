@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Showrunner Phase 7: agent-orchestrate Hugo/GitHub publication from recon_ `25 Aug 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Aug 2026`
 
-<sub>Last updated: 26 August 2026 at 06:12 UTC</sub>
+<sub>Last updated: 26 August 2026 at 07:19 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 26 August 2026 at 06:12 UTC</sub>
+<sub>Last updated: 26 August 2026 at 07:19 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
-- [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,250
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 30,725
+- [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,252
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 30,738
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,857
 - [**metabrainz/mbdata**](https://github.com/metabrainz/mbdata) — MusicBrainz SQLAlchemy Models  `Python` ⭐ 117
-- [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 921
+- [**githubnext/agentics**](https://github.com/githubnext/agentics) — A sample pack of GitHub Agentic Workflows!  `Makefile` ⭐ 922
 
 ### 🗺️ Language Interests
 
 `Python` ×7 · `C#` ×5 · `TypeScript` ×4 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1 · `C++` ×1
 
-<sub>Last updated: 26 August 2026 at 06:12 UTC</sub>
+<sub>Last updated: 26 August 2026 at 07:19 UTC</sub>
 <!-- STARS_END -->
 
 ---
