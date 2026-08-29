@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🌿 **Created branch** `fix/src/add-track-release-year` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
 - 🌿 **Created branch** `fix/src/remove-track-breadcrumb` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
 - 🌿 **Created branch** `fix/src/tighten-track-page-spacing` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `27 Aug 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Manually review every track featured in Shows #1, #2 and #3_ `28 Aug 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add inline documentation for disabled markdownlint rules_ `28 Aug 2026`
-- 🌿 **Created branch** `fix/178-document-markdownlint-rules` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
 
-<sub>Last updated: 29 August 2026 at 18:12 UTC</sub>
+<sub>Last updated: 29 August 2026 at 19:08 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 29 August 2026 at 18:12 UTC</sub>
+<sub>Last updated: 29 August 2026 at 19:08 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 41
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 2,819
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 2,827
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,273
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 31,408
-- [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,857
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 31,413
+- [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,858
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 29 August 2026 at 18:12 UTC</sub>
+<sub>Last updated: 29 August 2026 at 19:08 UTC</sub>
 <!-- STARS_END -->
 
 ---
