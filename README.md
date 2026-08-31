@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Remove duration metadata from the Propaganda Track page_ `31 Aug 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Limit Homepage Recent Shows to the Three Most Recent Broadcasts_ `31 Aug 2026`
+- 🌿 **Created branch** `fix/src/remove-propaganda-track-duration` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `31 Aug 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `31 Aug 2026`
 - 🌿 **Created branch** `fix/897-roachford-edition-and-track` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add Track page and links for IST IST — “Fat Cats Drown in Milk”_ `30 Aug 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Remove duration metadata from the Propaganda Track page_ `30 Aug 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `30 Aug 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `28 Aug 2026`
 - 🌿 **Created branch** `fix/src/strengthen-track-show-discovery` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
-- 🌿 **Created branch** `fix/src/add-track-release-year` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
-- 🌿 **Created branch** `fix/src/remove-track-breadcrumb` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
-- 🌿 **Created branch** `fix/src/tighten-track-page-spacing` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `28 Aug 2026`
 
-<sub>Last updated: 31 August 2026 at 06:26 UTC</sub>
+<sub>Last updated: 31 August 2026 at 07:19 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**east-coast-fm-website**](https://github.com/colin-gourlay/east-coast-fm-website)
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 31 August 2026 at 06:26 UTC</sub>
+<sub>Last updated: 31 August 2026 at 07:19 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 48
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 2,991
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 2,993
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
-- [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,277
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 31,576
+- [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,279
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 31,583
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,859
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 31 August 2026 at 06:26 UTC</sub>
+<sub>Last updated: 31 August 2026 at 07:19 UTC</sub>
 <!-- STARS_END -->
 
 ---
