@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Replace the legacy 01620 826444 telephone number site-wide_ `31 Aug 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Let the Sundown Radio logo fill the homepage hero card_ `31 Aug 2026`
 
-<sub>Last updated: 1 September 2026 at 01:30 UTC</sub>
+<sub>Last updated: 1 September 2026 at 02:18 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 1 September 2026 at 01:30 UTC</sub>
+<sub>Last updated: 1 September 2026 at 02:18 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 51
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,021
+- [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 52
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,023
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,285
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 31,685
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 31,691
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,859
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 1 September 2026 at 01:30 UTC</sub>
+<sub>Last updated: 1 September 2026 at 02:18 UTC</sub>
 <!-- STARS_END -->
 
 ---
