@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Replace stock favicon with Sundown Radio branded artwork_ `2 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Replace the current favicon with Sundown Radio branding_ `2 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Standardise page titles around Sundown Radio branding_ `2 Sep 2026`
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `2 Sep 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `2 Sep 2026`
 - 🔀 **Closed PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `1 Jul 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add homepage tile and/or menu item for upcoming show(s)_ `2 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Remove duration metadata from the At Home, At Work, At Play Track page_ `2 Sep 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `2 Sep 2026`
 - 🌿 **Created branch** `fix/884-artist-link-integrity` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `1 Sep 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `1 Sep 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Give Listen Live clearer priority over Donate in the header_ `1 Sep 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Replace the current favicon with Sundown Radio branding_ `1 Sep 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Validate the distinction between Listen and Listen Live_ `1 Sep 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Increase the visibility of the Sundown Radio header logo_ `1 Sep 2026`
 
-<sub>Last updated: 2 September 2026 at 13:12 UTC</sub>
+<sub>Last updated: 2 September 2026 at 14:11 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,16 +96,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**qwerty**](https://github.com/colin-gourlay/qwerty)  `TypeScript`
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
+- [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 2 September 2026 at 13:12 UTC</sub>
+<sub>Last updated: 2 September 2026 at 14:11 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -118,15 +118,15 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 54
 - [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,057
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
-- [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,299
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 31,927
+- [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,300
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 31,935
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,856
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 2 September 2026 at 13:12 UTC</sub>
+<sub>Last updated: 2 September 2026 at 14:11 UTC</sub>
 <!-- STARS_END -->
 
 ---
