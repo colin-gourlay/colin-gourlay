@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) `3 Sep 2026`
 - 🔨 **Pushed** to [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) `2 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct the Antics Release page Discogs link_ `3 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Migrate all Show pages from Mixcloud to the future bespoke Listen Again _ `3 Sep 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Enhance the Listen Live Page into a Complete Live Broadcast Hub_ `3 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct the Antics Release page Discogs link_ `3 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Manually review the Artists listing for metadata gaps and further refine_ `3 Sep 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Manually review the Artists listing for metadata gaps and further refine_ `3 Sep 2026`
 
-<sub>Last updated: 3 September 2026 at 18:15 UTC</sub>
+<sub>Last updated: 3 September 2026 at 19:09 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 3 September 2026 at 18:15 UTC</sub>
+<sub>Last updated: 3 September 2026 at 19:09 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,7 +116,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 54
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,094
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,098
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,314
 - [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,062
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 3 September 2026 at 18:15 UTC</sub>
+<sub>Last updated: 3 September 2026 at 19:09 UTC</sub>
 <!-- STARS_END -->
 
 ---
