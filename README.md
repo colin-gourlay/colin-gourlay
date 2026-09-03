@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Make the distinction between Listen and Listen Live explicit_ `3 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Replace any remaining stock header branding with the canonical Sundown R_ `3 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Align all favicon assets with the canonical Sundown Radio brand mark_ `3 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Preserve the header information architecture while applying targeted ref_ `3 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Improve the prominence and legibility of the Sundown Radio header logo_ `3 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Remove the obsolete FM option from Step 1 of the Ways to Listen guide_ `3 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Give Listen Live clear visual priority over Donate in the site header_ `3 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Review and reduce the desktop header height_ `3 Sep 2026`
 - 🔨 **Pushed** to [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) `2 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Remove the obsolete FM option from Step 1 of the Ways to Listen guide_ `3 Sep 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Replace the stock header logo with the Sundown Radio logo_ `3 Sep 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `3 Sep 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add missing artwork to the Antics Release page_ `3 Sep 2026`
-- 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 Sep 2026`
-- 🔀 **Closed PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 Sep 2026`
 
-<sub>Last updated: 3 September 2026 at 10:12 UTC</sub>
+<sub>Last updated: 3 September 2026 at 11:10 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 3 September 2026 at 10:12 UTC</sub>
+<sub>Last updated: 3 September 2026 at 11:10 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 54
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,071
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,072
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,311
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,027
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,032
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,857
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 3 September 2026 at 10:12 UTC</sub>
+<sub>Last updated: 3 September 2026 at 11:10 UTC</sub>
 <!-- STARS_END -->
 
 ---
