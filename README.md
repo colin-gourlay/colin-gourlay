@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔀 **Opened PR** in [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) — __ `3 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add missing artwork to the Antics Release page_ `3 Sep 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 Sep 2026`
 - 🔀 **Closed PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 Sep 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) `2 Sep 2026`
 - 🔨 **Pushed** to [`colin-gourlay/todoist-playbook`](https://github.com/colin-gourlay/todoist-playbook) `2 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add missing artwork to the Antics Release page_ `2 Sep 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/qwerty`](https://github.com/colin-gourlay/qwerty) — _Remove the FM Radio Tips panel from the Ways to Listen page_ `2 Sep 2026`
 
-<sub>Last updated: 3 September 2026 at 06:21 UTC</sub>
+<sub>Last updated: 3 September 2026 at 07:13 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,16 +96,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
 - [**qwerty**](https://github.com/colin-gourlay/qwerty)  `TypeScript`
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 3 September 2026 at 06:21 UTC</sub>
+<sub>Last updated: 3 September 2026 at 07:13 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -119,14 +119,14 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,068
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,309
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,010
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,016
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,857
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 3 September 2026 at 06:21 UTC</sub>
+<sub>Last updated: 3 September 2026 at 07:13 UTC</sub>
 <!-- STARS_END -->
 
 ---
