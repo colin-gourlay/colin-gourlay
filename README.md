@@ -78,6 +78,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ## 📡 Recent Activity
 
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Sep 2026`
+- 🌿 **Created branch** `fix/src/926-correct-antics-discogs-link` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Sep 2026`
 - 🌿 **Created branch** `docs/src/576-audit-search-experience` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Sep 2026`
 - 🌿 **Created branch** `docs/repo-add-manual-accessibility-baseline` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Remove duration and release metadata from the Geordie Munro Track page_ `5 Sep 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `fix/src/narrow-search-index` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Narrow the search index to useful visitor destinations_ `5 Sep 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `5 Sep 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix mojibake in Donovan’s “Greatest Hits… and More” release title_ `5 Sep 2026`
 
-<sub>Last updated: 5 September 2026 at 19:08 UTC</sub>
+<sub>Last updated: 5 September 2026 at 20:10 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 5 September 2026 at 19:08 UTC</sub>
+<sub>Last updated: 5 September 2026 at 20:10 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -119,14 +119,14 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,221
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,339
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,195
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,196
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,857
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 5 September 2026 at 19:08 UTC</sub>
+<sub>Last updated: 5 September 2026 at 20:10 UTC</sub>
 <!-- STARS_END -->
 
 ---
