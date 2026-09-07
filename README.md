@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add an Available Now release discovery section to the homepage_ `7 Sep 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `7 Sep 2026`
+- 🌿 **Created branch** `feat/src/814-homepage-available-now` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Remove duration and release metadata from the Geordie Munro Track page_ `7 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Audit and Refresh Artist Biographies_ `7 Sep 2026`
 - 🔀 **Closed PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `31 Mar 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `4 Sep 2026`
 - 🌿 **Created branch** `fix/src/search-show-identity` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `4 Sep 2026`
 - 🌿 **Created branch** `fix/repo-test-canonical-show` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `4 Sep 2026`
-- 🌿 **Created branch** `fix/src/914-remove-track-edition-metadata` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Sep 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Sep 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Sep 2026`
-- 🌿 **Created branch** `fix/src/926-correct-antics-discogs-link` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `3 Sep 2026`
 
-<sub>Last updated: 7 September 2026 at 07:20 UTC</sub>
+<sub>Last updated: 7 September 2026 at 08:19 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,16 +96,16 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
 - [**qwerty**](https://github.com/colin-gourlay/qwerty)  `TypeScript`
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 3
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
 - [**listenarr**](https://github.com/colin-gourlay/listenarr)
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 7 September 2026 at 07:20 UTC</sub>
+<sub>Last updated: 7 September 2026 at 08:19 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 56
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,280
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,284
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 343
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,353
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,275
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,282
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,858
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 7 September 2026 at 07:20 UTC</sub>
+<sub>Last updated: 7 September 2026 at 08:19 UTC</sub>
 <!-- STARS_END -->
 
 ---
