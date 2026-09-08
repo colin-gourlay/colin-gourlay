@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
 - 🌿 **Created branch** `fix/src/remove-geordie-munro-metadata` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create the Fast Cars, Soul Music Track page for The Big Now_ `8 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Make the Accessibility workflow a required pull-request check_ `8 Sep 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `8 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Consolidate duplicate Artist pages for The Vermin Poets_ `8 Sep 2026`
 - 🌿 **Created branch** `fix/src/873-link-run-home-slow-show-1` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Sep 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refine Available Now supporting copy to use more natural editorial wordi_ `7 Sep 2026`
 
-<sub>Last updated: 8 September 2026 at 19:09 UTC</sub>
+<sub>Last updated: 8 September 2026 at 20:11 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 8 September 2026 at 19:09 UTC</sub>
+<sub>Last updated: 8 September 2026 at 20:11 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -120,13 +120,13 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**blampe/hearring-aid**](https://github.com/blampe/hearring-aid) — Hear what your LiDAR is missing  `Dockerfile` ⭐ 497
 - [**blampe/rreading-glasses**](https://github.com/blampe/rreading-glasses) — Corrective lenses for curmudgeonly readars in your life  `Go` ⭐ 1,553
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 56
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,326
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,328
 
 ### 🗺️ Language Interests
 
 `Python` ×6 · `TypeScript` ×4 · `Go` ×3 · `C#` ×3 · `JavaScript` ×2 · `C` ×2 · `Shell` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 8 September 2026 at 19:09 UTC</sub>
+<sub>Last updated: 8 September 2026 at 20:11 UTC</sub>
 <!-- STARS_END -->
 
 ---
