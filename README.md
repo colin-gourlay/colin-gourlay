@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create the Fast Cars, Soul Music Track page for The Big Now_ `8 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Make the Accessibility workflow a required pull-request check_ `8 Sep 2026`
 - 🔀 **Closed PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `3 Apr 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Sep 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `fix/src/873-link-run-home-slow-show-1` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refine Available Now supporting copy to use more natural editorial wordi_ `7 Sep 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `7 Sep 2026`
-- 🌿 **Created branch** `fix/935-donovan-title-mojibake` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Sep 2026`
 
-<sub>Last updated: 8 September 2026 at 15:12 UTC</sub>
+<sub>Last updated: 8 September 2026 at 16:13 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 8 September 2026 at 15:12 UTC</sub>
+<sub>Last updated: 8 September 2026 at 16:13 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
+- [**Lidarr/LidarrAPI.Metadata**](https://github.com/Lidarr/LidarrAPI.Metadata) — This hosts the custom metadata API and resources Lidarr relies on.  `Python` ⭐ 35
+- [**metabrainz/musicbrainz-docker**](https://github.com/metabrainz/musicbrainz-docker) — Docker Compose project for the MusicBrainz Server with replication, search, and   `Shell` ⭐ 550
+- [**blampe/hearring-aid**](https://github.com/blampe/hearring-aid) — Hear what your LiDAR is missing  `Dockerfile` ⭐ 497
 - [**blampe/rreading-glasses**](https://github.com/blampe/rreading-glasses) — Corrective lenses for curmudgeonly readars in your life  `Go` ⭐ 1,553
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 56
 - [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,317
-- [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 344
-- [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,369
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,381
 
 ### 🗺️ Language Interests
 
-`C#` ×5 · `Python` ×5 · `TypeScript` ×4 · `Go` ×3 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
+`Python` ×6 · `TypeScript` ×4 · `Go` ×3 · `C#` ×3 · `JavaScript` ×2 · `C` ×2 · `Shell` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 8 September 2026 at 15:12 UTC</sub>
+<sub>Last updated: 8 September 2026 at 16:13 UTC</sub>
 <!-- STARS_END -->
 
 ---
