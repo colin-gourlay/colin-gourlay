@@ -77,6 +77,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Consolidate duplicate Artist pages for The Vermin Poets_ `8 Sep 2026`
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Sep 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `8 Sep 2026`
 - 🌿 **Created branch** `fix/src/873-link-run-home-slow-show-1` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `8 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refine Available Now supporting copy to use more natural editorial wordi_ `7 Sep 2026`
@@ -85,10 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `5 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct Propaganda track page to show only Sundown Sessions #1_ `7 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Refine Available Now supporting copy to use more natural editorial wordi_ `7 Sep 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
-- 🌿 **Created branch** `fix/src/941-correct-propaganda-show-association` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
 
-<sub>Last updated: 8 September 2026 at 06:20 UTC</sub>
+<sub>Last updated: 8 September 2026 at 07:12 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 8 September 2026 at 06:20 UTC</sub>
+<sub>Last updated: 8 September 2026 at 07:12 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -119,14 +119,14 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,306
 - [**backstage/community**](https://github.com/backstage/community) — All about the Backstage community (Meetups, Sessions etc.)  `JavaScript` ⭐ 344
 - [**backstage/backstage**](https://github.com/backstage/backstage) — Backstage is an open framework for building developer portals  `TypeScript` ⭐ 34,367
-- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,355
+- [**block/buzz**](https://github.com/block/buzz) — A hive mind communication platform  `Rust` ⭐ 32,360
 - [**LuckyPennySoftware/MediatR**](https://github.com/LuckyPennySoftware/MediatR) — Simple, unambitious mediator implementation in .NET  `C#` ⭐ 11,858
 
 ### 🗺️ Language Interests
 
 `C#` ×6 · `Python` ×5 · `TypeScript` ×4 · `Go` ×2 · `JavaScript` ×2 · `C` ×2 · `Rust` ×1 · `Makefile` ×1
 
-<sub>Last updated: 8 September 2026 at 06:20 UTC</sub>
+<sub>Last updated: 8 September 2026 at 07:12 UTC</sub>
 <!-- STARS_END -->
 
 ---
