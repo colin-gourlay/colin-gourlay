@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `8 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Consolidate duplicate Artist pages for The Vermin Poets_ `8 Sep 2026`
 
-<sub>Last updated: 9 September 2026 at 02:16 UTC</sub>
+<sub>Last updated: 9 September 2026 at 03:14 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 9 September 2026 at 02:16 UTC</sub>
+<sub>Last updated: 9 September 2026 at 03:14 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -116,17 +116,17 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 ### 🕐 Recently Starred
 
 - [**Lidarr/LidarrAPI.Metadata**](https://github.com/Lidarr/LidarrAPI.Metadata) — This hosts the custom metadata API and resources Lidarr relies on.  `Python` ⭐ 35
-- [**metabrainz/musicbrainz-docker**](https://github.com/metabrainz/musicbrainz-docker) — Docker Compose project for the MusicBrainz Server with replication, search, and   `Shell` ⭐ 550
+- [**metabrainz/musicbrainz-docker**](https://github.com/metabrainz/musicbrainz-docker) — Docker Compose project for the MusicBrainz Server with replication, search, and   `Shell` ⭐ 551
 - [**blampe/hearring-aid**](https://github.com/blampe/hearring-aid) — Hear what your LiDAR is missing  `Dockerfile` ⭐ 497
-- [**blampe/rreading-glasses**](https://github.com/blampe/rreading-glasses) — Corrective lenses for curmudgeonly readars in your life  `Go` ⭐ 1,553
-- [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 57
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,340
+- [**blampe/rreading-glasses**](https://github.com/blampe/rreading-glasses) — Corrective lenses for curmudgeonly readars in your life  `Go` ⭐ 1,554
+- [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 58
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,341
 
 ### 🗺️ Language Interests
 
 `Python` ×6 · `TypeScript` ×4 · `Go` ×3 · `C#` ×3 · `JavaScript` ×2 · `C` ×2 · `Shell` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 9 September 2026 at 02:16 UTC</sub>
+<sub>Last updated: 9 September 2026 at 03:14 UTC</sub>
 <!-- STARS_END -->
 
 ---
