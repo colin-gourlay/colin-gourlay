@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🌿 **Created branch** `fix/src/remove-geordie-munro-metadata` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Create the Fast Cars, Soul Music Track page for The Big Now_ `8 Sep 2026`
 
-<sub>Last updated: 9 September 2026 at 06:21 UTC</sub>
+<sub>Last updated: 9 September 2026 at 07:13 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 9 September 2026 at 06:21 UTC</sub>
+<sub>Last updated: 9 September 2026 at 07:13 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -120,13 +120,13 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**blampe/hearring-aid**](https://github.com/blampe/hearring-aid) — Hear what your LiDAR is missing  `Dockerfile` ⭐ 497
 - [**blampe/rreading-glasses**](https://github.com/blampe/rreading-glasses) — Corrective lenses for curmudgeonly readars in your life  `Go` ⭐ 1,554
 - [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 58
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,346
+- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,347
 
 ### 🗺️ Language Interests
 
 `Python` ×6 · `TypeScript` ×4 · `Go` ×3 · `C#` ×3 · `JavaScript` ×2 · `C` ×2 · `Shell` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 9 September 2026 at 06:21 UTC</sub>
+<sub>Last updated: 9 September 2026 at 07:13 UTC</sub>
 <!-- STARS_END -->
 
 ---
