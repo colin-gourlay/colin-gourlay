@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
 - 🌿 **Created branch** `fix/src/refine-available-now-copy` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `7 Sep 2026`
 
-<sub>Last updated: 9 September 2026 at 14:11 UTC</sub>
+<sub>Last updated: 9 September 2026 at 15:11 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 9 September 2026 at 14:11 UTC</sub>
+<sub>Last updated: 9 September 2026 at 15:11 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,18 +115,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**Lidarr/LidarrAPI.Metadata**](https://github.com/Lidarr/LidarrAPI.Metadata) — This hosts the custom metadata API and resources Lidarr relies on.  `Python` ⭐ 35
-- [**metabrainz/musicbrainz-docker**](https://github.com/metabrainz/musicbrainz-docker) — Docker Compose project for the MusicBrainz Server with replication, search, and   `Shell` ⭐ 551
-- [**blampe/hearring-aid**](https://github.com/blampe/hearring-aid) — Hear what your LiDAR is missing  `Dockerfile` ⭐ 497
-- [**blampe/rreading-glasses**](https://github.com/blampe/rreading-glasses) — Corrective lenses for curmudgeonly readars in your life  `Go` ⭐ 1,555
-- [**BrighterCommand/Fences**](https://github.com/BrighterCommand/Fences) — Fences is a .NET resilience and transient-fault-handling library that allows dev  `C#` ⭐ 58
-- [**JetBrains/go-modern-guidelines**](https://github.com/JetBrains/go-modern-guidelines) — Help AI coding agents write modern Go  `Go` ⭐ 3,370
+- [**metabrainz/musicbrainz-server**](https://github.com/metabrainz/musicbrainz-server) — Server for the MusicBrainz project (website, API, database tools)  `Perl` ⭐ 1,087
+- [**avatar29A/MusicBrainz**](https://github.com/avatar29A/MusicBrainz) — Implementation MusicBrainz API 2.0 (C#)  `C#` ⭐ 71
+- [**guywhodiesfirst/Cassette**](https://github.com/guywhodiesfirst/Cassette) — Application that allows users to rate and review music albums and organize them   `C#` ⭐ 1
+- [**hamsheed-salamut/musicbrainz-api**](https://github.com/hamsheed-salamut/musicbrainz-api) — Consume API and expose API endpoints  `C#` ⭐ 2
+- [**daveharruk/MusicSearchWeb**](https://github.com/daveharruk/MusicSearchWeb) — MusicSearch example code using MusicBrainz API  `C#` ⭐ 1
+- [**pterodactylus42/MusicBrainzSearcher**](https://github.com/pterodactylus42/MusicBrainzSearcher) — query the music brainz api  `C#` ⭐ 1
 
 ### 🗺️ Language Interests
 
-`Python` ×6 · `TypeScript` ×4 · `Go` ×3 · `C#` ×3 · `JavaScript` ×2 · `C` ×2 · `Shell` ×1 · `Dockerfile` ×1
+`C#` ×8 · `Python` ×4 · `TypeScript` ×4 · `Go` ×2 · `Perl` ×1 · `Shell` ×1 · `Dockerfile` ×1 · `JavaScript` ×1
 
-<sub>Last updated: 9 September 2026 at 14:11 UTC</sub>
+<sub>Last updated: 9 September 2026 at 15:11 UTC</sub>
 <!-- STARS_END -->
 
 ---
