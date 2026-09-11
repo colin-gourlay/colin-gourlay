@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct Porcupine's erroneous Show #4 relationship_ `11 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Correct Porcupine's erroneous Show #4 relationship_ `11 Sep 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `10 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add official website to Echo And The Bunnymen Explore Further_ `10 Sep 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `9 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Surface Social Media Links Across the Sundown Radio Experience_ `10 Sep 2026`
 - 🔀 **Closed PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `14 Aug 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Pin pa11y-ci for reproducible accessibility checks_ `10 Sep 2026`
 
-<sub>Last updated: 11 September 2026 at 09:13 UTC</sub>
+<sub>Last updated: 11 September 2026 at 10:12 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 11 September 2026 at 09:13 UTC</sub>
+<sub>Last updated: 11 September 2026 at 10:12 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×8 · `Python` ×4 · `TypeScript` ×4 · `Go` ×2 · `Perl` ×1 · `Shell` ×1 · `Dockerfile` ×1 · `JavaScript` ×1
 
-<sub>Last updated: 11 September 2026 at 09:13 UTC</sub>
+<sub>Last updated: 11 September 2026 at 10:12 UTC</sub>
 <!-- STARS_END -->
 
 ---
