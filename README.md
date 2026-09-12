@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Surface Social Media Links Across the Sundown Radio Experience_ `10 Sep 2026`
 - 🔀 **Closed PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `14 Aug 2026`
 
-<sub>Last updated: 12 September 2026 at 03:13 UTC</sub>
+<sub>Last updated: 12 September 2026 at 04:13 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 12 September 2026 at 03:13 UTC</sub>
+<sub>Last updated: 12 September 2026 at 04:13 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**metabrainz/musicbrainz-server**](https://github.com/metabrainz/musicbrainz-server) — Server for the MusicBrainz project (website, API, database tools)  `Perl` ⭐ 1,087
+- [**metabrainz/musicbrainz-server**](https://github.com/metabrainz/musicbrainz-server) — Server for the MusicBrainz project (website, API, database tools)  `Perl` ⭐ 1,088
 - [**avatar29A/MusicBrainz**](https://github.com/avatar29A/MusicBrainz) — Implementation MusicBrainz API 2.0 (C#)  `C#` ⭐ 71
 - [**guywhodiesfirst/Cassette**](https://github.com/guywhodiesfirst/Cassette) — Application that allows users to rate and review music albums and organize them   `C#` ⭐ 1
 - [**hamsheed-salamut/musicbrainz-api**](https://github.com/hamsheed-salamut/musicbrainz-api) — Consume API and expose API endpoints  `C#` ⭐ 2
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×8 · `Python` ×4 · `TypeScript` ×4 · `Go` ×2 · `Perl` ×1 · `Shell` ×1 · `Dockerfile` ×1 · `JavaScript` ×1
 
-<sub>Last updated: 12 September 2026 at 03:13 UTC</sub>
+<sub>Last updated: 12 September 2026 at 04:13 UTC</sub>
 <!-- STARS_END -->
 
 ---
