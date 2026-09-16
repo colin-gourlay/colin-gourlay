@@ -77,16 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix IST IST Artist page published-release filtering and archive history_ `16 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve the Franz Ferdinand Artist page_ `16 Sep 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Sep 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Audit HTTP security posture of the Sundown Sessions website_ `16 Sep 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Review and publish sitemap.xml for public site discovery_ `16 Sep 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Review and add robots.txt crawler guidance_ `16 Sep 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add RFC 9116 security.txt vulnerability reporting policy_ `16 Sep 2026`
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve the Franz Ferdinand Artist page_ `16 Sep 2026`
+- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix IST IST Artist page published-release filtering and archive history_ `16 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve the Del Shannon Artist page and published archive coverage_ `16 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix The Teskey Brothers Artist page release relationship for Rain_ `16 Sep 2026`
-- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix IST IST Artist page published-release filtering and archive history_ `16 Sep 2026`
-- 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve the Blue On Shock Artist page biography and discovery links_ `16 Sep 2026`
-- 🌿 **Created branch** `review-873-blue-on-shock` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Sep 2026`
-- 🌿 **Created branch** `review-873-goodbye-mr-mackenzie` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `16 Sep 2026`
 
-<sub>Last updated: 16 September 2026 at 13:11 UTC</sub>
+<sub>Last updated: 16 September 2026 at 14:12 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -103,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 16 September 2026 at 13:11 UTC</sub>
+<sub>Last updated: 16 September 2026 at 14:12 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -124,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×9 · `Python` ×4 · `TypeScript` ×4 · `Go` ×2 · `Perl` ×1 · `Shell` ×1 · `Dockerfile` ×1 · `JavaScript` ×1
 
-<sub>Last updated: 16 September 2026 at 13:11 UTC</sub>
+<sub>Last updated: 16 September 2026 at 14:12 UTC</sub>
 <!-- STARS_END -->
 
 ---
