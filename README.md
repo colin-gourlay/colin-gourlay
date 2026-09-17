@@ -77,18 +77,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `17 Sep 2026`
 - 🌿 **Created branch** `fix/1017-roachford-explore-further` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `17 Sep 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `17 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve the Roachford Artist page Explore Further discovery_ `17 Sep 2026`
 - 🌿 **Created branch** `feat/src/security-reporting-policy` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `17 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete The Big Now Artist page relationships and discovery_ `17 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete The Big Now Artist page relationships and discovery_ `17 Sep 2026`
-- 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `17 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Add RFC 9116 security.txt vulnerability reporting policy_ `17 Sep 2026`
 - 🌿 **Created branch** `fix/issue-997-del-shannon-archive-coverage` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `17 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Improve the David Latto Artist page Explore Further discovery_ `17 Sep 2026`
 
-<sub>Last updated: 17 September 2026 at 12:18 UTC</sub>
+<sub>Last updated: 17 September 2026 at 13:11 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 17 September 2026 at 12:18 UTC</sub>
+<sub>Last updated: 17 September 2026 at 13:11 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×9 · `Python` ×4 · `TypeScript` ×4 · `Go` ×2 · `Perl` ×1 · `Shell` ×1 · `Dockerfile` ×1 · `JavaScript` ×1
 
-<sub>Last updated: 17 September 2026 at 12:18 UTC</sub>
+<sub>Last updated: 17 September 2026 at 13:11 UTC</sub>
 <!-- STARS_END -->
 
 ---
