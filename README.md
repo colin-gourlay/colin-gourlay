@@ -88,7 +88,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete The Vermin Poets Artist-page track relationship and discovery_ `27 Sep 2026`
 - 🌿 **Created branch** `fix/src/vintage-explosion-artist` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `25 Sep 2026`
 
-<sub>Last updated: 12 October 2026 at 08:31 UTC</sub>
+<sub>Last updated: 12 October 2026 at 09:26 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 12 October 2026 at 08:31 UTC</sub>
+<sub>Last updated: 12 October 2026 at 09:26 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 27,819
+- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 27,820
 - [**cncf/velocity**](https://github.com/cncf/velocity) — 🚅Track development velocity  `Shell` ⭐ 226
 - [**obsidianmd/obsidian-help**](https://github.com/obsidianmd/obsidian-help) — Help documentation for Obsidian.  `JavaScript` ⭐ 1,933
 - [**avantadore/PolymorphRestApi**](https://github.com/avantadore/PolymorphRestApi) — Demonstrating how to build an Api with Polymorph classes  `C#` ⭐ 1
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×9 · `Python` ×4 · `TypeScript` ×4 · `Go` ×3 · `Shell` ×2 · `JavaScript` ×2 · `Perl` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 12 October 2026 at 08:31 UTC</sub>
+<sub>Last updated: 12 October 2026 at 09:26 UTC</sub>
 <!-- STARS_END -->
 
 ---
