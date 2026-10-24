@@ -77,6 +77,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- ACTIVITY_START -->
 ## 📡 Recent Activity
 
+- 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Fix The Filthy Tongues Artist-page Explore Further and three-show track _ `24 Oct 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Artist page review — Show #1: Featuring The Big Now_ `27 Sep 2026`
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `27 Sep 2026`
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete Nick Cave & The Bad Seeds Artist-page track history and discove_ `27 Sep 2026`
@@ -86,9 +87,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete The Vermin Poets Artist-page track relationship and discovery_ `27 Sep 2026`
 - 🌿 **Created branch** `fix/src/vermin-poets-track-discovery` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `27 Sep 2026`
 - 🐛 **Opened issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Complete The Vermin Poets Artist-page track relationship and discovery_ `27 Sep 2026`
-- 🌿 **Created branch** `fix/src/vintage-explosion-artist` in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `25 Sep 2026`
 
-<sub>Last updated: 24 October 2026 at 14:09 UTC</sub>
+<sub>Last updated: 24 October 2026 at 15:09 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,8 +96,8 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 <!-- REPOS_START -->
 ## 🗂️ Repositories
 
-- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 4
 - [**sundown-sessions**](https://github.com/colin-gourlay/sundown-sessions) — Automated radio show platform combining a Hugo site with a custom .NET pipeline for music ingestion, metadata enrichment, and continuous publishing.  `C#` ⭐ 1
+- [**todoist-playbook**](https://github.com/colin-gourlay/todoist-playbook) — A Todoist productivity playbook with reusable templates, weekly review systems, and automation-ready workflows for power users.  `Python` ⭐ 4
 - [**qwerty**](https://github.com/colin-gourlay/qwerty)  `TypeScript`
 - [**art-school-dance**](https://github.com/colin-gourlay/art-school-dance)  `HTML` ⭐ 1
 - [**github-copilot**](https://github.com/colin-gourlay/github-copilot)
@@ -105,7 +105,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 24 October 2026 at 14:09 UTC</sub>
+<sub>Last updated: 24 October 2026 at 15:09 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -115,7 +115,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 28,167
+- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 28,169
 - [**cncf/velocity**](https://github.com/cncf/velocity) — 🚅Track development velocity  `Shell` ⭐ 226
 - [**obsidianmd/obsidian-help**](https://github.com/obsidianmd/obsidian-help) — Help documentation for Obsidian.  `JavaScript` ⭐ 1,946
 - [**avantadore/PolymorphRestApi**](https://github.com/avantadore/PolymorphRestApi) — Demonstrating how to build an Api with Polymorph classes  `C#` ⭐ 1
@@ -126,7 +126,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×9 · `Python` ×4 · `TypeScript` ×4 · `Go` ×3 · `Shell` ×2 · `JavaScript` ×2 · `Perl` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 24 October 2026 at 14:09 UTC</sub>
+<sub>Last updated: 24 October 2026 at 15:09 UTC</sub>
 <!-- STARS_END -->
 
 ---
