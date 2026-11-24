@@ -79,7 +79,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 - 🔨 **Pushed** to [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) `24 Oct 2026`
 
-<sub>Last updated: 24 November 2026 at 10:07 UTC</sub>
+<sub>Last updated: 24 November 2026 at 11:07 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,7 +96,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 24 November 2026 at 10:07 UTC</sub>
+<sub>Last updated: 24 November 2026 at 11:07 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -106,18 +106,18 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 28,984
+- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 28,987
 - [**cncf/velocity**](https://github.com/cncf/velocity) — 🚅Track development velocity  `Shell` ⭐ 226
 - [**obsidianmd/obsidian-help**](https://github.com/obsidianmd/obsidian-help) — Help documentation for Obsidian.  `JavaScript` ⭐ 2,018
 - [**avantadore/PolymorphRestApi**](https://github.com/avantadore/PolymorphRestApi) — Demonstrating how to build an Api with Polymorph classes  `C#` ⭐ 1
-- [**metabrainz/musicbrainz-server**](https://github.com/metabrainz/musicbrainz-server) — Server for the MusicBrainz project (website, API, database tools)  `Perl` ⭐ 1,116
+- [**metabrainz/musicbrainz-server**](https://github.com/metabrainz/musicbrainz-server) — Server for the MusicBrainz project (website, API, database tools)  `Perl` ⭐ 1,117
 - [**avatar29A/MusicBrainz**](https://github.com/avatar29A/MusicBrainz) — Implementation MusicBrainz API 2.0 (C#)  `C#` ⭐ 71
 
 ### 🗺️ Language Interests
 
 `C#` ×9 · `Python` ×5 · `TypeScript` ×4 · `Go` ×3 · `Shell` ×2 · `JavaScript` ×2 · `Perl` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 24 November 2026 at 10:07 UTC</sub>
+<sub>Last updated: 24 November 2026 at 11:07 UTC</sub>
 <!-- STARS_END -->
 
 ---
