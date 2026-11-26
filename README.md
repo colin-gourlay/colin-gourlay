@@ -79,7 +79,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 _No recent public activity found._
 
-<sub>Last updated: 26 November 2026 at 21:06 UTC</sub>
+<sub>Last updated: 26 November 2026 at 22:07 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -96,7 +96,7 @@ _No recent public activity found._
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 26 November 2026 at 21:06 UTC</sub>
+<sub>Last updated: 26 November 2026 at 22:07 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -106,7 +106,7 @@ _No recent public activity found._
 
 ### 🕐 Recently Starred
 
-- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 29,119
+- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 29,126
 - [**cncf/velocity**](https://github.com/cncf/velocity) — 🚅Track development velocity  `Shell` ⭐ 226
 - [**obsidianmd/obsidian-help**](https://github.com/obsidianmd/obsidian-help) — Help documentation for Obsidian.  `JavaScript` ⭐ 2,053
 - [**avantadore/PolymorphRestApi**](https://github.com/avantadore/PolymorphRestApi) — Demonstrating how to build an Api with Polymorph classes  `C#` ⭐ 1
@@ -117,7 +117,7 @@ _No recent public activity found._
 
 `C#` ×9 · `Python` ×5 · `TypeScript` ×4 · `Go` ×3 · `Shell` ×2 · `JavaScript` ×2 · `Perl` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 26 November 2026 at 21:06 UTC</sub>
+<sub>Last updated: 26 November 2026 at 22:07 UTC</sub>
 <!-- STARS_END -->
 
 ---
