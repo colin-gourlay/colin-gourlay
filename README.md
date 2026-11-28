@@ -80,7 +80,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Audit HTTP security posture of the Sundown Sessions website_ `27 Nov 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `27 Nov 2026`
 
-<sub>Last updated: 28 November 2026 at 01:07 UTC</sub>
+<sub>Last updated: 28 November 2026 at 02:10 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -97,7 +97,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 28 November 2026 at 01:07 UTC</sub>
+<sub>Last updated: 28 November 2026 at 02:10 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -118,7 +118,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×9 · `Python` ×5 · `TypeScript` ×4 · `Go` ×3 · `Shell` ×2 · `JavaScript` ×2 · `Perl` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 28 November 2026 at 01:07 UTC</sub>
+<sub>Last updated: 28 November 2026 at 02:10 UTC</sub>
 <!-- STARS_END -->
 
 ---
