@@ -80,7 +80,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - 🐛 **Closed issue** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — _Audit HTTP security posture of the Sundown Sessions website_ `27 Nov 2026`
 - 🔀 **Opened PR** in [`colin-gourlay/sundown-sessions`](https://github.com/colin-gourlay/sundown-sessions) — __ `27 Nov 2026`
 
-<sub>Last updated: 28 November 2026 at 17:06 UTC</sub>
+<sub>Last updated: 28 November 2026 at 18:08 UTC</sub>
 <!-- ACTIVITY_END -->
 
 ---
@@ -97,7 +97,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 - [**github-actions**](https://github.com/colin-gourlay/github-actions)
 - [**foam2**](https://github.com/colin-gourlay/foam2)  `SCSS`
 
-<sub>Last updated: 28 November 2026 at 17:06 UTC</sub>
+<sub>Last updated: 28 November 2026 at 18:08 UTC</sub>
 <!-- REPOS_END -->
 
 ---
@@ -107,7 +107,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 ### 🕐 Recently Starred
 
-- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 29,194
+- [**gastownhall/beads**](https://github.com/gastownhall/beads) — Beads - A memory upgrade for your coding agent  `Go` ⭐ 29,193
 - [**cncf/velocity**](https://github.com/cncf/velocity) — 🚅Track development velocity  `Shell` ⭐ 226
 - [**obsidianmd/obsidian-help**](https://github.com/obsidianmd/obsidian-help) — Help documentation for Obsidian.  `JavaScript` ⭐ 2,085
 - [**avantadore/PolymorphRestApi**](https://github.com/avantadore/PolymorphRestApi) — Demonstrating how to build an Api with Polymorph classes  `C#` ⭐ 1
@@ -118,7 +118,7 @@ A structured, opinionated productivity system: reusable Todoist templates, weekl
 
 `C#` ×9 · `Python` ×5 · `TypeScript` ×4 · `Go` ×3 · `Shell` ×2 · `JavaScript` ×2 · `Perl` ×1 · `Dockerfile` ×1
 
-<sub>Last updated: 28 November 2026 at 17:06 UTC</sub>
+<sub>Last updated: 28 November 2026 at 18:08 UTC</sub>
 <!-- STARS_END -->
 
 ---
